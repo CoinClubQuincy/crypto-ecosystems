@@ -62,6 +62,9 @@ url = "https://github.com/CoinClubQuincy/XDC-Community.github.io"
 url = "https://github.com/CoinClubQuincy/XDC-LemonadeStand"
 
 [[repo]]
+url = "https://github.com/CoinClubQuincy/Non-Financial-SmartContracts"
+
+[[repo]]
 url = "https://github.com/CoinClubQuincy/xdc-pay-xdcpay"
 
 [[repo]]
