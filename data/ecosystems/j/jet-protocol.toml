@@ -37,6 +37,9 @@ url = "https://github.com/jet-lab/dockerfiles"
 url = "https://github.com/jet-lab/e2e-react-adapter"
 
 [[repo]]
+url = "https://github.com/jet-lab/gethostname.rs"
+
+[[repo]]
 url = "https://github.com/jet-lab/governance-ui"
 
 [[repo]]
@@ -83,6 +86,7 @@ url = "https://github.com/jet-lab/multisig"
 
 [[repo]]
 url = "https://github.com/jet-lab/multisig-ui"
+missing = true
 
 [[repo]]
 url = "https://github.com/jet-lab/optimorph"
@@ -94,10 +98,16 @@ url = "https://github.com/jet-lab/program-libraries"
 url = "https://github.com/jet-lab/raydium-contract-instructions"
 
 [[repo]]
+url = "https://github.com/jet-lab/rs-soroban-client"
+
+[[repo]]
 url = "https://github.com/jet-lab/solana"
 
 [[repo]]
 url = "https://github.com/jet-lab/solana-program-library"
+
+[[repo]]
+url = "https://github.com/jet-lab/soroban-dex"
 
 [[repo]]
 url = "https://github.com/jet-lab/stable-swap"

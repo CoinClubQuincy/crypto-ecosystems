@@ -40,6 +40,9 @@ url = "https://github.com/orbitdb/example-orbitdb-webpack"
 url = "https://github.com/orbitdb/field-manual"
 
 [[repo]]
+url = "https://github.com/orbitdb/funding"
+
+[[repo]]
 url = "https://github.com/orbitdb/go-orbit-db"
 
 [[repo]]
@@ -65,6 +68,7 @@ url = "https://github.com/orbitdb/logo"
 
 [[repo]]
 url = "https://github.com/orbitdb/multicodec"
+missing = true
 
 [[repo]]
 url = "https://github.com/orbitdb/opentelemetry-plugin-orbitdb"
@@ -98,6 +102,7 @@ url = "https://github.com/orbitdb/orbit-db-cli"
 
 [[repo]]
 url = "https://github.com/orbitdb/orbit-db-cli-1"
+missing = true
 
 [[repo]]
 url = "https://github.com/orbitdb/orbit-db-community-stats"
@@ -125,6 +130,12 @@ url = "https://github.com/orbitdb/orbit-db-http-api-bash-client"
 
 [[repo]]
 url = "https://github.com/orbitdb/orbit-db-identity-provider"
+
+[[repo]]
+url = "https://github.com/orbitdb/orbit-db-identity-provider-did"
+
+[[repo]]
+url = "https://github.com/orbitdb/orbit-db-identity-provider-ethereum"
 
 [[repo]]
 url = "https://github.com/orbitdb/orbit-db-io"
@@ -172,10 +183,23 @@ url = "https://github.com/orbitdb/orbit-textui"
 url = "https://github.com/orbitdb/orbit-web"
 
 [[repo]]
+url = "https://github.com/orbitdb/orbitdb"
+
+[[repo]]
+url = "https://github.com/orbitdb/orbitdb-examples"
+
+[[repo]]
+url = "https://github.com/orbitdb/orbitdb-identity-provider-did"
+
+[[repo]]
+url = "https://github.com/orbitdb/orbitdb-identity-provider-ethereum"
+
+[[repo]]
 url = "https://github.com/orbitdb/orbitdb-orbit-crypto"
 
 [[repo]]
 url = "https://github.com/orbitdb/orbitdb-test-utils"
+missing = true
 
 [[repo]]
 url = "https://github.com/orbitdb/orbitdb.org"

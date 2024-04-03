@@ -95,6 +95,7 @@ url = "https://github.com/brandonsurh/event-app"
 
 [[repo]]
 url = "https://github.com/Braqzen/tmp_timestamp"
+missing = true
 
 [[repo]]
 url = "https://github.com/BrunoEleodoro/ethsamba-hack-contracts"
@@ -104,6 +105,9 @@ url = "https://github.com/cagrigit-hub/sway-first-practice"
 
 [[repo]]
 url = "https://github.com/calldelegation/sway-by-example-lib"
+
+[[repo]]
+url = "https://github.com/camden-smallwood/sway-analyzer"
 
 [[repo]]
 url = "https://github.com/camiinthisthang/fuel_guestbook"
@@ -139,6 +143,9 @@ url = "https://github.com/chuhemiao/fuel-sway"
 url = "https://github.com/compolabs/spark"
 
 [[repo]]
+url = "https://github.com/compolabs/spark-rs"
+
+[[repo]]
 url = "https://github.com/ControlCplusControlV/Sushi-Sway"
 
 [[repo]]
@@ -146,6 +153,9 @@ url = "https://github.com/cuddleofdeath/fuel-counterapp"
 
 [[repo]]
 url = "https://github.com/DuhCompuder/BarterFi"
+
+[[repo]]
+url = "https://github.com/edakturk14/fuel-dapp-template"
 
 [[repo]]
 url = "https://github.com/edakturk14/fuel-quickstart-dapp"
@@ -196,6 +206,9 @@ url = "https://github.com/Fuelet/fuels-dart"
 url = "https://github.com/FuelLabs/.github"
 
 [[repo]]
+url = "https://github.com/FuelLabs/account-notifier"
+
+[[repo]]
 url = "https://github.com/FuelLabs/action-forc"
 
 [[repo]]
@@ -205,6 +218,9 @@ url = "https://github.com/FuelLabs/action-fuel-toolchain"
 url = "https://github.com/FuelLabs/applications-on-fuel"
 
 [[repo]]
+url = "https://github.com/FuelLabs/authn-sign"
+
+[[repo]]
 url = "https://github.com/FuelLabs/awesome-fuel"
 
 [[repo]]
@@ -212,9 +228,13 @@ url = "https://github.com/FuelLabs/beta2-quickstart"
 
 [[repo]]
 url = "https://github.com/FuelLabs/block-explorer-backend"
+missing = true
 
 [[repo]]
 url = "https://github.com/FuelLabs/block-explorer-v2"
+
+[[repo]]
+url = "https://github.com/FuelLabs/breaking-change-log"
 
 [[repo]]
 url = "https://github.com/FuelLabs/bridge-fungible-token"
@@ -239,6 +259,10 @@ url = "https://github.com/FuelLabs/ci-dummy-test"
 
 [[repo]]
 url = "https://github.com/FuelLabs/crate-reservations"
+missing = true
+
+[[repo]]
+url = "https://github.com/FuelLabs/create-fuels-templates"
 
 [[repo]]
 url = "https://github.com/FuelLabs/demo-block-explorer"
@@ -248,6 +272,7 @@ url = "https://github.com/FuelLabs/devcontainer-features"
 
 [[repo]]
 url = "https://github.com/FuelLabs/developer-portal"
+missing = true
 
 [[repo]]
 url = "https://github.com/FuelLabs/developer-quickstart"
@@ -277,6 +302,9 @@ url = "https://github.com/FuelLabs/ETHDubai-2022-Workshop"
 url = "https://github.com/FuelLabs/etk"
 
 [[repo]]
+url = "https://github.com/FuelLabs/EVM-Wallet-Connector"
+
+[[repo]]
 url = "https://github.com/FuelLabs/faucet"
 
 [[repo]]
@@ -289,6 +317,9 @@ url = "https://github.com/FuelLabs/forc-explorer"
 url = "https://github.com/FuelLabs/forc-wallet"
 
 [[repo]]
+url = "https://github.com/FuelLabs/forum-notifier"
+
+[[repo]]
 url = "https://github.com/FuelLabs/fuel-abi-types"
 
 [[repo]]
@@ -299,6 +330,12 @@ url = "https://github.com/FuelLabs/fuel-assets"
 
 [[repo]]
 url = "https://github.com/FuelLabs/fuel-bft"
+
+[[repo]]
+url = "https://github.com/FuelLabs/fuel-block-committer"
+
+[[repo]]
+url = "https://github.com/FuelLabs/fuel-bridge"
 
 [[repo]]
 url = "https://github.com/FuelLabs/fuel-burner-plugin"
@@ -353,6 +390,7 @@ url = "https://github.com/FuelLabs/fuel-js"
 
 [[repo]]
 url = "https://github.com/FuelLabs/fuel-low-level"
+missing = true
 
 [[repo]]
 url = "https://github.com/FuelLabs/fuel-merkle"
@@ -397,6 +435,9 @@ url = "https://github.com/FuelLabs/fuel-wasm-examples"
 url = "https://github.com/FuelLabs/fuel.nix"
 
 [[repo]]
+url = "https://github.com/FuelLabs/fuels-npm-packs"
+
+[[repo]]
 url = "https://github.com/FuelLabs/fuels-portal"
 
 [[repo]]
@@ -427,16 +468,25 @@ url = "https://github.com/FuelLabs/hacker-starter-kit"
 url = "https://github.com/FuelLabs/infrastructure"
 
 [[repo]]
+url = "https://github.com/FuelLabs/intro-to-sway"
+
+[[repo]]
 url = "https://github.com/FuelLabs/learnsway-marketplace"
 
 [[repo]]
 url = "https://github.com/FuelLabs/learnsway-web3rsvp"
 
 [[repo]]
+url = "https://github.com/FuelLabs/Pyth-integration"
+
+[[repo]]
 url = "https://github.com/FuelLabs/quickstart"
 
 [[repo]]
 url = "https://github.com/FuelLabs/reddit-cash"
+
+[[repo]]
+url = "https://github.com/FuelLabs/releasy"
 
 [[repo]]
 url = "https://github.com/FuelLabs/rfcs"
@@ -475,6 +525,9 @@ url = "https://github.com/FuelLabs/sway-libs"
 url = "https://github.com/FuelLabs/sway-nightly-binaries"
 
 [[repo]]
+url = "https://github.com/FuelLabs/sway-performance-dashboard"
+
+[[repo]]
 url = "https://github.com/FuelLabs/sway-performance-data"
 
 [[repo]]
@@ -487,6 +540,9 @@ url = "https://github.com/FuelLabs/sway-rfcs"
 url = "https://github.com/FuelLabs/sway-standards"
 
 [[repo]]
+url = "https://github.com/FuelLabs/sway-std"
+
+[[repo]]
 url = "https://github.com/FuelLabs/sway-test-rs"
 
 [[repo]]
@@ -494,6 +550,9 @@ url = "https://github.com/FuelLabs/sway-vs-solidity"
 
 [[repo]]
 url = "https://github.com/FuelLabs/sway-vscode-plugin"
+
+[[repo]]
+url = "https://github.com/FuelLabs/sway-workshops"
 
 [[repo]]
 url = "https://github.com/FuelLabs/sway.vim"
@@ -506,6 +565,9 @@ url = "https://github.com/FuelLabs/tree-sitter-sway"
 
 [[repo]]
 url = "https://github.com/FuelLabs/typedoc-just-the-docs-theme"
+
+[[repo]]
+url = "https://github.com/FuelLabs/version-control"
 
 [[repo]]
 url = "https://github.com/FuelLabs/yulp"
@@ -532,9 +594,6 @@ url = "https://github.com/himanshudevrani96/fuel-testing-marketplace"
 url = "https://github.com/hyperlane-xyz/fuel-contracts"
 
 [[repo]]
-url = "https://github.com/hyperlane-xyz/hyperlane-monorepo"
-
-[[repo]]
 url = "https://github.com/jobez/hey-sway"
 
 [[repo]]
@@ -542,6 +601,9 @@ url = "https://github.com/joerlop/rsvpApp"
 
 [[repo]]
 url = "https://github.com/jtriley-eth/sway-research"
+
+[[repo]]
+url = "https://github.com/kamalbuilds/Cross-chain"
 
 [[repo]]
 url = "https://github.com/kunal171/Sway_counterDapp"
@@ -560,6 +622,7 @@ url = "https://github.com/mauricewbr/nuclear_swap"
 
 [[repo]]
 url = "https://github.com/mauricewbr/sway_book"
+missing = true
 
 [[repo]]
 url = "https://github.com/mdipanjan/sway-developer-quickstart"
@@ -572,6 +635,7 @@ url = "https://github.com/meliksahgurtemel/erc721-fuel"
 
 [[repo]]
 url = "https://github.com/microchain-sys/swap-contracts"
+missing = true
 
 [[repo]]
 url = "https://github.com/mohammadfawaz/storage_in_libraries"
@@ -611,6 +675,7 @@ url = "https://github.com/rapidshaurya/fuel"
 
 [[repo]]
 url = "https://github.com/recizk/multisig-predicate"
+missing = true
 
 [[repo]]
 url = "https://github.com/rsproule/fuelkick"
@@ -620,27 +685,34 @@ url = "https://github.com/seetadev/L2-Transport-DAO"
 
 [[repo]]
 url = "https://github.com/segfault-magnet/bug_with_nested_types"
+missing = true
 
 [[repo]]
 url = "https://github.com/segfault-magnet/example_of_enum_right_padding"
+missing = true
 
 [[repo]]
 url = "https://github.com/segfault-magnet/spent_coins_question"
 
 [[repo]]
 url = "https://github.com/segfault-magnet/string_bug"
+missing = true
 
 [[repo]]
 url = "https://github.com/segfault-magnet/sway_encoding_bug"
+missing = true
 
 [[repo]]
 url = "https://github.com/segfault-magnet/tx-maturity-minimal-example"
+missing = true
 
 [[repo]]
 url = "https://github.com/simonr0204/sway-apps-tictactoe"
+missing = true
 
 [[repo]]
 url = "https://github.com/simonr0204/sway-flashloan"
+missing = true
 
 [[repo]]
 url = "https://github.com/simonshampoo/fuel-example-dapp"

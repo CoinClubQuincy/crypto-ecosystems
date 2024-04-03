@@ -11,6 +11,7 @@ url = "https://github.com/dex-guru/assets"
 
 [[repo]]
 url = "https://github.com/dex-guru/block-explorer"
+missing = true
 
 [[repo]]
 url = "https://github.com/dex-guru/burning-tokens-list"
@@ -37,7 +38,16 @@ url = "https://github.com/dex-guru/dg-sdk-node"
 url = "https://github.com/dex-guru/dg-sdk-python"
 
 [[repo]]
+url = "https://github.com/dex-guru/dg-warehouse-sdk"
+
+[[repo]]
 url = "https://github.com/dex-guru/docs"
+
+[[repo]]
+url = "https://github.com/dex-guru/examples"
+
+[[repo]]
+url = "https://github.com/dex-guru/examples-dexguru-api"
 
 [[repo]]
 url = "https://github.com/dex-guru/meta-aggregation-api"

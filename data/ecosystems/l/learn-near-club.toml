@@ -95,6 +95,7 @@ url = "https://github.com/Learn-NEAR-Club/lnc-n-comments"
 
 [[repo]]
 url = "https://github.com/Learn-NEAR-Club/LNC-NEAR-watcher"
+missing = true
 
 [[repo]]
 url = "https://github.com/Learn-NEAR-Club/lottery"
@@ -110,6 +111,12 @@ url = "https://github.com/Learn-NEAR-Club/my-copyright"
 
 [[repo]]
 url = "https://github.com/Learn-NEAR-Club/my-nifty-collection"
+
+[[repo]]
+url = "https://github.com/Learn-NEAR-Club/ncaptcha-contact7-addon"
+
+[[repo]]
+url = "https://github.com/Learn-NEAR-Club/ncaptcha-gravity-addon"
 
 [[repo]]
 url = "https://github.com/Learn-NEAR-Club/nCaptchaExample"
@@ -308,6 +315,9 @@ url = "https://github.com/Learn-NEAR-Club/smart-tip-v2"
 
 [[repo]]
 url = "https://github.com/Learn-NEAR-Club/superise-ui"
+
+[[repo]]
+url = "https://github.com/Learn-NEAR-Club/the-cyber-caffe"
 
 [[repo]]
 url = "https://github.com/Learn-NEAR-Club/tic-tac-toe-contract"

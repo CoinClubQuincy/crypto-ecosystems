@@ -31,10 +31,22 @@ url = "https://github.com/BlockchainCommons/bc-crypto-base"
 url = "https://github.com/BlockchainCommons/bc-crypto-rust"
 
 [[repo]]
+url = "https://github.com/BlockchainCommons/bc-dcbor-cli"
+
+[[repo]]
 url = "https://github.com/BlockchainCommons/bc-dcbor-rust"
 
 [[repo]]
 url = "https://github.com/BlockchainCommons/bc-dcbor-ts"
+
+[[repo]]
+url = "https://github.com/BlockchainCommons/bc-depo-api-rust"
+
+[[repo]]
+url = "https://github.com/BlockchainCommons/bc-depo-rust"
+
+[[repo]]
+url = "https://github.com/BlockchainCommons/bc-envelope-cli-rust"
 
 [[repo]]
 url = "https://github.com/BlockchainCommons/bc-envelope-python"
@@ -59,6 +71,9 @@ url = "https://github.com/BlockchainCommons/bc-lifehash"
 
 [[repo]]
 url = "https://github.com/BlockchainCommons/bc-lifehash-python"
+
+[[repo]]
+url = "https://github.com/BlockchainCommons/bc-rand-rust"
 
 [[repo]]
 url = "https://github.com/BlockchainCommons/bc-shamir"
@@ -98,6 +113,9 @@ url = "https://github.com/BlockchainCommons/BCLibsSwift"
 
 [[repo]]
 url = "https://github.com/BlockchainCommons/BCLibwallySwift"
+
+[[repo]]
+url = "https://github.com/BlockchainCommons/bcps"
 
 [[repo]]
 url = "https://github.com/BlockchainCommons/BCSwiftApp"
@@ -173,6 +191,9 @@ url = "https://github.com/BlockchainCommons/debian-ppa"
 
 [[repo]]
 url = "https://github.com/BlockchainCommons/deployment-scripts"
+
+[[repo]]
+url = "https://github.com/BlockchainCommons/developer-web-site"
 
 [[repo]]
 url = "https://github.com/BlockchainCommons/did-method-onion"
@@ -313,6 +334,9 @@ url = "https://github.com/BlockchainCommons/siliconsalon.info"
 url = "https://github.com/BlockchainCommons/SmartCustody"
 
 [[repo]]
+url = "https://github.com/BlockchainCommons/smartcustody-web"
+
+[[repo]]
 url = "https://github.com/BlockchainCommons/SmartCustodyBook"
 
 [[repo]]
@@ -368,6 +392,9 @@ url = "https://github.com/BlockchainCommons/WIPs-IETF-draft-deterministic-cbor"
 
 [[repo]]
 url = "https://github.com/BlockchainCommons/WIPs-IETF-draft-envelope"
+
+[[repo]]
+url = "https://github.com/BlockchainCommons/WIPs-IETF-draft-hashed-elision"
 
 [[repo]]
 url = "https://github.com/BlockchainCommons/www.blockchaincommons.com"

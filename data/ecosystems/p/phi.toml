@@ -8,9 +8,11 @@ github_organizations = ["https://github.com/PHI-LABS-INC"]
 # Repositories
 [[repo]]
 url = "https://github.com/PHI-LABS-INC/DailyMaterial"
+missing = true
 
 [[repo]]
 url = "https://github.com/PHI-LABS-INC/DailyQuest"
+missing = true
 
 [[repo]]
 url = "https://github.com/PHI-LABS-INC/dune-projects"
@@ -37,4 +39,13 @@ url = "https://github.com/PHI-LABS-INC/philand-graph"
 url = "https://github.com/PHI-LABS-INC/philand-lib"
 
 [[repo]]
+url = "https://github.com/PHI-LABS-INC/PHIMaterial"
+
+[[repo]]
 url = "https://github.com/PHI-LABS-INC/Polygon-phi-contract"
+
+[[repo]]
+url = "https://github.com/PHI-LABS-INC/wawa-artwork"
+
+[[repo]]
+url = "https://github.com/PHI-LABS-INC/Wawa-contract"

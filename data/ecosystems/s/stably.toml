@@ -10,6 +10,9 @@ github_organizations = ["https://github.com/stablyio"]
 url = "https://github.com/stablyio/b32"
 
 [[repo]]
+url = "https://github.com/stablyio/blockapps-rest"
+
+[[repo]]
 url = "https://github.com/stablyio/chia-blockchain"
 
 [[repo]]
@@ -17,6 +20,9 @@ url = "https://github.com/stablyio/chia-bls-go"
 
 [[repo]]
 url = "https://github.com/stablyio/contract-metadata"
+
+[[repo]]
+url = "https://github.com/stablyio/coreum-service-snapshot"
 
 [[repo]]
 url = "https://github.com/stablyio/cross-window-messaging-example"
@@ -28,7 +34,13 @@ url = "https://github.com/stablyio/digitalbits-go-sdk"
 url = "https://github.com/stablyio/etoken-libra"
 
 [[repo]]
+url = "https://github.com/stablyio/evm-token-contracts"
+
+[[repo]]
 url = "https://github.com/stablyio/go-ethereum"
+
+[[repo]]
+url = "https://github.com/stablyio/go-ethereum-hdwallet"
 
 [[repo]]
 url = "https://github.com/stablyio/go-sdk"
@@ -44,6 +56,9 @@ url = "https://github.com/stablyio/multicoin-address-validator"
 
 [[repo]]
 url = "https://github.com/stablyio/plaid-go"
+
+[[repo]]
+url = "https://github.com/stablyio/precommit-golang"
 
 [[repo]]
 url = "https://github.com/stablyio/qusd-qtum"

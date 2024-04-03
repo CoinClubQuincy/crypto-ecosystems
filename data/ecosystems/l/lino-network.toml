@@ -10,6 +10,9 @@ github_organizations = ["https://github.com/lino-network"]
 url = "https://github.com/lino-network/cosmos-sdk"
 
 [[repo]]
+url = "https://github.com/lino-network/dlive.github.io"
+
+[[repo]]
 url = "https://github.com/lino-network/DliveTools"
 
 [[repo]]
@@ -50,6 +53,7 @@ url = "https://github.com/lino-network/gortmp_z"
 
 [[repo]]
 url = "https://github.com/lino-network/hls.js"
+missing = true
 
 [[repo]]
 url = "https://github.com/lino-network/lino"
@@ -92,6 +96,9 @@ url = "https://github.com/lino-network/tendermint"
 
 [[repo]]
 url = "https://github.com/lino-network/testnets"
+
+[[repo]]
+url = "https://github.com/lino-network/twofactor"
 
 [[repo]]
 url = "https://github.com/lino-network/vue-apollo"

@@ -7,6 +7,9 @@ github_organizations = ["https://github.com/Aut-Labs"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/Aut-Labs/ARA"
+
+[[repo]]
 url = "https://github.com/Aut-Labs/aut-coming-soon"
 
 [[repo]]
@@ -26,6 +29,9 @@ url = "https://github.com/Aut-Labs/aut-leaderboard"
 
 [[repo]]
 url = "https://github.com/Aut-Labs/Aut-on-NEAR"
+
+[[repo]]
+url = "https://github.com/Aut-Labs/aut-sigil-generator"
 
 [[repo]]
 url = "https://github.com/Aut-Labs/contracts"

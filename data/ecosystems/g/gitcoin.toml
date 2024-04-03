@@ -10,6 +10,9 @@ github_organizations = ["https://github.com/gitcoinco"]
 url = "https://github.com/gitcoinco/.github"
 
 [[repo]]
+url = "https://github.com/gitcoinco/allo-contracts-v1"
+
+[[repo]]
 url = "https://github.com/gitcoinco/allo-crosschain-poc"
 
 [[repo]]
@@ -19,6 +22,12 @@ url = "https://github.com/gitcoinco/allo-indexer"
 url = "https://github.com/gitcoinco/allo-indexer-client"
 
 [[repo]]
+url = "https://github.com/gitcoinco/allo-multi-round-checkout"
+
+[[repo]]
+url = "https://github.com/gitcoinco/allo-v1-graph"
+
+[[repo]]
 url = "https://github.com/gitcoinco/allo_dashboard"
 
 [[repo]]
@@ -26,6 +35,9 @@ url = "https://github.com/gitcoinco/allo_grant_stack_analytics"
 
 [[repo]]
 url = "https://github.com/gitcoinco/Alpha-Governor-Upgrade"
+
+[[repo]]
+url = "https://github.com/gitcoinco/alpha_round_data_retriever"
 
 [[repo]]
 url = "https://github.com/gitcoinco/android"
@@ -41,6 +53,7 @@ url = "https://github.com/gitcoinco/bailoutmainst"
 
 [[repo]]
 url = "https://github.com/gitcoinco/bd"
+missing = true
 
 [[repo]]
 url = "https://github.com/gitcoinco/beyondblockchainteams"
@@ -56,6 +69,7 @@ url = "https://github.com/gitcoinco/cerebro"
 
 [[repo]]
 url = "https://github.com/gitcoinco/cf_eyeo_example"
+missing = true
 
 [[repo]]
 url = "https://github.com/gitcoinco/chainsauce"
@@ -116,6 +130,7 @@ url = "https://github.com/gitcoinco/cypress-metamask"
 
 [[repo]]
 url = "https://github.com/gitcoinco/dappcon"
+missing = true
 
 [[repo]]
 url = "https://github.com/gitcoinco/data-ops"
@@ -125,6 +140,7 @@ url = "https://github.com/gitcoinco/desktop-app"
 
 [[repo]]
 url = "https://github.com/gitcoinco/dgrants"
+missing = true
 
 [[repo]]
 url = "https://github.com/gitcoinco/discourse-adplugin"
@@ -145,6 +161,9 @@ url = "https://github.com/gitcoinco/dPopp-reader"
 url = "https://github.com/gitcoinco/eas-proxy"
 
 [[repo]]
+url = "https://github.com/gitcoinco/easy-retro-pgf"
+
+[[repo]]
 url = "https://github.com/gitcoinco/EIPs"
 
 [[repo]]
@@ -155,9 +174,11 @@ url = "https://github.com/gitcoinco/environment-ferretwell-staging"
 
 [[repo]]
 url = "https://github.com/gitcoinco/ERC-1337"
+missing = true
 
 [[repo]]
 url = "https://github.com/gitcoinco/ethavatar"
+missing = true
 
 [[repo]]
 url = "https://github.com/gitcoinco/ethdenver"
@@ -176,9 +197,13 @@ url = "https://github.com/gitcoinco/gh-workflows"
 
 [[repo]]
 url = "https://github.com/gitcoinco/GIPs"
+missing = true
 
 [[repo]]
 url = "https://github.com/gitcoinco/gitbook-KB"
+
+[[repo]]
+url = "https://github.com/gitcoinco/gitcoin-checker"
 
 [[repo]]
 url = "https://github.com/gitcoinco/gitcoin-erc721"
@@ -194,6 +219,7 @@ url = "https://github.com/gitcoinco/gitcoin-rss"
 
 [[repo]]
 url = "https://github.com/gitcoinco/gitcoin-wp-theme"
+missing = true
 
 [[repo]]
 url = "https://github.com/gitcoinco/gitcoin_cadcad_model"
@@ -220,13 +246,37 @@ url = "https://github.com/gitcoinco/grants-round"
 url = "https://github.com/gitcoinco/grants-stack"
 
 [[repo]]
+url = "https://github.com/gitcoinco/grants-stack-allo-contracts-v1"
+
+[[repo]]
+url = "https://github.com/gitcoinco/grants-stack-allo-contracts-v2"
+
+[[repo]]
 url = "https://github.com/gitcoinco/grants-stack-api"
+
+[[repo]]
+url = "https://github.com/gitcoinco/grants-stack-builder-lit-js-sdk"
+
+[[repo]]
+url = "https://github.com/gitcoinco/grants-stack-data-client"
+
+[[repo]]
+url = "https://github.com/gitcoinco/grants-stack-indexer"
+
+[[repo]]
+url = "https://github.com/gitcoinco/grants-stack-manager-lit-js-sdk"
+
+[[repo]]
+url = "https://github.com/gitcoinco/grants-stack-search"
 
 [[repo]]
 url = "https://github.com/gitcoinco/grants1337"
 
 [[repo]]
 url = "https://github.com/gitcoinco/greenpill-party"
+
+[[repo]]
+url = "https://github.com/gitcoinco/gs-direct-grants"
 
 [[repo]]
 url = "https://github.com/gitcoinco/gtc"
@@ -247,7 +297,11 @@ url = "https://github.com/gitcoinco/id-staking"
 url = "https://github.com/gitcoinco/ios"
 
 [[repo]]
+url = "https://github.com/gitcoinco/issue-form-example"
+
+[[repo]]
 url = "https://github.com/gitcoinco/javascript-api-client"
+missing = true
 
 [[repo]]
 url = "https://github.com/gitcoinco/Kudos721Contract"
@@ -257,12 +311,20 @@ url = "https://github.com/gitcoinco/kudosbadges"
 
 [[repo]]
 url = "https://github.com/gitcoinco/labs"
+missing = true
 
 [[repo]]
 url = "https://github.com/gitcoinco/lemonade-stand"
 
 [[repo]]
+url = "https://github.com/gitcoinco/linea-attestation-registry"
+
+[[repo]]
+url = "https://github.com/gitcoinco/lit-js-sdk"
+
+[[repo]]
 url = "https://github.com/gitcoinco/Marketing"
+missing = true
 
 [[repo]]
 url = "https://github.com/gitcoinco/matching_contracts"
@@ -284,15 +346,25 @@ url = "https://github.com/gitcoinco/merkle_payouts"
 
 [[repo]]
 url = "https://github.com/gitcoinco/metagraph"
+missing = true
+
+[[repo]]
+url = "https://github.com/gitcoinco/open-rpgf"
 
 [[repo]]
 url = "https://github.com/gitcoinco/passport"
+
+[[repo]]
+url = "https://github.com/gitcoinco/passport-components"
 
 [[repo]]
 url = "https://github.com/gitcoinco/passport-docs"
 
 [[repo]]
 url = "https://github.com/gitcoinco/passport-reader"
+
+[[repo]]
+url = "https://github.com/gitcoinco/passport-redash"
 
 [[repo]]
 url = "https://github.com/gitcoinco/passport-scorer"
@@ -305,6 +377,17 @@ url = "https://github.com/gitcoinco/passport-sdk"
 
 [[repo]]
 url = "https://github.com/gitcoinco/PersonhoodPassport"
+
+[[repo]]
+url = "https://github.com/gitcoinco/pgn-docs"
+missing = true
+
+[[repo]]
+url = "https://github.com/gitcoinco/pgn-documentation"
+missing = true
+
+[[repo]]
+url = "https://github.com/gitcoinco/pina"
 
 [[repo]]
 url = "https://github.com/gitcoinco/pluralistic.js"
@@ -340,6 +423,12 @@ url = "https://github.com/gitcoinco/Schelling_Point"
 url = "https://github.com/gitcoinco/scorer"
 
 [[repo]]
+url = "https://github.com/gitcoinco/search"
+
+[[repo]]
+url = "https://github.com/gitcoinco/search-spike"
+
+[[repo]]
 url = "https://github.com/gitcoinco/signatures"
 
 [[repo]]
@@ -350,6 +439,7 @@ url = "https://github.com/gitcoinco/slack-protector"
 
 [[repo]]
 url = "https://github.com/gitcoinco/smart-contract-best-practices"
+missing = true
 
 [[repo]]
 url = "https://github.com/gitcoinco/smart_contracts"
@@ -373,6 +463,9 @@ url = "https://github.com/gitcoinco/SVG_MultiColor_Exporter"
 url = "https://github.com/gitcoinco/sxsw"
 
 [[repo]]
+url = "https://github.com/gitcoinco/tracking-proxy"
+
+[[repo]]
 url = "https://github.com/gitcoinco/tulons-ts"
 
 [[repo]]
@@ -380,3 +473,4 @@ url = "https://github.com/gitcoinco/web"
 
 [[repo]]
 url = "https://github.com/gitcoinco/whitepaper"
+missing = true

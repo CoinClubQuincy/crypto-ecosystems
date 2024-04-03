@@ -22,6 +22,9 @@ url = "https://github.com/ldclabs/cbor-patch"
 url = "https://github.com/ldclabs/cose"
 
 [[repo]]
+url = "https://github.com/ldclabs/cose-ts"
+
+[[repo]]
 url = "https://github.com/ldclabs/creditchain"
 
 [[repo]]
@@ -35,6 +38,12 @@ url = "https://github.com/ldclabs/ldvm"
 
 [[repo]]
 url = "https://github.com/ldclabs/LIP"
+
+[[repo]]
+url = "https://github.com/ldclabs/ns-protocol"
+
+[[repo]]
+url = "https://github.com/ldclabs/ns-rs"
 
 [[repo]]
 url = "https://github.com/ldclabs/pdvm"

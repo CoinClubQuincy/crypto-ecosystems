@@ -37,10 +37,16 @@ url = "https://github.com/stader-labs/bnbX"
 url = "https://github.com/stader-labs/bridge-assets"
 
 [[repo]]
+url = "https://github.com/stader-labs/connectkit"
+
+[[repo]]
 url = "https://github.com/stader-labs/cw-plus-1"
 
 [[repo]]
 url = "https://github.com/stader-labs/ethcli-ui"
+
+[[repo]]
+url = "https://github.com/stader-labs/ethx"
 
 [[repo]]
 url = "https://github.com/stader-labs/get-aptos"
@@ -61,6 +67,9 @@ url = "https://github.com/stader-labs/lunax"
 url = "https://github.com/stader-labs/maticX"
 
 [[repo]]
+url = "https://github.com/stader-labs/merkle-rewards"
+
+[[repo]]
 url = "https://github.com/stader-labs/mirror-contracts"
 
 [[repo]]
@@ -76,10 +85,14 @@ url = "https://github.com/stader-labs/next-example-dapp"
 url = "https://github.com/stader-labs/sftmx-subgraph-one"
 
 [[repo]]
+url = "https://github.com/stader-labs/snapshot-strategies"
+
+[[repo]]
 url = "https://github.com/stader-labs/stader-lp-staking"
 
 [[repo]]
 url = "https://github.com/stader-labs/stader-minipool-go"
+missing = true
 
 [[repo]]
 url = "https://github.com/stader-labs/stader-node"

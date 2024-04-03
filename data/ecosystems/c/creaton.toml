@@ -10,6 +10,12 @@ github_organizations = ["https://github.com/creaton-io"]
 url = "https://github.com/creaton-io/arweave-python-client"
 
 [[repo]]
+url = "https://github.com/creaton-io/at-app"
+
+[[repo]]
+url = "https://github.com/creaton-io/cproto"
+
+[[repo]]
 url = "https://github.com/creaton-io/creaton"
 
 [[repo]]
@@ -26,9 +32,13 @@ url = "https://github.com/creaton-io/Ghost3"
 
 [[repo]]
 url = "https://github.com/creaton-io/NuCreaton"
+missing = true
 
 [[repo]]
 url = "https://github.com/creaton-io/nucypher"
+
+[[repo]]
+url = "https://github.com/creaton-io/pds"
 
 [[repo]]
 url = "https://github.com/creaton-io/rust-umbral"

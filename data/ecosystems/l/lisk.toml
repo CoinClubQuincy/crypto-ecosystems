@@ -11,6 +11,7 @@ url = "https://github.com/AndrewBarba/lisk-swift"
 
 [[repo]]
 url = "https://github.com/BlueDragon555/awesome-lisk"
+missing = true
 
 [[repo]]
 url = "https://github.com/cb0/LiskPHP"
@@ -133,6 +134,9 @@ url = "https://github.com/LiskHQ/blst"
 url = "https://github.com/LiskHQ/buffer"
 
 [[repo]]
+url = "https://github.com/LiskHQ/chains"
+
+[[repo]]
 url = "https://github.com/LiskHQ/dev-cli"
 
 [[repo]]
@@ -143,9 +147,11 @@ url = "https://github.com/LiskHQ/lips"
 
 [[repo]]
 url = "https://github.com/LiskHQ/lisk-core"
+tags = ["Protocol"]
 
 [[repo]]
 url = "https://github.com/LiskHQ/lisk-core-qa-external"
+missing = true
 
 [[repo]]
 url = "https://github.com/LiskHQ/lisk-db"
@@ -155,6 +161,9 @@ url = "https://github.com/LiskHQ/lisk-desktop"
 
 [[repo]]
 url = "https://github.com/LiskHQ/lisk-docs"
+
+[[repo]]
+url = "https://github.com/LiskHQ/lisk-hackathon"
 
 [[repo]]
 url = "https://github.com/LiskHQ/lisk-migrator"

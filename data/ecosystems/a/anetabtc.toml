@@ -3,7 +3,7 @@ title = "anetaBTC"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/anetaBTC", "https://github.com/TosiDrop"]
+github_organizations = ["https://github.com/anetabtc", "https://github.com/TosiDrop"]
 
 # Repositories
 [[repo]]
@@ -31,7 +31,7 @@ url = "https://github.com/anetabtc/anetabtc-documentation"
 url = "https://github.com/anetabtc/anetabtc-frontend"
 
 [[repo]]
-url = "https://github.com/anetaBTC/anetaBTC-landing"
+url = "https://github.com/anetabtc/anetabtc-landing"
 missing = true
 
 [[repo]]
@@ -41,7 +41,7 @@ url = "https://github.com/anetabtc/anetabtc-nft"
 url = "https://github.com/anetabtc/anetabtc_landing"
 
 [[repo]]
-url = "https://github.com/anetaBTC/anetaBTC_team"
+url = "https://github.com/anetabtc/anetabtc_team"
 missing = true
 
 [[repo]]
@@ -49,6 +49,13 @@ url = "https://github.com/anetabtc/awesome-ergo"
 
 [[repo]]
 url = "https://github.com/anetabtc/cardano-front"
+
+[[repo]]
+url = "https://github.com/anetabtc/cardano-front-v2"
+
+[[repo]]
+url = "https://github.com/anetabtc/cbtc"
+missing = true
 
 [[repo]]
 url = "https://github.com/anetabtc/ebtc-backend"
@@ -69,10 +76,16 @@ url = "https://github.com/anetabtc/explorer-backend"
 url = "https://github.com/anetabtc/liso-share-calculator"
 
 [[repo]]
+url = "https://github.com/anetabtc/mempool"
+
+[[repo]]
 url = "https://github.com/anetabtc/neta-vote-select"
 
 [[repo]]
 url = "https://github.com/anetabtc/netatracker"
+
+[[repo]]
+url = "https://github.com/anetabtc/public_cbtc_contracts"
 
 [[repo]]
 url = "https://github.com/anetabtc/tcaledger"

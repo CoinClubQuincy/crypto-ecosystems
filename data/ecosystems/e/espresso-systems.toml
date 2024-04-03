@@ -10,10 +10,16 @@ github_organizations = ["https://github.com/EspressoSystems"]
 url = "https://github.com/EspressoSystems/arbitrary-wrappers"
 
 [[repo]]
+url = "https://github.com/EspressoSystems/arbitrum-sdk"
+
+[[repo]]
 url = "https://github.com/EspressoSystems/async-compatibility-layer"
 
 [[repo]]
 url = "https://github.com/EspressoSystems/atomicstore"
+
+[[repo]]
+url = "https://github.com/EspressoSystems/blockscout"
 
 [[repo]]
 url = "https://github.com/EspressoSystems/blst"
@@ -28,22 +34,56 @@ url = "https://github.com/EspressoSystems/cape"
 url = "https://github.com/EspressoSystems/commit"
 
 [[repo]]
+url = "https://github.com/EspressoSystems/curta"
+
+[[repo]]
 url = "https://github.com/EspressoSystems/curve25519-dalek"
+
+[[repo]]
+url = "https://github.com/EspressoSystems/discord-faucet"
 
 [[repo]]
 url = "https://github.com/EspressoSystems/espresso"
 
 [[repo]]
+url = "https://github.com/EspressoSystems/espresso-geth"
+
+[[repo]]
 url = "https://github.com/EspressoSystems/espresso-macros"
 
 [[repo]]
+url = "https://github.com/EspressoSystems/espresso-polygon-zkevm-demo"
+
+[[repo]]
+url = "https://github.com/EspressoSystems/espresso-rollup-demo"
+
+[[repo]]
+url = "https://github.com/EspressoSystems/espresso-sequencer"
+
+[[repo]]
+url = "https://github.com/EspressoSystems/espresso-sequencer-go"
+
+[[repo]]
 url = "https://github.com/EspressoSystems/espresso-systems-common"
+
+[[repo]]
+url = "https://github.com/EspressoSystems/geth-arbitrum"
+
+[[repo]]
+url = "https://github.com/EspressoSystems/go-espresso-sequencer"
 
 [[repo]]
 url = "https://github.com/EspressoSystems/HotShot"
 
 [[repo]]
 url = "https://github.com/EspressoSystems/hotshot-primitives"
+
+[[repo]]
+url = "https://github.com/EspressoSystems/hotshot-prover-service"
+missing = true
+
+[[repo]]
+url = "https://github.com/EspressoSystems/hotshot-query-service"
 
 [[repo]]
 url = "https://github.com/EspressoSystems/hyperplonk"
@@ -64,6 +104,15 @@ url = "https://github.com/EspressoSystems/net"
 url = "https://github.com/EspressoSystems/netlink"
 
 [[repo]]
+url = "https://github.com/EspressoSystems/nitro-contracts"
+
+[[repo]]
+url = "https://github.com/EspressoSystems/nitro-espresso-integration"
+
+[[repo]]
+url = "https://github.com/EspressoSystems/nitro-testnode"
+
+[[repo]]
 url = "https://github.com/EspressoSystems/nix-docker"
 
 [[repo]]
@@ -76,10 +125,25 @@ url = "https://github.com/EspressoSystems/nll"
 url = "https://github.com/EspressoSystems/nmt-rs"
 
 [[repo]]
+url = "https://github.com/EspressoSystems/op-espresso-integration"
+
+[[repo]]
+url = "https://github.com/EspressoSystems/op-geth"
+
+[[repo]]
+url = "https://github.com/EspressoSystems/op-leader-election"
+
+[[repo]]
 url = "https://github.com/EspressoSystems/reef"
 
 [[repo]]
+url = "https://github.com/EspressoSystems/reorgme"
+
+[[repo]]
 url = "https://github.com/EspressoSystems/seahorse"
+
+[[repo]]
+url = "https://github.com/EspressoSystems/sequencer-example-l2"
 
 [[repo]]
 url = "https://github.com/EspressoSystems/solidity-bn254"
@@ -98,3 +162,9 @@ url = "https://github.com/EspressoSystems/tide-disco"
 
 [[repo]]
 url = "https://github.com/EspressoSystems/veri-zexe"
+
+[[repo]]
+url = "https://github.com/EspressoSystems/zkevm-contracts"
+
+[[repo]]
+url = "https://github.com/EspressoSystems/zkevm-node"

@@ -8,9 +8,13 @@ github_organizations = ["https://github.com/kukai-wallet"]
 # Repositories
 [[repo]]
 url = "https://github.com/kukai-wallet/alphanet"
+missing = true
 
 [[repo]]
 url = "https://github.com/kukai-wallet/angular-cli"
+
+[[repo]]
+url = "https://github.com/kukai-wallet/api-proxy"
 
 [[repo]]
 url = "https://github.com/kukai-wallet/beacon-headless"
@@ -23,6 +27,9 @@ url = "https://github.com/kukai-wallet/beta-beacon"
 
 [[repo]]
 url = "https://github.com/kukai-wallet/CustomAuth"
+
+[[repo]]
+url = "https://github.com/kukai-wallet/customauth-swift-sdk"
 
 [[repo]]
 url = "https://github.com/kukai-wallet/edonet"
@@ -64,7 +71,13 @@ url = "https://github.com/kukai-wallet/kukai-core-swift"
 url = "https://github.com/kukai-wallet/kukai-crypto-swift"
 
 [[repo]]
+url = "https://github.com/kukai-wallet/kukai-db"
+
+[[repo]]
 url = "https://github.com/kukai-wallet/kukai-dex-calculations"
+
+[[repo]]
+url = "https://github.com/kukai-wallet/kukai-embed-unity"
 
 [[repo]]
 url = "https://github.com/kukai-wallet/kukai-mobile-ios"
@@ -82,10 +95,19 @@ url = "https://github.com/kukai-wallet/limanet"
 url = "https://github.com/kukai-wallet/preview"
 
 [[repo]]
+url = "https://github.com/kukai-wallet/services"
+
+[[repo]]
+url = "https://github.com/kukai-wallet/taquito-service"
+
+[[repo]]
 url = "https://github.com/kukai-wallet/test-edonet"
 
 [[repo]]
 url = "https://github.com/kukai-wallet/testnet"
+
+[[repo]]
+url = "https://github.com/kukai-wallet/tzkt-playground"
 
 [[repo]]
 url = "https://github.com/kukai-wallet/wallet"

@@ -16,6 +16,9 @@ url = "https://github.com/Kwenta/blog-redirect"
 url = "https://github.com/Kwenta/brand-kit"
 
 [[repo]]
+url = "https://github.com/Kwenta/cannon-std"
+
+[[repo]]
 url = "https://github.com/Kwenta/code-challenge"
 
 [[repo]]
@@ -23,15 +26,21 @@ url = "https://github.com/Kwenta/curve-subgraph"
 
 [[repo]]
 url = "https://github.com/Kwenta/Documentation"
+missing = true
 
 [[repo]]
 url = "https://github.com/Kwenta/foundry-scaffold"
 
 [[repo]]
+url = "https://github.com/Kwenta/governance"
+
+[[repo]]
 url = "https://github.com/Kwenta/hype"
+missing = true
 
 [[repo]]
 url = "https://github.com/Kwenta/issues"
+missing = true
 
 [[repo]]
 url = "https://github.com/Kwenta/KIPs"
@@ -41,6 +50,7 @@ url = "https://github.com/Kwenta/kwenta"
 
 [[repo]]
 url = "https://github.com/Kwenta/kwenta-api"
+missing = true
 
 [[repo]]
 url = "https://github.com/Kwenta/kwenta-data"
@@ -56,6 +66,16 @@ url = "https://github.com/Kwenta/kwenta-state-log"
 
 [[repo]]
 url = "https://github.com/Kwenta/kwenta-subgraph"
+
+[[repo]]
+url = "https://github.com/Kwenta/kwenta-synthetix-deployments"
+
+[[repo]]
+url = "https://github.com/Kwenta/kwenta-test"
+missing = true
+
+[[repo]]
+url = "https://github.com/Kwenta/kwenta-tui"
 
 [[repo]]
 url = "https://github.com/Kwenta/lyra-interface"
@@ -79,7 +99,33 @@ url = "https://github.com/Kwenta/radicle-interface"
 url = "https://github.com/Kwenta/raise-NFT"
 
 [[repo]]
+url = "https://github.com/Kwenta/referral-nfts"
+missing = true
+
+[[repo]]
 url = "https://github.com/Kwenta/reward-distributor"
+
+[[repo]]
+url = "https://github.com/Kwenta/scw-contracts"
+
+[[repo]]
+url = "https://github.com/Kwenta/SIPs"
+
+[[repo]]
+url = "https://github.com/Kwenta/smart-margin"
+
+[[repo]]
+url = "https://github.com/Kwenta/smart-margin-integrations"
+
+[[repo]]
+url = "https://github.com/Kwenta/smart-margin-v3"
+missing = true
+
+[[repo]]
+url = "https://github.com/Kwenta/synthetix-deployments"
+
+[[repo]]
+url = "https://github.com/Kwenta/synthetix-v3"
 
 [[repo]]
 url = "https://github.com/Kwenta/synthswap"
@@ -89,3 +135,6 @@ url = "https://github.com/Kwenta/token"
 
 [[repo]]
 url = "https://github.com/Kwenta/veKWENTA"
+
+[[repo]]
+url = "https://github.com/Kwenta/wei"

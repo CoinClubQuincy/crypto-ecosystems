@@ -22,6 +22,9 @@ url = "https://github.com/securesecrets/cosmos-rust"
 url = "https://github.com/securesecrets/cw-plus"
 
 [[repo]]
+url = "https://github.com/securesecrets/demo-front-end"
+
+[[repo]]
 url = "https://github.com/securesecrets/ethnum-rs"
 
 [[repo]]
@@ -49,7 +52,13 @@ url = "https://github.com/securesecrets/ics20-proxy"
 url = "https://github.com/securesecrets/keplr-wallet"
 
 [[repo]]
+url = "https://github.com/securesecrets/metamask-permit-testing"
+
+[[repo]]
 url = "https://github.com/securesecrets/osmosis-frontend"
+
+[[repo]]
+url = "https://github.com/securesecrets/perpetual-swaps-hackathon"
 
 [[repo]]
 url = "https://github.com/securesecrets/PoolPartyDocumentation"
@@ -70,10 +79,16 @@ url = "https://github.com/securesecrets/quicksync"
 url = "https://github.com/securesecrets/restake"
 
 [[repo]]
+url = "https://github.com/securesecrets/Secret-DAODAO"
+
+[[repo]]
 url = "https://github.com/securesecrets/Secret-Network-Hackathon"
 
 [[repo]]
 url = "https://github.com/securesecrets/secret-plus-utils"
+
+[[repo]]
+url = "https://github.com/securesecrets/secret-scripts"
 
 [[repo]]
 url = "https://github.com/securesecrets/secret-storage-plus"
@@ -107,6 +122,9 @@ url = "https://github.com/securesecrets/shadeadmin"
 
 [[repo]]
 url = "https://github.com/securesecrets/ShadeGrants"
+
+[[repo]]
+url = "https://github.com/securesecrets/shadejs"
 
 [[repo]]
 url = "https://github.com/securesecrets/shadeswap"

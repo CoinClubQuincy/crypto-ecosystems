@@ -19,6 +19,9 @@ url = "https://github.com/CoolBitX-Technology/bitcoin.org"
 url = "https://github.com/CoolBitX-Technology/bitgo-utxo-lib"
 
 [[repo]]
+url = "https://github.com/CoolBitX-Technology/blockchain-info"
+
+[[repo]]
 url = "https://github.com/CoolBitX-Technology/changelly-js"
 
 [[repo]]
@@ -49,6 +52,9 @@ url = "https://github.com/CoolBitX-Technology/coolwallet-docs"
 url = "https://github.com/CoolBitX-Technology/coolwallet-ios"
 
 [[repo]]
+url = "https://github.com/CoolBitX-Technology/coolwallet-pro-se"
+
+[[repo]]
 url = "https://github.com/CoolBitX-Technology/coolwallet-sdk"
 
 [[repo]]
@@ -62,9 +68,11 @@ url = "https://github.com/CoolBitX-Technology/cp-bitcoind"
 
 [[repo]]
 url = "https://github.com/CoolBitX-Technology/cp-cash-out-api"
+missing = true
 
 [[repo]]
 url = "https://github.com/CoolBitX-Technology/cp-contract-event-listener"
+missing = true
 
 [[repo]]
 url = "https://github.com/CoolBitX-Technology/cp-tsconfig-test"
@@ -80,6 +88,9 @@ url = "https://github.com/CoolBitX-Technology/CWS-API-test"
 
 [[repo]]
 url = "https://github.com/CoolBitX-Technology/electrumx"
+
+[[repo]]
+url = "https://github.com/CoolBitX-Technology/eth-phishing-detect"
 
 [[repo]]
 url = "https://github.com/CoolBitX-Technology/financial-team-airdrop-nft-gh-page"

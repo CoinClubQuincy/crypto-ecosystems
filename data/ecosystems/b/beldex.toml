@@ -20,6 +20,7 @@ url = "https://github.com/Beldex-Coin/bchat-ios"
 
 [[repo]]
 url = "https://github.com/Beldex-Coin/beldex"
+tags = ["Protocol"]
 
 [[repo]]
 url = "https://github.com/Beldex-Coin/beldex-android-wallet"
@@ -44,6 +45,7 @@ url = "https://github.com/Beldex-Coin/beldex-core-custom"
 
 [[repo]]
 url = "https://github.com/Beldex-Coin/beldex-core-js"
+missing = true
 
 [[repo]]
 url = "https://github.com/Beldex-Coin/beldex-docs"
@@ -73,6 +75,9 @@ url = "https://github.com/Beldex-Coin/beldex-libapp-js"
 url = "https://github.com/Beldex-Coin/beldex-lws"
 
 [[repo]]
+url = "https://github.com/Beldex-Coin/beldex-lws-frontend"
+
+[[repo]]
 url = "https://github.com/Beldex-Coin/beldex-master-node-monitor"
 
 [[repo]]
@@ -83,6 +88,7 @@ url = "https://github.com/Beldex-Coin/beldex-privacy-protocol"
 
 [[repo]]
 url = "https://github.com/Beldex-Coin/beldex-privacy-protocol-GUI"
+missing = true
 
 [[repo]]
 url = "https://github.com/Beldex-Coin/beldex-protocol-frontend"
@@ -98,6 +104,7 @@ url = "https://github.com/Beldex-Coin/beldex-web-js"
 
 [[repo]]
 url = "https://github.com/Beldex-Coin/beldex-web-wallet"
+missing = true
 
 [[repo]]
 url = "https://github.com/Beldex-Coin/belnet"
@@ -122,6 +129,7 @@ url = "https://github.com/Beldex-Coin/evm-poc"
 
 [[repo]]
 url = "https://github.com/Beldex-Coin/file-server"
+missing = true
 
 [[repo]]
 url = "https://github.com/Beldex-Coin/monero-decoy-scanner"

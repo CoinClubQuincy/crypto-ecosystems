@@ -10,6 +10,9 @@ github_organizations = ["https://github.com/measurabledatatoken"]
 url = "https://github.com/measurableai/mai-website"
 
 [[repo]]
+url = "https://github.com/measurabledatatoken/bttc-contracts"
+
+[[repo]]
 url = "https://github.com/measurabledatatoken/contracts"
 
 [[repo]]
@@ -23,6 +26,7 @@ url = "https://github.com/measurabledatatoken/mailtime-issue"
 
 [[repo]]
 url = "https://github.com/measurabledatatoken/mefi-chainlink-adapter"
+missing = true
 
 [[repo]]
 url = "https://github.com/measurabledatatoken/mefi-client"
@@ -32,6 +36,7 @@ url = "https://github.com/measurabledatatoken/mymdt"
 
 [[repo]]
 url = "https://github.com/measurabledatatoken/mymdt-mobile"
+missing = true
 
 [[repo]]
 url = "https://github.com/measurabledatatoken/nuxt-i18n"
@@ -41,6 +46,7 @@ url = "https://github.com/measurabledatatoken/react-reveal"
 
 [[repo]]
 url = "https://github.com/measurabledatatoken/rewardme-mobile"
+missing = true
 
 [[repo]]
 url = "https://github.com/measurabledatatoken/sql-migrate"

@@ -1,5 +1,5 @@
 # Ecosystem Level Information
-title = "Mimicry "
+title = "Mimicry"
 
 sub_ecosystems = []
 
@@ -17,6 +17,11 @@ url = "https://github.com/Mimicry-Protocol/interface"
 
 [[repo]]
 url = "https://github.com/Mimicry-Protocol/kaleidoscope"
+missing = true
+
+[[repo]]
+url = "https://github.com/Mimicry-Protocol/kaleidoscope-api"
+missing = true
 
 [[repo]]
 url = "https://github.com/Mimicry-Protocol/mimicry-ethdenver2022-app"
@@ -59,6 +64,9 @@ url = "https://github.com/Mimicry-Protocol/tellor-data-visualizer"
 
 [[repo]]
 url = "https://github.com/Mimicry-Protocol/Tellor-dataSpecs"
+
+[[repo]]
+url = "https://github.com/Mimicry-Protocol/tradingview-charting-library-tutorial"
 
 [[repo]]
 url = "https://github.com/Mimicry-Protocol/whitepaper"

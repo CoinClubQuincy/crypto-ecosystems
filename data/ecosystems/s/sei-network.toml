@@ -1,13 +1,26 @@
 # Ecosystem Level Information
 title = "Sei Network"
 
-sub_ecosystems = []
+sub_ecosystems = ["Wormhole"]
 
 github_organizations = ["https://github.com/sei-protocol"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/sei-protocol/chain-registry"
+
+[[repo]]
+url = "https://github.com/sei-protocol/cosmos-multisig-ui"
+
+[[repo]]
 url = "https://github.com/sei-protocol/dex-indexer"
+missing = true
+
+[[repo]]
+url = "https://github.com/sei-protocol/fuzio-sei-multisig-ui"
+
+[[repo]]
+url = "https://github.com/sei-protocol/go-ethereum"
 
 [[repo]]
 url = "https://github.com/sei-protocol/goblin"
@@ -16,10 +29,16 @@ url = "https://github.com/sei-protocol/goblin"
 url = "https://github.com/sei-protocol/golang-sdk"
 
 [[repo]]
+url = "https://github.com/sei-protocol/goutils"
+
+[[repo]]
 url = "https://github.com/sei-protocol/gringotts"
 
 [[repo]]
 url = "https://github.com/sei-protocol/half-life"
+
+[[repo]]
+url = "https://github.com/sei-protocol/iavl-v1"
 
 [[repo]]
 url = "https://github.com/sei-protocol/ibc-go"
@@ -35,6 +54,10 @@ url = "https://github.com/sei-protocol/js-proto"
 
 [[repo]]
 url = "https://github.com/sei-protocol/js-react"
+
+[[repo]]
+url = "https://github.com/sei-protocol/mmap-iavl"
+missing = true
 
 [[repo]]
 url = "https://github.com/sei-protocol/nitro-replayer"
@@ -56,6 +79,9 @@ url = "https://github.com/sei-protocol/sei-cosmos-exporter"
 
 [[repo]]
 url = "https://github.com/sei-protocol/sei-cosmwasm"
+
+[[repo]]
+url = "https://github.com/sei-protocol/sei-db"
 
 [[repo]]
 url = "https://github.com/sei-protocol/sei-iavl"

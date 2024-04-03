@@ -25,6 +25,9 @@ url = "https://github.com/unstoppabledomains/auto-label"
 url = "https://github.com/unstoppabledomains/blockchainua-hackathon"
 
 [[repo]]
+url = "https://github.com/unstoppabledomains/Boilertalk-Web3.swift"
+
+[[repo]]
 url = "https://github.com/unstoppabledomains/bors-ng"
 
 [[repo]]
@@ -46,7 +49,13 @@ url = "https://github.com/unstoppabledomains/dev-docs"
 url = "https://github.com/unstoppabledomains/diffmasterflex"
 
 [[repo]]
+url = "https://github.com/unstoppabledomains/dnsprovejs"
+
+[[repo]]
 url = "https://github.com/unstoppabledomains/docs"
+
+[[repo]]
+url = "https://github.com/unstoppabledomains/domain-profiles"
 
 [[repo]]
 url = "https://github.com/unstoppabledomains/dot-crypto"
@@ -61,6 +70,12 @@ url = "https://github.com/unstoppabledomains/EthereumABI"
 url = "https://github.com/unstoppabledomains/ethers.js"
 
 [[repo]]
+url = "https://github.com/unstoppabledomains/firebase-js-sdk"
+
+[[repo]]
+url = "https://github.com/unstoppabledomains/GigaBitcoin-secp256k1.swift"
+
+[[repo]]
 url = "https://github.com/unstoppabledomains/gitcoin-bounties"
 
 [[repo]]
@@ -70,7 +85,11 @@ url = "https://github.com/unstoppabledomains/headlong"
 url = "https://github.com/unstoppabledomains/ipfs-companion"
 
 [[repo]]
+url = "https://github.com/unstoppabledomains/js-multiformats"
+
+[[repo]]
 url = "https://github.com/unstoppabledomains/kaya"
+missing = true
 
 [[repo]]
 url = "https://github.com/unstoppabledomains/live-docs"
@@ -133,7 +152,11 @@ url = "https://github.com/unstoppabledomains/resolution-go"
 url = "https://github.com/unstoppabledomains/resolution-java"
 
 [[repo]]
+url = "https://github.com/unstoppabledomains/resolution-rust"
+
+[[repo]]
 url = "https://github.com/unstoppabledomains/resolution-service"
+missing = true
 
 [[repo]]
 url = "https://github.com/unstoppabledomains/resolution-swift"
@@ -163,6 +186,9 @@ url = "https://github.com/unstoppabledomains/uauth-auth0-sample-dapp"
 url = "https://github.com/unstoppabledomains/uauth-auth0-social-connection"
 
 [[repo]]
+url = "https://github.com/unstoppabledomains/ud-xmtp-ios"
+
+[[repo]]
 url = "https://github.com/unstoppabledomains/UI-Kit"
 
 [[repo]]
@@ -176,6 +202,9 @@ url = "https://github.com/unstoppabledomains/unstoppable-chat"
 
 [[repo]]
 url = "https://github.com/unstoppabledomains/unstoppable-demo-browser"
+
+[[repo]]
+url = "https://github.com/unstoppabledomains/unstoppable-domains-marketplace"
 
 [[repo]]
 url = "https://github.com/unstoppabledomains/unstoppable-ios-app"

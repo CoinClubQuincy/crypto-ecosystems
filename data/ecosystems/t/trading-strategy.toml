@@ -31,6 +31,9 @@ url = "https://github.com/tradingstrategy-ai/backtrader"
 url = "https://github.com/tradingstrategy-ai/binder-env"
 
 [[repo]]
+url = "https://github.com/tradingstrategy-ai/blockchain-stackoverflow"
+
+[[repo]]
 url = "https://github.com/tradingstrategy-ai/cocalc-env"
 
 [[repo]]
@@ -50,6 +53,9 @@ url = "https://github.com/tradingstrategy-ai/ethereum-blockchain-docker-compose"
 
 [[repo]]
 url = "https://github.com/tradingstrategy-ai/ethlisbon"
+
+[[repo]]
+url = "https://github.com/tradingstrategy-ai/fastparquet-reproduction"
 
 [[repo]]
 url = "https://github.com/tradingstrategy-ai/frontend"
@@ -115,7 +121,13 @@ url = "https://github.com/tradingstrategy-ai/search"
 url = "https://github.com/tradingstrategy-ai/spec"
 
 [[repo]]
+url = "https://github.com/tradingstrategy-ai/sphinx-tags"
+
+[[repo]]
 url = "https://github.com/tradingstrategy-ai/sushiswap"
+
+[[repo]]
+url = "https://github.com/tradingstrategy-ai/terms-of-service"
 
 [[repo]]
 url = "https://github.com/tradingstrategy-ai/theme"

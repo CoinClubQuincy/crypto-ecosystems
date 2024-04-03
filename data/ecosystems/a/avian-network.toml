@@ -19,6 +19,9 @@ url = "https://github.com/AvianNetwork/Avian"
 url = "https://github.com/AvianNetwork/avian-asset-explorer"
 
 [[repo]]
+url = "https://github.com/AvianNetwork/avian-browser-wallet"
+
+[[repo]]
 url = "https://github.com/AvianNetwork/avian-docs"
 
 [[repo]]
@@ -64,6 +67,9 @@ url = "https://github.com/AvianNetwork/Bootstrap"
 url = "https://github.com/AvianNetwork/coinbin"
 
 [[repo]]
+url = "https://github.com/AvianNetwork/coins"
+
+[[repo]]
 url = "https://github.com/AvianNetwork/cpuminer-opt"
 
 [[repo]]
@@ -95,6 +101,7 @@ url = "https://github.com/AvianNetwork/wallet.avn"
 
 [[repo]]
 url = "https://github.com/AvianNetwork/WAVN"
+missing = true
 
 [[repo]]
 url = "https://github.com/AvianNetwork/Wrapped-Avian"

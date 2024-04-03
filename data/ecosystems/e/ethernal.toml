@@ -16,10 +16,17 @@ url = "https://github.com/tryethernal/ethernal-action"
 url = "https://github.com/tryethernal/ethernal-cli"
 
 [[repo]]
+url = "https://github.com/tryethernal/ethernal-cli-light"
+
+[[repo]]
 url = "https://github.com/tryethernal/hardhat-ethernal"
+
+[[repo]]
+url = "https://github.com/tryethernal/repro-hardhat-bug"
 
 [[repo]]
 url = "https://github.com/tryethernal/scripts"
 
 [[repo]]
 url = "https://github.com/tryethernal/ssl-root-cas.js"
+missing = true

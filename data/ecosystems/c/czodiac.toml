@@ -70,7 +70,13 @@ url = "https://github.com/chinese-zodiac/czrewards-fe"
 url = "https://github.com/chinese-zodiac/divipool"
 
 [[repo]]
+url = "https://github.com/chinese-zodiac/drxs-sale-fe"
+
+[[repo]]
 url = "https://github.com/chinese-zodiac/exotic-farms-fe"
+
+[[repo]]
+url = "https://github.com/chinese-zodiac/ggems-sc"
 
 [[repo]]
 url = "https://github.com/chinese-zodiac/greenminer-fe"
@@ -85,6 +91,9 @@ url = "https://github.com/chinese-zodiac/obr-fe"
 url = "https://github.com/chinese-zodiac/obr-sc"
 
 [[repo]]
+url = "https://github.com/chinese-zodiac/outlaw-heists-fe"
+
+[[repo]]
 url = "https://github.com/chinese-zodiac/outlaws-heists-sc"
 
 [[repo]]
@@ -92,6 +101,12 @@ url = "https://github.com/chinese-zodiac/rabbit-catch"
 
 [[repo]]
 url = "https://github.com/chinese-zodiac/rabbit-catch-fe"
+
+[[repo]]
+url = "https://github.com/chinese-zodiac/tcu29-fe"
+
+[[repo]]
+url = "https://github.com/chinese-zodiac/tcu29-sc"
 
 [[repo]]
 url = "https://github.com/chinese-zodiac/tyborg-notes"

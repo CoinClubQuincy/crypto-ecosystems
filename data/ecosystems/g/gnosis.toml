@@ -2,12 +2,45 @@
 title = "Gnosis"
 
 sub_ecosystems = [
+  "1inch",
+  "Aave",
+  "Aelin",
+  "AKASHA Foundation",
+  "API3",
+  "ARMOR",
+  "Aura Finance",
+  "Balancer",
+  "Beethoven X",
+  "Biconomy",
+  "Celer Network cBridge",
+  "Chainlink",
+  "Chronicle Protocol",
   "Cow Protocol",
   "Cowswap Exchange",
+  "Decent DAO",
+  "dHEDGE",
+  "DIA",
+  "Exactly",
+  "Fei Protocol",
   "Forta Network",
+  "LayerZero",
+  "Mai Finance (QiDao)",
+  "Nomad",
   "Orca Protocol",
+  "OuterbridgeIO",
+  "Pangolin",
+  "Pimlico",
+  "Protofire",
   "QuestBook",
+  "Redstone Finance",
   "Safe Ecosystem",
+  "Sapien Nation",
+  "StakeWise",
+  "Sushi Swap",
+  "Tornado Cash",
+  "wonderverse",
+  "Yubiai",
+  "Zero Protocol",
 ]
 
 github_organizations = ["https://github.com/gnosis"]
@@ -74,13 +107,29 @@ url = "https://github.com/ArtBlocks/artblocks-contracts"
 url = "https://github.com/biconomy-manjeet/biconomy-client-sdk"
 
 [[repo]]
+url = "https://github.com/cartesi/honeypot"
+
+[[repo]]
 url = "https://github.com/cedelabs/2fa-snap"
+missing = true
 
 [[repo]]
 url = "https://github.com/ConsiderItDone/safe-contracts-wrapper"
 
 [[repo]]
 url = "https://github.com/cronos-safe/safe-react"
+
+[[repo]]
+url = "https://github.com/Deepcryptodive/spark-data-service"
+
+[[repo]]
+url = "https://github.com/Deepcryptodive/spark-nexus"
+
+[[repo]]
+url = "https://github.com/defi-wonderland/connext-monorepo"
+
+[[repo]]
+url = "https://github.com/defi-wonderland/crosschain-widget"
 
 [[repo]]
 url = "https://github.com/Elpacos/lenstarter"
@@ -95,7 +144,16 @@ url = "https://github.com/fabriziogianni7/bob-is-safe"
 url = "https://github.com/GigaHierz/green-wallet"
 
 [[repo]]
+url = "https://github.com/Gnosis-Auction/auction-ux"
+
+[[repo]]
 url = "https://github.com/gnosis/1155-to-20"
+
+[[repo]]
+url = "https://github.com/gnosis/aave-address-book"
+
+[[repo]]
+url = "https://github.com/gnosis/aave-helpers"
 
 [[repo]]
 url = "https://github.com/gnosis/balanceAggregator"
@@ -132,6 +190,7 @@ url = "https://github.com/gnosis/conditional-markets-interface"
 
 [[repo]]
 url = "https://github.com/gnosis/conditional-tokens"
+missing = true
 
 [[repo]]
 url = "https://github.com/gnosis/conditional-tokens-bot"
@@ -159,6 +218,7 @@ url = "https://github.com/gnosis/corona-information-markets"
 
 [[repo]]
 url = "https://github.com/gnosis/cow-citizen-nft"
+missing = true
 
 [[repo]]
 url = "https://github.com/gnosis/cow-dex-solver"
@@ -369,21 +429,27 @@ url = "https://github.com/gnosis/dx-mgn-pool-react"
 
 [[repo]]
 url = "https://github.com/gnosis/dx-monitor-api"
+missing = true
 
 [[repo]]
 url = "https://github.com/gnosis/dx-monitor-check__claimable-tokens"
+missing = true
 
 [[repo]]
 url = "https://github.com/gnosis/dx-monitor-check__upgrade-contracts"
+missing = true
 
 [[repo]]
 url = "https://github.com/gnosis/dx-monitor-checks"
+missing = true
 
 [[repo]]
 url = "https://github.com/gnosis/dx-monitor-core"
+missing = true
 
 [[repo]]
 url = "https://github.com/gnosis/dx-monitor-web"
+missing = true
 
 [[repo]]
 url = "https://github.com/gnosis/dx-price-oracle"
@@ -468,6 +534,9 @@ url = "https://github.com/gnosis/gnosis-hg-js"
 url = "https://github.com/gnosis/go-ethereum"
 
 [[repo]]
+url = "https://github.com/gnosis/governance-crosschain-bridges"
+
+[[repo]]
 url = "https://github.com/gnosis/gp-dune-bridge"
 
 [[repo]]
@@ -499,6 +568,7 @@ url = "https://github.com/gnosis/gp-v2-simple-solver-template"
 
 [[repo]]
 url = "https://github.com/gnosis/gp-v2-solver"
+missing = true
 
 [[repo]]
 url = "https://github.com/gnosis/gp-v2-trading-bot"
@@ -604,6 +674,7 @@ url = "https://github.com/gnosis/nxyz-proxy"
 
 [[repo]]
 url = "https://github.com/gnosis/oba-solver"
+missing = true
 
 [[repo]]
 url = "https://github.com/gnosis/oba-uniswap-research"
@@ -630,6 +701,9 @@ url = "https://github.com/gnosis/opt-in-out-cookie-banner"
 url = "https://github.com/gnosis/oracle-examples"
 
 [[repo]]
+url = "https://github.com/gnosis/OTPPaymentProcessor"
+
+[[repo]]
 url = "https://github.com/gnosis/owl-token"
 
 [[repo]]
@@ -643,6 +717,7 @@ url = "https://github.com/gnosis/pm-apollo-contracts"
 
 [[repo]]
 url = "https://github.com/gnosis/pm-apollo-docs"
+missing = true
 
 [[repo]]
 url = "https://github.com/gnosis/pm-compliance-service"
@@ -673,6 +748,7 @@ url = "https://github.com/gnosis/pm-trading-ui"
 
 [[repo]]
 url = "https://github.com/gnosis/pm-whitelist-service"
+missing = true
 
 [[repo]]
 url = "https://github.com/gnosis/pod-idn2"
@@ -727,6 +803,7 @@ url = "https://github.com/gnosis/safe-app-template"
 
 [[repo]]
 url = "https://github.com/gnosis/safe-bounds-relayer"
+missing = true
 
 [[repo]]
 url = "https://github.com/gnosis/safe-browser-extension"
@@ -739,15 +816,18 @@ url = "https://github.com/gnosis/safe-demo"
 
 [[repo]]
 url = "https://github.com/gnosis/safe-eip4337-module"
+missing = true
 
 [[repo]]
 url = "https://github.com/gnosis/safe-finder"
+missing = true
 
 [[repo]]
 url = "https://github.com/gnosis/safe-hackathon"
 
 [[repo]]
 url = "https://github.com/gnosis/safe-integration-examples"
+missing = true
 
 [[repo]]
 url = "https://github.com/gnosis/safe-intercom-id-generator"
@@ -795,6 +875,9 @@ url = "https://github.com/gnosis/safe-web3-provider"
 url = "https://github.com/gnosis/sapp-matryoshka"
 
 [[repo]]
+url = "https://github.com/gnosis/sdai-frontend"
+
+[[repo]]
 url = "https://github.com/gnosis/secp256k1.swift"
 
 [[repo]]
@@ -826,6 +909,7 @@ url = "https://github.com/gnosis/solidity-data-structures"
 
 [[repo]]
 url = "https://github.com/gnosis/stablecoin-converter"
+missing = true
 
 [[repo]]
 url = "https://github.com/gnosis/subgraph-rs"
@@ -859,6 +943,7 @@ url = "https://github.com/gnosis/token-lock"
 
 [[repo]]
 url = "https://github.com/gnosis/token-lock-app"
+missing = true
 
 [[repo]]
 url = "https://github.com/gnosis/token-splitter"
@@ -886,6 +971,7 @@ url = "https://github.com/gnosis/util-contracts"
 
 [[repo]]
 url = "https://github.com/gnosis/vcow-vesting-app"
+missing = true
 
 [[repo]]
 url = "https://github.com/gnosis/verified-smart-contracts"
@@ -984,7 +1070,16 @@ url = "https://github.com/gnosis/Zodiac-Transaction-Encoder"
 url = "https://github.com/gnosis/zodiac-ui-components"
 
 [[repo]]
+url = "https://github.com/ikrakel/Good-Bounties"
+
+[[repo]]
+url = "https://github.com/ind-igo/forge-safe"
+
+[[repo]]
 url = "https://github.com/InfluLenser/dapp"
+
+[[repo]]
+url = "https://github.com/itublockchain/eth-paris-session-key"
 
 [[repo]]
 url = "https://github.com/jaensen/circles-dappcon-tools"
@@ -1003,6 +1098,12 @@ url = "https://github.com/OpenZeppelin/compound-monitoring"
 
 [[repo]]
 url = "https://github.com/protofire/omen-subgraph"
+
+[[repo]]
+url = "https://github.com/protofire/safe-contracts"
+
+[[repo]]
+url = "https://github.com/razacodespython/ethbarcelona"
 
 [[repo]]
 url = "https://github.com/RedDuck-Software/gnosibity"
@@ -1075,6 +1176,9 @@ url = "https://github.com/safe-global/safe-singleton-factory"
 
 [[repo]]
 url = "https://github.com/safe-global/safe-transaction-service"
+
+[[repo]]
+url = "https://github.com/servroxsolutions/safe-complete-services"
 
 [[repo]]
 url = "https://github.com/shadmau/ethLisbon-PoS"

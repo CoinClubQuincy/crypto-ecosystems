@@ -2,43 +2,80 @@
 title = "Aurora"
 
 sub_ecosystems = [
+  "1inch",
   "Amaterasu Finance",
+  "Anima Protocol",
   "AnyToNFT",
   "Aramid Finance",
   "Aries Protocol",
   "Artic Trade",
   "AuroraSwap",
   "Australis Finance",
+  "Bastion",
+  "Bitkeep",
   "BlueBit Finance",
   "BoringDAO",
+  "Bounce Token",
   "Cask",
+  "Celer Network cBridge",
+  "Chainge Finance",
+  "Coin98",
   "CryptoBlades",
+  "Curve",
   "decent.land",
   "DeFiHelper",
+  "DIA",
+  "DODO",
+  "Etherspot",
+  "EYWA Protocol",
   "Fileverse",
   "Flair",
+  "Forward Protocol",
   "Freename",
+  "Genadrop",
   "GREENHOUSE DEX",
   "HEO.finance",
   "Histopia",
   "Holdr",
+  "Impossible Finance",
+  "Incognito Chain",
   "IndexZoo",
+  "InsurAce",
+  "InsurAce Protocol",
   "iZUMi.finance",
   "Kenshi",
   "Kresko",
+  "Kyber Network",
+  "Li.Fi",
   "Mecha Tracker",
+  "Meta Pool",
   "Mutant Labs",
+  "Necc",
   "NEX Market",
   "OpenOcean",
+  "Orally",
+  "OutDID",
+  "Pickle Finance",
   "Polaris Finance",
-  "RabbyHub",
+  "PureFi Protocol",
+  "Pyth Network",
+  "Radom Network",
   "Rango Exchange",
+  "Redstone Finance",
+  "Renaissance Lab DAO",
   "Reveel",
+  "Rift Protocol",
   "Rose On Aurora",
+  "Router Protocol",
+  "Safe Ecosystem",
+  "Swing",
   "SynFutures",
   "TokenPocket",
   "Trisolaris",
   "wannaswap",
+  "WePiggy",
+  "Wormhole",
+  "XDAO",
 ]
 
 github_organizations = [
@@ -50,6 +87,9 @@ github_organizations = [
 ]
 
 # Repositories
+[[repo]]
+url = "https://github.com/AmbireTech/wallet"
+
 [[repo]]
 url = "https://github.com/anima-protocol/claims-polygonid"
 
@@ -90,10 +130,14 @@ url = "https://github.com/aurora-is-near/aurora-cli-rs"
 url = "https://github.com/aurora-is-near/aurora-contracts-sdk"
 
 [[repo]]
+url = "https://github.com/aurora-is-near/aurora-controller-factory"
+
+[[repo]]
 url = "https://github.com/aurora-is-near/aurora-dao-ui"
 
 [[repo]]
 url = "https://github.com/aurora-is-near/aurora-engine"
+tags = ["Protocol"]
 
 [[repo]]
 url = "https://github.com/aurora-is-near/aurora-engine-build"
@@ -129,6 +173,9 @@ url = "https://github.com/aurora-is-near/aurora-relayer-dumps"
 url = "https://github.com/aurora-is-near/aurora-relayer-indexer"
 
 [[repo]]
+url = "https://github.com/aurora-is-near/aurora-relayer-jmeter-tests-public"
+
+[[repo]]
 url = "https://github.com/aurora-is-near/aurora-relayer-sqlblock"
 
 [[repo]]
@@ -145,6 +192,7 @@ url = "https://github.com/aurora-is-near/aurora-staking"
 
 [[repo]]
 url = "https://github.com/aurora-is-near/aurora-staking-contracts"
+tags = ["Protocol"]
 
 [[repo]]
 url = "https://github.com/aurora-is-near/aurora-testing"
@@ -165,10 +213,16 @@ url = "https://github.com/aurora-is-near/aurora.js"
 url = "https://github.com/aurora-is-near/azul-app"
 
 [[repo]]
+url = "https://github.com/aurora-is-near/backstage-blockchain-actions"
+
+[[repo]]
 url = "https://github.com/aurora-is-near/backstage-entities"
 
 [[repo]]
 url = "https://github.com/aurora-is-near/backstage-plugin-blockchain"
+
+[[repo]]
+url = "https://github.com/aurora-is-near/backstage-plugin-blockchainradar"
 
 [[repo]]
 url = "https://github.com/aurora-is-near/blockscout"
@@ -177,10 +231,14 @@ url = "https://github.com/aurora-is-near/blockscout"
 url = "https://github.com/aurora-is-near/blockscout-error-indexer"
 
 [[repo]]
+url = "https://github.com/aurora-is-near/blockscout-frontend"
+
+[[repo]]
 url = "https://github.com/aurora-is-near/borealis-block-finder"
 
 [[repo]]
 url = "https://github.com/aurora-is-near/borealis-engine-lib"
+tags = ["Protocol"]
 
 [[repo]]
 url = "https://github.com/aurora-is-near/borealis-engine-supervisor"
@@ -225,6 +283,9 @@ url = "https://github.com/aurora-is-near/eth-encode-packed-rs"
 url = "https://github.com/aurora-is-near/eth-object"
 
 [[repo]]
+url = "https://github.com/aurora-is-near/eth2-on-near-client-validator-tf"
+
+[[repo]]
 url = "https://github.com/aurora-is-near/ethers-rs"
 
 [[repo]]
@@ -247,6 +308,10 @@ url = "https://github.com/aurora-is-near/example-subgraph"
 
 [[repo]]
 url = "https://github.com/aurora-is-near/fast-bridge-common"
+
+[[repo]]
+url = "https://github.com/aurora-is-near/fast-bridge-protocol"
+tags = ["Protocol"]
 
 [[repo]]
 url = "https://github.com/aurora-is-near/github-helpers"
@@ -289,6 +354,7 @@ url = "https://github.com/aurora-is-near/near-erc20-connector"
 
 [[repo]]
 url = "https://github.com/aurora-is-near/near-multisig-plugins"
+missing = true
 
 [[repo]]
 url = "https://github.com/aurora-is-near/near-plugins"
@@ -310,6 +376,9 @@ url = "https://github.com/aurora-is-near/NEPs"
 
 [[repo]]
 url = "https://github.com/aurora-is-near/openrc-exporter"
+
+[[repo]]
+url = "https://github.com/aurora-is-near/parity-common"
 
 [[repo]]
 url = "https://github.com/aurora-is-near/partner-relayer-deploy"
@@ -343,6 +412,9 @@ url = "https://github.com/aurora-is-near/relayer2-base"
 
 [[repo]]
 url = "https://github.com/aurora-is-near/relayer2-public"
+
+[[repo]]
+url = "https://github.com/aurora-is-near/release-repository"
 
 [[repo]]
 url = "https://github.com/aurora-is-near/remaphore"
@@ -381,19 +453,26 @@ url = "https://github.com/aurora-is-near/stream-backup"
 url = "https://github.com/aurora-is-near/tarserv"
 
 [[repo]]
+url = "https://github.com/aurora-is-near/tree_hash"
+
+[[repo]]
 url = "https://github.com/aurora-is-near/workspaces-rs"
 
 [[repo]]
 url = "https://github.com/batasm-finance/batasm-contract"
 
 [[repo]]
-url = "https://github.com/codingshot/genadrop"
-
-[[repo]]
 url = "https://github.com/DeFiEye/BridgeEye"
 
 [[repo]]
+url = "https://github.com/DeFiEye/ETHShanghai-Chaineye"
+
+[[repo]]
+url = "https://github.com/DeFiEye/Mini-Bridge"
+
+[[repo]]
 url = "https://github.com/DeFiEye/MyWalletScan"
+missing = true
 
 [[repo]]
 url = "https://github.com/DeFiEye/networklist-org"
@@ -441,16 +520,49 @@ url = "https://github.com/Instadapp/avocado-sdk"
 url = "https://github.com/itsobvioustech/aa-passkeys-wallet"
 
 [[repo]]
+url = "https://github.com/itsobvioustech/lists"
+
+[[repo]]
+url = "https://github.com/jeff0723/ZkAlpha"
+
+[[repo]]
 url = "https://github.com/layerx-labs/webnetwork"
 
 [[repo]]
+url = "https://github.com/Meta-Pool/staking-pool-aurora"
+
+[[repo]]
 url = "https://github.com/Mycelium-Lab/uno-contracts"
+
+[[repo]]
+url = "https://github.com/near/near-discovery"
+
+[[repo]]
+url = "https://github.com/nevermined-io/contracts"
+
+[[repo]]
+url = "https://github.com/open-format/contracts"
 
 [[repo]]
 url = "https://github.com/opolis/crypto-payroll-contracts"
 
 [[repo]]
 url = "https://github.com/opolis/opolis-subgraph"
+
+[[repo]]
+url = "https://github.com/OSTOLEX-Technologies/Castledice-smart-contract"
+
+[[repo]]
+url = "https://github.com/polywrap/ethereum-wallet"
+
+[[repo]]
+url = "https://github.com/rkalis/truffle-plugin-verify"
+
+[[repo]]
+url = "https://github.com/subquery/near-subql-starter"
+
+[[repo]]
+url = "https://github.com/tangem/wallet-core"
 
 [[repo]]
 url = "https://github.com/trustrecruit/aurora"
@@ -462,7 +574,10 @@ url = "https://github.com/VaporwaveFinance/studio"
 url = "https://github.com/wondrous-dev/wondrous-frontend"
 
 [[repo]]
-url = "https://github.com/xp-network/xpjs"
+url = "https://github.com/XP-NETWORK/nft-parser"
+
+[[repo]]
+url = "https://gitlab.com/ivankuzovkin/auroraplay"
 
 [[repo]]
 url = "https://gitlab.com/ivankuzovkin/wordle-aurora"

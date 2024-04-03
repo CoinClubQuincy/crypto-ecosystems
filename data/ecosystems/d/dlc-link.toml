@@ -10,19 +10,29 @@ github_organizations = ["https://github.com/DLC-link"]
 url = "https://github.com/DLC-link/apeswap-frontend"
 
 [[repo]]
+url = "https://github.com/DLC-link/BetterChatGPT"
+
+[[repo]]
 url = "https://github.com/DLC-link/cfd-dlc"
 
 [[repo]]
 url = "https://github.com/DLC-link/cfd-dlc-js"
 
 [[repo]]
+url = "https://github.com/DLC-link/DefiLlama-Adapters"
+
+[[repo]]
 url = "https://github.com/DLC-link/dlc-broker-demo"
+
+[[repo]]
+url = "https://github.com/DLC-link/dlc-btc-website"
 
 [[repo]]
 url = "https://github.com/DLC-link/dlc-clarity"
 
 [[repo]]
 url = "https://github.com/DLC-link/dlc-clarity-smart-contract"
+missing = true
 
 [[repo]]
 url = "https://github.com/DLC-link/dlc-lending-demo"
@@ -35,6 +45,7 @@ url = "https://github.com/DLC-link/dlc-marketplace-demo"
 
 [[repo]]
 url = "https://github.com/DLC-link/dlc-redstone-smart-contract"
+missing = true
 
 [[repo]]
 url = "https://github.com/DLC-link/dlc-solidity"
@@ -47,6 +58,7 @@ url = "https://github.com/DLC-link/dlc-stacks"
 
 [[repo]]
 url = "https://github.com/DLC-link/dlc-stacks-loan-contract"
+missing = true
 
 [[repo]]
 url = "https://github.com/DLC-link/dlc.link-take-home-challenge"
@@ -77,6 +89,9 @@ url = "https://github.com/DLC-link/prototype-wallet-extension"
 
 [[repo]]
 url = "https://github.com/DLC-link/react-client"
+
+[[repo]]
+url = "https://github.com/DLC-link/reqwest"
 
 [[repo]]
 url = "https://github.com/DLC-link/rust-bitcoincore-rpc"

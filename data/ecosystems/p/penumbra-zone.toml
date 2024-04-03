@@ -7,10 +7,22 @@ github_organizations = ["https://github.com/penumbra-zone"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/penumbra-zone/aleo-setup"
+
+[[repo]]
 url = "https://github.com/penumbra-zone/algebra"
 
 [[repo]]
+url = "https://github.com/penumbra-zone/chrome-extension-upload"
+
+[[repo]]
+url = "https://github.com/penumbra-zone/cometbft"
+
+[[repo]]
 url = "https://github.com/penumbra-zone/crates"
+
+[[repo]]
+url = "https://github.com/penumbra-zone/cuiloa"
 
 [[repo]]
 url = "https://github.com/penumbra-zone/decaf377"
@@ -31,6 +43,9 @@ url = "https://github.com/penumbra-zone/frost377"
 url = "https://github.com/penumbra-zone/galileo"
 
 [[repo]]
+url = "https://github.com/penumbra-zone/hermes"
+
+[[repo]]
 url = "https://github.com/penumbra-zone/ibc-events"
 
 [[repo]]
@@ -49,6 +64,9 @@ url = "https://github.com/penumbra-zone/ics23"
 url = "https://github.com/penumbra-zone/incrementalmerkletree"
 
 [[repo]]
+url = "https://github.com/penumbra-zone/interchaintest"
+
+[[repo]]
 url = "https://github.com/penumbra-zone/jmt"
 
 [[repo]]
@@ -61,10 +79,16 @@ url = "https://github.com/penumbra-zone/penumbra"
 url = "https://github.com/penumbra-zone/penumbra-bech32m-debug"
 
 [[repo]]
+url = "https://github.com/penumbra-zone/penumbra-bip44-ledger-test"
+
+[[repo]]
 url = "https://github.com/penumbra-zone/penumbra_dapp"
 
 [[repo]]
 url = "https://github.com/penumbra-zone/poseidon377"
+
+[[repo]]
+url = "https://github.com/penumbra-zone/protobuf-es"
 
 [[repo]]
 url = "https://github.com/penumbra-zone/r2d2-sqlite"
@@ -88,7 +112,11 @@ url = "https://github.com/penumbra-zone/snark"
 url = "https://github.com/penumbra-zone/sponge"
 
 [[repo]]
+url = "https://github.com/penumbra-zone/summonerd-web-sandbox"
+
+[[repo]]
 url = "https://github.com/penumbra-zone/tct"
+missing = true
 
 [[repo]]
 url = "https://github.com/penumbra-zone/tendermint"
@@ -104,3 +132,9 @@ url = "https://github.com/penumbra-zone/tower-actor"
 
 [[repo]]
 url = "https://github.com/penumbra-zone/wallet"
+
+[[repo]]
+url = "https://github.com/penumbra-zone/web"
+
+[[repo]]
+url = "https://github.com/penumbra-zone/webgpu"

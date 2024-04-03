@@ -10,6 +10,9 @@ github_organizations = ["https://github.com/arcana-network"]
 url = "https://github.com/arcana-network/.github"
 
 [[repo]]
+url = "https://github.com/arcana-network/aa-sdk"
+
+[[repo]]
 url = "https://github.com/arcana-network/adkg"
 
 [[repo]]
@@ -20,6 +23,9 @@ url = "https://github.com/arcana-network/audit-reports"
 
 [[repo]]
 url = "https://github.com/arcana-network/auth"
+
+[[repo]]
+url = "https://github.com/arcana-network/auth-examples"
 
 [[repo]]
 url = "https://github.com/arcana-network/auth-next-js"
@@ -43,6 +49,9 @@ url = "https://github.com/arcana-network/auth-wagmi-example"
 url = "https://github.com/arcana-network/auth-web3-react"
 
 [[repo]]
+url = "https://github.com/arcana-network/auth-web3-react-v6"
+
+[[repo]]
 url = "https://github.com/arcana-network/basic-storage-wallet-integration"
 
 [[repo]]
@@ -61,6 +70,9 @@ url = "https://github.com/arcana-network/demo-app"
 url = "https://github.com/arcana-network/demo-app-template"
 
 [[repo]]
+url = "https://github.com/arcana-network/demo-app-v2"
+
+[[repo]]
 url = "https://github.com/arcana-network/developer-dashboard"
 
 [[repo]]
@@ -77,6 +89,15 @@ url = "https://github.com/arcana-network/kryptology"
 
 [[repo]]
 url = "https://github.com/arcana-network/license"
+
+[[repo]]
+url = "https://github.com/arcana-network/scw"
+
+[[repo]]
+url = "https://github.com/arcana-network/sendit"
+
+[[repo]]
+url = "https://github.com/arcana-network/sendit-sc"
 
 [[repo]]
 url = "https://github.com/arcana-network/smart-contract"

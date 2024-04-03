@@ -26,6 +26,7 @@ url = "https://github.com/ZenGo-X/bitcoinjs-lib"
 
 [[repo]]
 url = "https://github.com/ZenGo-X/buildcontainer"
+missing = true
 
 [[repo]]
 url = "https://github.com/ZenGo-X/bulletproofs"
@@ -100,6 +101,12 @@ url = "https://github.com/ZenGo-X/fs-dkr"
 url = "https://github.com/ZenGo-X/gotham-city"
 
 [[repo]]
+url = "https://github.com/ZenGo-X/gotham-engine"
+
+[[repo]]
+url = "https://github.com/ZenGo-X/gotham-public"
+
+[[repo]]
 url = "https://github.com/ZenGo-X/inspirational-crypto"
 
 [[repo]]
@@ -166,6 +173,9 @@ url = "https://github.com/ZenGo-X/multi-party-schnorr"
 url = "https://github.com/ZenGo-X/neon"
 
 [[repo]]
+url = "https://github.com/ZenGo-X/node-cache-manager-redis-yet"
+
+[[repo]]
 url = "https://github.com/ZenGo-X/node-client"
 
 [[repo]]
@@ -188,6 +198,9 @@ url = "https://github.com/ZenGo-X/pps"
 
 [[repo]]
 url = "https://github.com/ZenGo-X/pps-gc"
+
+[[repo]]
+url = "https://github.com/ZenGo-X/public-docs"
 
 [[repo]]
 url = "https://github.com/ZenGo-X/random-beacon"
@@ -296,6 +309,7 @@ url = "https://github.com/ZenGo-X/terra.js"
 
 [[repo]]
 url = "https://github.com/ZenGo-X/test-ids"
+missing = true
 
 [[repo]]
 url = "https://github.com/ZenGo-X/tezos-thresh-wallet"
@@ -350,6 +364,7 @@ url = "https://github.com/ZenGo-X/zengo-academy-nft"
 
 [[repo]]
 url = "https://github.com/ZenGo-X/zengo-extension"
+missing = true
 
 [[repo]]
 url = "https://github.com/ZenGo-X/zengo-will"

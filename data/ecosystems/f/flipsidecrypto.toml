@@ -19,6 +19,9 @@ url = "https://github.com/FlipsideCrypto/algorand-models"
 url = "https://github.com/FlipsideCrypto/analytics-workflow-templates"
 
 [[repo]]
+url = "https://github.com/FlipsideCrypto/aptos-models"
+
+[[repo]]
 url = "https://github.com/FlipsideCrypto/arbitrum-models"
 
 [[repo]]
@@ -37,6 +40,9 @@ url = "https://github.com/FlipsideCrypto/badger"
 url = "https://github.com/FlipsideCrypto/base-models"
 
 [[repo]]
+url = "https://github.com/FlipsideCrypto/bitcoin-models"
+
+[[repo]]
 url = "https://github.com/FlipsideCrypto/bsc-models"
 
 [[repo]]
@@ -47,6 +53,7 @@ url = "https://github.com/FlipsideCrypto/chainwalkers_bitcoin"
 
 [[repo]]
 url = "https://github.com/FlipsideCrypto/chainwalkers_ethereum"
+missing = true
 
 [[repo]]
 url = "https://github.com/FlipsideCrypto/convox"
@@ -77,6 +84,7 @@ url = "https://github.com/FlipsideCrypto/DefinitelyTyped"
 
 [[repo]]
 url = "https://github.com/FlipsideCrypto/deployment-workflows"
+missing = true
 
 [[repo]]
 url = "https://github.com/FlipsideCrypto/eth-phishing-detect"
@@ -116,6 +124,7 @@ url = "https://github.com/FlipsideCrypto/flow-models"
 
 [[repo]]
 url = "https://github.com/FlipsideCrypto/flow-models-temp"
+missing = true
 
 [[repo]]
 url = "https://github.com/FlipsideCrypto/fly-pr-review-apps"
@@ -149,15 +158,25 @@ url = "https://github.com/FlipsideCrypto/labor-market"
 
 [[repo]]
 url = "https://github.com/FlipsideCrypto/lambda-uniswap-api"
+missing = true
 
 [[repo]]
 url = "https://github.com/FlipsideCrypto/livequery-models"
+
+[[repo]]
+url = "https://github.com/FlipsideCrypto/meta-models"
 
 [[repo]]
 url = "https://github.com/FlipsideCrypto/mkr-analysis"
 
 [[repo]]
 url = "https://github.com/FlipsideCrypto/multicall.py"
+
+[[repo]]
+url = "https://github.com/FlipsideCrypto/near-bos-gateway"
+
+[[repo]]
+url = "https://github.com/FlipsideCrypto/near-bos-vm"
 
 [[repo]]
 url = "https://github.com/FlipsideCrypto/near-models"
@@ -214,6 +233,9 @@ url = "https://github.com/FlipsideCrypto/sei-models"
 url = "https://github.com/FlipsideCrypto/shiny_template"
 
 [[repo]]
+url = "https://github.com/FlipsideCrypto/snowflake-promise"
+
+[[repo]]
 url = "https://github.com/FlipsideCrypto/SOL-BONK-REVIEW"
 
 [[repo]]
@@ -227,24 +249,33 @@ url = "https://github.com/FlipsideCrypto/terra-models"
 
 [[repo]]
 url = "https://github.com/FlipsideCrypto/terra-models-temp"
+missing = true
 
 [[repo]]
 url = "https://github.com/FlipsideCrypto/terra-multisend"
 
 [[repo]]
 url = "https://github.com/FlipsideCrypto/terraform-aws-eks"
+missing = true
 
 [[repo]]
 url = "https://github.com/FlipsideCrypto/terraform-aws-eks-cluster"
+missing = true
 
 [[repo]]
 url = "https://github.com/FlipsideCrypto/terraform-aws-lambda-function"
 
 [[repo]]
 url = "https://github.com/FlipsideCrypto/terraform-github-actions"
+missing = true
+
+[[repo]]
+url = "https://github.com/FlipsideCrypto/terraform-provider-statuspage"
+missing = true
 
 [[repo]]
 url = "https://github.com/FlipsideCrypto/terraform-provider-yotascale"
+missing = true
 
 [[repo]]
 url = "https://github.com/FlipsideCrypto/thorchain-models"
@@ -260,6 +291,7 @@ url = "https://github.com/FlipsideCrypto/timescaledb-parallel-copy"
 
 [[repo]]
 url = "https://github.com/FlipsideCrypto/tools"
+missing = true
 
 [[repo]]
 url = "https://github.com/FlipsideCrypto/udf-models"
@@ -269,6 +301,10 @@ url = "https://github.com/FlipsideCrypto/uniswap-forecast"
 
 [[repo]]
 url = "https://github.com/FlipsideCrypto/user_metrics"
+missing = true
+
+[[repo]]
+url = "https://github.com/FlipsideCrypto/utils-models"
 
 [[repo]]
 url = "https://github.com/FlipsideCrypto/web3.py"

@@ -16,12 +16,12 @@ enum Cli {
     Validate {
         /// Path to top level directory containing ecosystem toml files
         data_path: String,
+
     },
     /// Export list of ecosystems and repos to a JSON file
     Export {
         /// Path to top level directory containing ecosystem toml files
         data_path: String,
-
         /// JSON File to export the list of repos
         output_path: String,
 
@@ -30,15 +30,18 @@ enum Cli {
         only_repos: bool,
     },
 }
-
 #[derive(Debug)]
 enum ValidationError {
     MissingSubecosystem { parent: String, child: String },
 
     DuplicateRepoUrl(String),
-}
 
-impl Display for ValidationError {
+    TitleError(String),
+
+    EmptyEcosystem(String),
+ }
+
+ impl Display for ValidationError {
     fn fmt(&self, f: &mut Formatter<'_>) -> std::fmt::Result {
         match self {
             ValidationError::MissingSubecosystem { parent, child } => {
@@ -47,10 +50,15 @@ impl Display for ValidationError {
             ValidationError::DuplicateRepoUrl(url) => {
                 write!(f, "Duplicate repo URL: {}", url)
             }
-        }
-    }
-}
-
+            ValidationError::TitleError(file) => {
+                write!(f, "Title with leading/trailing space found in file: {}. Please remove the space(s) from your title.", file)
+            }
+            ValidationError::EmptyEcosystem(file) => {
+                write!(f, "Ecosystem in file {} has neither organizations nor sub-ecosystems. Please remove this. You can add it back later when/if you find its orgs / repos.", file)
+            }
+         }
+     }
+ }
 #[derive(Debug, Deserialize, Serialize)]
 struct Ecosystem {
     pub title: String,
@@ -58,7 +66,6 @@ struct Ecosystem {
     pub sub_ecosystems: Option<Vec<String>>,
     pub repo: Option<Vec<Repo>>,
 }
-
 #[derive(Debug, Deserialize, Serialize)]
 struct Repo {
     pub url: String,
@@ -66,7 +73,6 @@ struct Repo {
     pub tags: Option<Vec<String>>,
     pub missing: Option<bool>,
 }
-
 #[derive(Debug, Error)]
 enum CEError {
     #[error("Toml Parse Error in {path:?}: {toml_error:?}")]
@@ -92,24 +98,28 @@ fn get_toml_files(dir: &Path) -> Result<Vec<PathBuf>> {
     Ok(paths)
 }
 
-fn parse_toml_files(paths: &[PathBuf]) -> Result<EcosystemMap> {
+fn parse_toml_files(paths: &[PathBuf]) -> Result<(EcosystemMap, Vec<ValidationError>)> {
     let mut ecosystems: HashMap<String, Ecosystem> = HashMap::new();
+    let mut errors = Vec::new();
     for toml_path in paths {
         let contents = read_to_string(toml_path)?;
         match toml::from_str::<Ecosystem>(&contents) {
             Ok(ecosystem) => {
                 let title = ecosystem.title.clone();
+                if title.trim() != title {
+                    errors.push(ValidationError::TitleError(toml_path.display().to_string()));
+                }
                 ecosystems.insert(title, ecosystem);
             }
             Err(err) => {
-                return Err(CEError::TomlParseError {
+                Err(CEError::TomlParseError {
                     path: toml_path.display().to_string(),
                     toml_error: err,
                 })?;
             }
         }
     }
-    Ok(ecosystems)
+    Ok((ecosystems, errors))
 }
 
 fn validate_ecosystems(ecosystem_map: &EcosystemMap) -> Vec<ValidationError> {
@@ -119,28 +129,40 @@ fn validate_ecosystems(ecosystem_map: &EcosystemMap) -> Vec<ValidationError> {
     let mut missing_count = 0;
 
     for ecosystem in ecosystem_map.values() {
-        let mut seen_repos = HashSet::new();
 
-        if let Some(ref sub_ecosystems) = ecosystem.sub_ecosystems {
-            for sub in sub_ecosystems {
-                if !ecosystem_map.contains_key(sub) {
-                    errors.push(ValidationError::MissingSubecosystem {
+         let has_sub_ecosystems = ecosystem.sub_ecosystems
+             .as_ref()
+             .map_or(false, |sub_ecosystems| !sub_ecosystems.is_empty());
+
+         let has_orgs = ecosystem.github_organizations
+             .as_ref()
+             .map_or(false, |orgs| !orgs.is_empty());
+
+         let has_repos = ecosystem.repo
+             .as_ref()
+             .map_or(false, |repos| !repos.is_empty());
+
+         let mut seen_repos = HashSet::new();
+
+         if let Some(sub_ecosystems) = &ecosystem.sub_ecosystems {
+             for sub in sub_ecosystems {
+                 if !ecosystem_map.contains_key(sub) {
+                     errors.push(ValidationError::MissingSubecosystem {
                         parent: ecosystem.title.clone(),
                         child: sub.clone(),
                     });
                 }
-            }
-        }
+             }
+         }
 
-        if let Some(ref repos) = ecosystem.repo {
-            for repo in repos {
-                let lowercase_url = repo.url.to_lowercase();
-                if seen_repos.contains(&lowercase_url) {
+         if let Some(repos) = &ecosystem.repo {
+             for repo in repos {
+                 let lowercase_url = repo.url.to_lowercase();
+                 if seen_repos.contains(&lowercase_url) {
                     errors.push(ValidationError::DuplicateRepoUrl(repo.url.clone()));
                 } else {
                     seen_repos.insert(lowercase_url);
                 }
-
                 if let Some(true) = repo.missing {
                     missing_count += 1;
                 }
@@ -150,15 +172,19 @@ fn validate_ecosystems(ecosystem_map: &EcosystemMap) -> Vec<ValidationError> {
                         let counter = tagmap.entry(tag.to_string()).or_insert(0);
                         *counter += 1;
                     }
-                }
-            }
-        }
+                 }
+             }
+         }
+
+         if !(has_sub_ecosystems || has_orgs || has_repos) {
+             errors.push(ValidationError::EmptyEcosystem(ecosystem.title.clone()));
+         }
     }
 
-    if errors.len() == 0 {
-        println!(
-            "Validated {} ecosystems and {} repos ({} missing)",
-            ecosystem_map.len(),
+    if errors.is_empty() {
+         println!(
+             "Validated {} ecosystems and {} repos ({} missing)",
+             ecosystem_map.len(),
             repo_set.len(),
             missing_count,
         );
@@ -169,14 +195,16 @@ fn validate_ecosystems(ecosystem_map: &EcosystemMap) -> Vec<ValidationError> {
     }
 
     errors
+
 }
 
 fn validate(data_path: String) -> Result<()> {
     let toml_files = get_toml_files(Path::new(&data_path))?;
     match parse_toml_files(&toml_files) {
-        Ok(ecosystem_map) => {
-            let errors = validate_ecosystems(&ecosystem_map);
-            if errors.len() > 0 {
+        Ok((ecosystem_map, title_errors)) => {
+            let mut errors = validate_ecosystems(&ecosystem_map);
+            errors.extend(title_errors);
+            if !errors.is_empty() {
                 for err in errors {
                     println!("{}", err);
                 }
@@ -194,9 +222,13 @@ fn validate(data_path: String) -> Result<()> {
 fn export(data_path: String, output_path: String, only_repos: bool) -> Result<()> {
     let toml_files = get_toml_files(Path::new(&data_path))?;
     match parse_toml_files(&toml_files) {
-        Ok(ecosystem_map) => {
-            let errors = validate_ecosystems(&ecosystem_map);
-            if errors.len() > 0 {
+        Ok((ecosystem_map, title_errors)) => {
+            let mut errors = validate_ecosystems(&ecosystem_map);
+            errors.extend(title_errors);
+            if !errors.is_empty() {
+                for err in errors {
+                    println!("{}", err);
+                }
                 std::process::exit(-1);
             }
             if only_repos {
@@ -206,7 +238,7 @@ fn export(data_path: String, output_path: String, only_repos: bool) -> Result<()
                         for repo in repositories {
                             repo_set
                                 .entry(&ecosystem.title)
-                                .or_insert(Vec::new())
+                                .or_default()
                                 .push(repo.url.clone());
                         }
                     }

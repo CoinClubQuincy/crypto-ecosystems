@@ -7,6 +7,9 @@ github_organizations = ["https://github.com/dscvr-one"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/dscvr-one/agent-js"
+
+[[repo]]
 url = "https://github.com/dscvr-one/candid"
 
 [[repo]]
@@ -29,6 +32,9 @@ url = "https://github.com/dscvr-one/ic"
 
 [[repo]]
 url = "https://github.com/dscvr-one/ic-drip"
+
+[[repo]]
+url = "https://github.com/dscvr-one/metamagic"
 
 [[repo]]
 url = "https://github.com/dscvr-one/nns-registry"

@@ -80,6 +80,7 @@ url = "https://github.com/zeriontech/nexo-token-smart-contracts"
 
 [[repo]]
 url = "https://github.com/zeriontech/payment_processor_documentation"
+missing = true
 
 [[repo]]
 url = "https://github.com/zeriontech/qchain-smart-contracts"
@@ -130,6 +131,12 @@ url = "https://github.com/zeriontech/trueflip-smart-contracts"
 url = "https://github.com/zeriontech/try-ethereum"
 
 [[repo]]
+url = "https://github.com/zeriontech/wallet-core-android"
+
+[[repo]]
+url = "https://github.com/zeriontech/wallet-core-ios"
+
+[[repo]]
 url = "https://github.com/zeriontech/waves-presale"
 
 [[repo]]
@@ -143,3 +150,6 @@ url = "https://github.com/zeriontech/yc2019"
 
 [[repo]]
 url = "https://github.com/zeriontech/zerion-analytics"
+
+[[repo]]
+url = "https://github.com/zeriontech/zerion-wallet-extension"

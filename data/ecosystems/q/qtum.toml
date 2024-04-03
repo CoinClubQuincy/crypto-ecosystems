@@ -13,6 +13,9 @@ url = "https://github.com/bodhiproject/qweb3.js"
 url = "https://github.com/qtumproject/abigen"
 
 [[repo]]
+url = "https://github.com/qtumproject/app-qtum"
+
+[[repo]]
 url = "https://github.com/qtumproject/atomicswap"
 
 [[repo]]
@@ -103,6 +106,15 @@ url = "https://github.com/qtumproject/keepkey-firmware"
 url = "https://github.com/qtumproject/ledger-app-btc-new"
 
 [[repo]]
+url = "https://github.com/qtumproject/ledger-app-database"
+
+[[repo]]
+url = "https://github.com/qtumproject/ledger-app-qtum-new"
+
+[[repo]]
+url = "https://github.com/qtumproject/ledger-qtum-py"
+
+[[repo]]
 url = "https://github.com/qtumproject/ledger-wallet-chrome"
 
 [[repo]]
@@ -160,6 +172,9 @@ url = "https://github.com/qtumproject/nodemapscripts"
 url = "https://github.com/qtumproject/offline-staking-contract"
 
 [[repo]]
+url = "https://github.com/qtumproject/ord"
+
+[[repo]]
 url = "https://github.com/qtumproject/pi-gen"
 
 [[repo]]
@@ -185,6 +200,7 @@ url = "https://github.com/qtumproject/QRC721Token"
 
 [[repo]]
 url = "https://github.com/qtumproject/qrypto"
+missing = true
 
 [[repo]]
 url = "https://github.com/qtumproject/qrypto-backup"
@@ -198,6 +214,9 @@ tags = ["Protocol"]
 
 [[repo]]
 url = "https://github.com/qtumproject/qtum-android"
+
+[[repo]]
+url = "https://github.com/qtumproject/qtum-bip38"
 
 [[repo]]
 url = "https://github.com/qtumproject/qtum-bitcore"
@@ -225,6 +244,7 @@ url = "https://github.com/qtumproject/qtum-electrum"
 
 [[repo]]
 url = "https://github.com/qtumproject/qtum-electrum-new"
+missing = true
 
 [[repo]]
 url = "https://github.com/qtumproject/qtum-electrumx-server"
@@ -386,6 +406,18 @@ url = "https://github.com/qtumproject/remix-project"
 url = "https://github.com/qtumproject/rosetta-qtum"
 
 [[repo]]
+url = "https://github.com/qtumproject/rust-bech32"
+
+[[repo]]
+url = "https://github.com/qtumproject/rust-miniscript-qtum"
+
+[[repo]]
+url = "https://github.com/qtumproject/rust-qtum"
+
+[[repo]]
+url = "https://github.com/qtumproject/rust-qtumcore-rpc"
+
+[[repo]]
 url = "https://github.com/qtumproject/secp256k1-zkp"
 
 [[repo]]
@@ -432,3 +464,4 @@ url = "https://github.com/qtumproject/x86lib"
 
 [[repo]]
 url = "https://github.com/trick77/docker-qtum-stake"
+missing = true

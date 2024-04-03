@@ -34,6 +34,9 @@ url = "https://github.com/hyle-team/boolberry-node-util"
 url = "https://github.com/hyle-team/bounty"
 
 [[repo]]
+url = "https://github.com/hyle-team/cake_wallet"
+
+[[repo]]
 url = "https://github.com/hyle-team/CakeWallet"
 
 [[repo]]
@@ -73,6 +76,9 @@ url = "https://github.com/hyle-team/wallet-address-validator"
 url = "https://github.com/hyle-team/zano"
 
 [[repo]]
+url = "https://github.com/hyle-team/zano-docs"
+
+[[repo]]
 url = "https://github.com/hyle-team/zano-node-util"
 
 [[repo]]
@@ -83,6 +89,9 @@ url = "https://github.com/hyle-team/zano-nodejs-pool2"
 
 [[repo]]
 url = "https://github.com/hyle-team/zano-pool"
+
+[[repo]]
+url = "https://github.com/hyle-team/zano_plugin"
 
 [[repo]]
 url = "https://github.com/hyle-team/zano_ui"

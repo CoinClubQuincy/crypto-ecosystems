@@ -7,10 +7,26 @@ github_organizations = ["https://github.com/quiknode-labs"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/quiknode-labs/.github"
+
+[[repo]]
+url = "https://github.com/quiknode-labs/ansible_role_tailscale"
+
+[[repo]]
 url = "https://github.com/quiknode-labs/aws-eks-cdk-python"
+missing = true
+
+[[repo]]
+url = "https://github.com/quiknode-labs/awx-operator"
+
+[[repo]]
+url = "https://github.com/quiknode-labs/azurechatgpt"
 
 [[repo]]
 url = "https://github.com/quiknode-labs/base_tailscale"
+
+[[repo]]
+url = "https://github.com/quiknode-labs/blockbook"
 
 [[repo]]
 url = "https://github.com/quiknode-labs/bor"
@@ -25,10 +41,16 @@ url = "https://github.com/quiknode-labs/bsc-ecosystem"
 url = "https://github.com/quiknode-labs/chinchillaproxy"
 
 [[repo]]
+url = "https://github.com/quiknode-labs/cloudflare-pages-slack-notification"
+
+[[repo]]
 url = "https://github.com/quiknode-labs/coinbase-commerce-ruby"
 
 [[repo]]
 url = "https://github.com/quiknode-labs/coinbyaddr"
+
+[[repo]]
+url = "https://github.com/quiknode-labs/croc"
 
 [[repo]]
 url = "https://github.com/quiknode-labs/digest-sha3-patched"
@@ -67,6 +89,9 @@ url = "https://github.com/quiknode-labs/ethereum.rb"
 url = "https://github.com/quiknode-labs/etherflow"
 
 [[repo]]
+url = "https://github.com/quiknode-labs/Flowise"
+
+[[repo]]
 url = "https://github.com/quiknode-labs/getting-started-with-avalanche"
 
 [[repo]]
@@ -85,6 +110,21 @@ url = "https://github.com/quiknode-labs/interview-q-1"
 url = "https://github.com/quiknode-labs/interview-q-2"
 
 [[repo]]
+url = "https://github.com/quiknode-labs/marketplace-starter-go"
+
+[[repo]]
+url = "https://github.com/quiknode-labs/marketplace-starter-js"
+
+[[repo]]
+url = "https://github.com/quiknode-labs/marketplace-starter-python"
+
+[[repo]]
+url = "https://github.com/quiknode-labs/marketplace-starter-ruby"
+
+[[repo]]
+url = "https://github.com/quiknode-labs/marketplace-starter-ts"
+
+[[repo]]
 url = "https://github.com/quiknode-labs/matic-docs"
 
 [[repo]]
@@ -94,16 +134,25 @@ url = "https://github.com/quiknode-labs/metamask-laravel-demo-app"
 url = "https://github.com/quiknode-labs/moddApptut"
 
 [[repo]]
+url = "https://github.com/quiknode-labs/nfts-with-ai"
+
+[[repo]]
 url = "https://github.com/quiknode-labs/node-ansible"
 
 [[repo]]
 url = "https://github.com/quiknode-labs/oci-oke-tf"
 
 [[repo]]
+url = "https://github.com/quiknode-labs/otterscan"
+
+[[repo]]
 url = "https://github.com/quiknode-labs/qn-go-plus-js"
 
 [[repo]]
 url = "https://github.com/quiknode-labs/qn-guide-examples"
+
+[[repo]]
+url = "https://github.com/quiknode-labs/qn-marketplace-cli"
 
 [[repo]]
 url = "https://github.com/quiknode-labs/qn-oss"
@@ -119,6 +168,7 @@ url = "https://github.com/quiknode-labs/quicknode-explorer"
 
 [[repo]]
 url = "https://github.com/quiknode-labs/quicknode-guide-examples"
+missing = true
 
 [[repo]]
 url = "https://github.com/quiknode-labs/QuickNode-solana-wallet"
@@ -130,11 +180,10 @@ url = "https://github.com/quiknode-labs/RHEL8-CIS"
 url = "https://github.com/quiknode-labs/rich-dataframe"
 
 [[repo]]
-url = "https://github.com/quiknode-labs/sign-on-ethereum"
+url = "https://github.com/quiknode-labs/scaffold-eth-2"
 
 [[repo]]
-url = "https://github.com/quiknode-labs/smart-contract-templates"
-missing = true
+url = "https://github.com/quiknode-labs/sign-on-ethereum"
 
 [[repo]]
 url = "https://github.com/quiknode-labs/solana"
@@ -146,7 +195,20 @@ url = "https://github.com/quiknode-labs/Solana-explorer"
 url = "https://github.com/quiknode-labs/solana-program-library"
 
 [[repo]]
+url = "https://github.com/quiknode-labs/strapi-chatgpt-tweet-gen"
+missing = true
+
+[[repo]]
+url = "https://github.com/quiknode-labs/swap_tracker"
+
+[[repo]]
 url = "https://github.com/quiknode-labs/token_wallet"
+
+[[repo]]
+url = "https://github.com/quiknode-labs/urql"
+
+[[repo]]
+url = "https://github.com/quiknode-labs/victoria-logger"
 
 [[repo]]
 url = "https://github.com/quiknode-labs/wave-portal-svelte"

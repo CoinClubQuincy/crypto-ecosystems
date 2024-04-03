@@ -1,13 +1,19 @@
 # Ecosystem Level Information
 title = "Kujira"
 
-sub_ecosystems = []
+sub_ecosystems = ["Axelar Network"]
 
 github_organizations = ["https://github.com/Team-Kujira"]
 
 # Repositories
 [[repo]]
 url = "https://github.com/Team-Kujira/alliance"
+
+[[repo]]
+url = "https://github.com/Team-Kujira/assets"
+
+[[repo]]
+url = "https://github.com/Team-Kujira/cetacea"
 
 [[repo]]
 url = "https://github.com/Team-Kujira/cometbft"
@@ -19,10 +25,19 @@ url = "https://github.com/Team-Kujira/core"
 url = "https://github.com/Team-Kujira/crank"
 
 [[repo]]
+url = "https://github.com/Team-Kujira/cw-exec-ibc"
+
+[[repo]]
+url = "https://github.com/Team-Kujira/cw-query-ibc"
+
+[[repo]]
 url = "https://github.com/Team-Kujira/developer"
 
 [[repo]]
 url = "https://github.com/Team-Kujira/docs"
+
+[[repo]]
+url = "https://github.com/Team-Kujira/ecosystem"
 
 [[repo]]
 url = "https://github.com/Team-Kujira/factory"
@@ -46,6 +61,9 @@ url = "https://github.com/Team-Kujira/hummingbot"
 url = "https://github.com/Team-Kujira/i18n"
 
 [[repo]]
+url = "https://github.com/Team-Kujira/ibc-apps"
+
+[[repo]]
 url = "https://github.com/Team-Kujira/ibc-go"
 
 [[repo]]
@@ -62,6 +80,7 @@ url = "https://github.com/Team-Kujira/kujira.ui"
 
 [[repo]]
 url = "https://github.com/Team-Kujira/liquidator"
+missing = true
 
 [[repo]]
 url = "https://github.com/Team-Kujira/localmoney"
@@ -77,6 +96,15 @@ url = "https://github.com/Team-Kujira/oracle-feeder"
 
 [[repo]]
 url = "https://github.com/Team-Kujira/oracle-price-feeder"
+
+[[repo]]
+url = "https://github.com/Team-Kujira/pond"
+
+[[repo]]
+url = "https://github.com/Team-Kujira/pond-images"
+
+[[repo]]
+url = "https://github.com/Team-Kujira/pond-ui"
 
 [[repo]]
 url = "https://github.com/Team-Kujira/senate"

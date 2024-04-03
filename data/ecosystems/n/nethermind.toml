@@ -13,25 +13,34 @@ url = "https://github.com/NethermindEth/0to1CairoDemo"
 url = "https://github.com/NethermindEth/AA_bundler"
 
 [[repo]]
+url = "https://github.com/NethermindEth/abm1559"
+
+[[repo]]
 url = "https://github.com/NethermindEth/account-abstraction-proxy"
 
 [[repo]]
 url = "https://github.com/NethermindEth/ansible-deployments"
+missing = true
 
 [[repo]]
 url = "https://github.com/NethermindEth/ansible-scripts"
 
 [[repo]]
 url = "https://github.com/NethermindEth/Art-Verse"
+missing = true
 
 [[repo]]
 url = "https://github.com/NethermindEth/Atlantis-Repo"
+missing = true
 
 [[repo]]
 url = "https://github.com/NethermindEth/aura-validators-monitoring"
 
 [[repo]]
 url = "https://github.com/NethermindEth/auto-generate-changelog"
+
+[[repo]]
+url = "https://github.com/NethermindEth/awesome-starknet"
 
 [[repo]]
 url = "https://github.com/NethermindEth/bandersnatch-sharp"
@@ -41,9 +50,13 @@ url = "https://github.com/NethermindEth/baseline"
 
 [[repo]]
 url = "https://github.com/NethermindEth/beacon-health-check"
+missing = true
 
 [[repo]]
 url = "https://github.com/NethermindEth/bench_precompiles"
+
+[[repo]]
+url = "https://github.com/NethermindEth/blockifier"
 
 [[repo]]
 url = "https://github.com/NethermindEth/bls"
@@ -55,13 +68,29 @@ url = "https://github.com/NethermindEth/boost-builder"
 url = "https://github.com/NethermindEth/bor"
 
 [[repo]]
+url = "https://github.com/NethermindEth/broadcaster"
+
+[[repo]]
+url = "https://github.com/NethermindEth/builder"
+
+[[repo]]
 url = "https://github.com/NethermindEth/caigo"
+missing = true
 
 [[repo]]
 url = "https://github.com/NethermindEth/cairo-lang"
 
 [[repo]]
+url = "https://github.com/NethermindEth/cairo-property-tester"
+
+[[repo]]
 url = "https://github.com/NethermindEth/Cairo-SafeMath"
+
+[[repo]]
+url = "https://github.com/NethermindEth/cairo-vm-go"
+
+[[repo]]
+url = "https://github.com/NethermindEth/cairo_zstd"
 
 [[repo]]
 url = "https://github.com/NethermindEth/CairoByExample"
@@ -88,7 +117,17 @@ url = "https://github.com/NethermindEth/cortex-cryptography-bls"
 url = "https://github.com/NethermindEth/cortex-ssz"
 
 [[repo]]
+url = "https://github.com/NethermindEth/courtney"
+
+[[repo]]
 url = "https://github.com/NethermindEth/crypto-cpp"
+missing = true
+
+[[repo]]
+url = "https://github.com/NethermindEth/cs-multiaddress"
+
+[[repo]]
+url = "https://github.com/NethermindEth/cs-multihash"
 
 [[repo]]
 url = "https://github.com/NethermindEth/DAppNodePackage-nethermind"
@@ -97,10 +136,22 @@ url = "https://github.com/NethermindEth/DAppNodePackage-nethermind"
 url = "https://github.com/NethermindEth/DAppNodePackage-nethermind-dev"
 
 [[repo]]
+url = "https://github.com/NethermindEth/DevOps_Microservices"
+
+[[repo]]
 url = "https://github.com/NethermindEth/Dirichlet"
 
 [[repo]]
+url = "https://github.com/NethermindEth/dispute-resolution-simulation"
+
+[[repo]]
+url = "https://github.com/NethermindEth/docker-volumes-snapshotter"
+
+[[repo]]
 url = "https://github.com/NethermindEth/docs"
+
+[[repo]]
+url = "https://github.com/NethermindEth/dotnet-libp2p"
 
 [[repo]]
 url = "https://github.com/NethermindEth/DotNetty"
@@ -110,9 +161,14 @@ url = "https://github.com/NethermindEth/drill"
 
 [[repo]]
 url = "https://github.com/NethermindEth/eigen-layer-flask"
+missing = true
 
 [[repo]]
 url = "https://github.com/NethermindEth/eigen-layer-snap"
+missing = true
+
+[[repo]]
+url = "https://github.com/NethermindEth/eigenlayer"
 
 [[repo]]
 url = "https://github.com/NethermindEth/eip1962"
@@ -122,6 +178,9 @@ url = "https://github.com/NethermindEth/eip2537rustwrapper"
 
 [[repo]]
 url = "https://github.com/NethermindEth/eip4844-interop"
+
+[[repo]]
+url = "https://github.com/NethermindEth/eks-nvme-ssd-provisioner"
 
 [[repo]]
 url = "https://github.com/NethermindEth/el-node-spec"
@@ -136,6 +195,9 @@ url = "https://github.com/NethermindEth/eth-docker-compose"
 url = "https://github.com/NethermindEth/eth-net-intelligence-api"
 
 [[repo]]
+url = "https://github.com/NethermindEth/eth-network-package"
+
+[[repo]]
 url = "https://github.com/NethermindEth/eth-pairings-bindings"
 
 [[repo]]
@@ -145,16 +207,23 @@ url = "https://github.com/NethermindEth/eth1.0-specs"
 url = "https://github.com/NethermindEth/eth2-monitor"
 
 [[repo]]
+url = "https://github.com/NethermindEth/eth2-package"
+
+[[repo]]
 url = "https://github.com/NethermindEth/eth2.0-specs"
 
 [[repo]]
 url = "https://github.com/NethermindEth/ethereum-tests"
 
 [[repo]]
+url = "https://github.com/NethermindEth/EthereumDiscordGuidebook"
+
+[[repo]]
 url = "https://github.com/NethermindEth/ethernodes-reporter"
 
 [[repo]]
 url = "https://github.com/NethermindEth/ethnode-sidecar"
+missing = true
 
 [[repo]]
 url = "https://github.com/NethermindEth/ethtaipei-cairo1-workshop"
@@ -164,6 +233,9 @@ url = "https://github.com/NethermindEth/evmone"
 
 [[repo]]
 url = "https://github.com/NethermindEth/ewc-validator-node-install-scripts"
+
+[[repo]]
+url = "https://github.com/NethermindEth/fb-builder"
 
 [[repo]]
 url = "https://github.com/NethermindEth/Forta-Agents"
@@ -182,6 +254,10 @@ url = "https://github.com/NethermindEth/gnosischain-deposit-contract"
 
 [[repo]]
 url = "https://github.com/NethermindEth/go-ethereum"
+missing = true
+
+[[repo]]
+url = "https://github.com/NethermindEth/go-ethereum-old"
 
 [[repo]]
 url = "https://github.com/NethermindEth/go-libp2p"
@@ -191,6 +267,9 @@ url = "https://github.com/NethermindEth/go-template"
 
 [[repo]]
 url = "https://github.com/NethermindEth/halo2"
+
+[[repo]]
+url = "https://github.com/NethermindEth/halo2-fv"
 
 [[repo]]
 url = "https://github.com/NethermindEth/hardhat-warp"
@@ -205,6 +284,9 @@ url = "https://github.com/NethermindEth/helm-charts"
 url = "https://github.com/NethermindEth/hive"
 
 [[repo]]
+url = "https://github.com/NethermindEth/holesky"
+
+[[repo]]
 url = "https://github.com/NethermindEth/homebrew-nethermind"
 
 [[repo]]
@@ -215,6 +297,9 @@ url = "https://github.com/NethermindEth/horus-checker"
 
 [[repo]]
 url = "https://github.com/NethermindEth/horus-compile"
+
+[[repo]]
+url = "https://github.com/NethermindEth/IL-EVM"
 
 [[repo]]
 url = "https://github.com/NethermindEth/int256"
@@ -230,6 +315,10 @@ url = "https://github.com/NethermindEth/juno-fork"
 
 [[repo]]
 url = "https://github.com/NethermindEth/juno-starknet-rs"
+missing = true
+
+[[repo]]
+url = "https://github.com/NethermindEth/juno-sync-test"
 
 [[repo]]
 url = "https://github.com/NethermindEth/kudu"
@@ -242,6 +331,9 @@ url = "https://github.com/NethermindEth/lido_phase_1"
 
 [[repo]]
 url = "https://github.com/NethermindEth/lighthouse-init-validator"
+
+[[repo]]
+url = "https://github.com/NethermindEth/linea-besu"
 
 [[repo]]
 url = "https://github.com/NethermindEth/Math.Gmp.Native"
@@ -259,6 +351,12 @@ url = "https://github.com/NethermindEth/metrics-infrastructure"
 url = "https://github.com/NethermindEth/mev-aa-geth"
 
 [[repo]]
+url = "https://github.com/NethermindEth/mev-boost"
+
+[[repo]]
+url = "https://github.com/NethermindEth/mev-boost-relay"
+
+[[repo]]
 url = "https://github.com/NethermindEth/mev-relay-js"
 
 [[repo]]
@@ -268,7 +366,23 @@ url = "https://github.com/NethermindEth/Mev-Searcher"
 url = "https://github.com/NethermindEth/middleware-spec"
 
 [[repo]]
+url = "https://github.com/NethermindEth/miners-register"
+
+[[repo]]
 url = "https://github.com/NethermindEth/mock-avs"
+
+[[repo]]
+url = "https://github.com/NethermindEth/mock-avs-pkg"
+
+[[repo]]
+url = "https://github.com/NethermindEth/mock-avs-src"
+
+[[repo]]
+url = "https://github.com/NethermindEth/monitor-qa"
+missing = true
+
+[[repo]]
+url = "https://github.com/NethermindEth/Mpt-Instruct-DotNet-S"
 
 [[repo]]
 url = "https://github.com/NethermindEth/NDM-consumer-samples"
@@ -281,9 +395,13 @@ url = "https://github.com/NethermindEth/near-prometheus-exporter"
 
 [[repo]]
 url = "https://github.com/NethermindEth/nether_solc"
+missing = true
 
 [[repo]]
 url = "https://github.com/NethermindEth/nethermind"
+
+[[repo]]
+url = "https://github.com/NethermindEth/nethermind-demerzel"
 
 [[repo]]
 url = "https://github.com/NethermindEth/nethermind-node-tests"
@@ -310,16 +428,30 @@ url = "https://github.com/NethermindEth/netherverse"
 url = "https://github.com/NethermindEth/nft-sleep-mint-forta-agent"
 
 [[repo]]
+url = "https://github.com/NethermindEth/node-monitor"
+
+[[repo]]
 url = "https://github.com/NethermindEth/nsec"
+missing = true
+
+[[repo]]
+url = "https://github.com/NethermindEth/op-builder"
 
 [[repo]]
 url = "https://github.com/NethermindEth/operator-tools"
+missing = true
+
+[[repo]]
+url = "https://github.com/NethermindEth/optimism"
 
 [[repo]]
 url = "https://github.com/NethermindEth/optimized_ecc_cairo"
 
 [[repo]]
 url = "https://github.com/NethermindEth/Paprika"
+
+[[repo]]
+url = "https://github.com/NethermindEth/pbs-on-bor"
 
 [[repo]]
 url = "https://github.com/NethermindEth/pedersen-go"
@@ -331,10 +463,14 @@ url = "https://github.com/NethermindEth/pipeline-plugins"
 url = "https://github.com/NethermindEth/polybft-cl-poc"
 
 [[repo]]
+url = "https://github.com/NethermindEth/polygon-builder"
+
+[[repo]]
 url = "https://github.com/NethermindEth/polygon-edge"
 
 [[repo]]
 url = "https://github.com/NethermindEth/posdao-contracts"
+missing = true
 
 [[repo]]
 url = "https://github.com/NethermindEth/posdao-test-setup"
@@ -344,6 +480,7 @@ url = "https://github.com/NethermindEth/posmoni"
 
 [[repo]]
 url = "https://github.com/NethermindEth/post-merge-smoke-tests"
+missing = true
 
 [[repo]]
 url = "https://github.com/NethermindEth/ppa-setup"
@@ -358,6 +495,9 @@ url = "https://github.com/NethermindEth/python-eth-amm"
 url = "https://github.com/NethermindEth/ray-tracing-bundles"
 
 [[repo]]
+url = "https://github.com/NethermindEth/remix-plugins-directory"
+
+[[repo]]
 url = "https://github.com/NethermindEth/research"
 
 [[repo]]
@@ -368,6 +508,7 @@ url = "https://github.com/NethermindEth/research-mnemonic"
 
 [[repo]]
 url = "https://github.com/NethermindEth/research-mnemonic-public"
+missing = true
 
 [[repo]]
 url = "https://github.com/NethermindEth/research-uint384-cairo"
@@ -376,10 +517,16 @@ url = "https://github.com/NethermindEth/research-uint384-cairo"
 url = "https://github.com/NethermindEth/restaking-dashboard"
 
 [[repo]]
+url = "https://github.com/NethermindEth/risc0-starkpack"
+
+[[repo]]
 url = "https://github.com/NethermindEth/rocksdb-sharp"
 
 [[repo]]
 url = "https://github.com/NethermindEth/rocksdb-sharp-1"
+
+[[repo]]
+url = "https://github.com/NethermindEth/rpc-docs"
 
 [[repo]]
 url = "https://github.com/NethermindEth/rust-verkle-wrapper"
@@ -400,7 +547,13 @@ url = "https://github.com/NethermindEth/sedge"
 url = "https://github.com/NethermindEth/shenlong"
 
 [[repo]]
+url = "https://github.com/NethermindEth/sign-in-with-starknet"
+
+[[repo]]
 url = "https://github.com/NethermindEth/silkworm"
+
+[[repo]]
+url = "https://github.com/NethermindEth/silkworm-demerzel"
 
 [[repo]]
 url = "https://github.com/NethermindEth/smartnode"
@@ -409,31 +562,72 @@ url = "https://github.com/NethermindEth/smartnode"
 url = "https://github.com/NethermindEth/smartnode-install"
 
 [[repo]]
+url = "https://github.com/NethermindEth/starknet-abi-form"
+
+[[repo]]
+url = "https://github.com/NethermindEth/starknet-foundry"
+
+[[repo]]
 url = "https://github.com/NethermindEth/starknet-p2p-specs"
+
+[[repo]]
+url = "https://github.com/NethermindEth/starknet-proposals-whisperer"
+
+[[repo]]
+url = "https://github.com/NethermindEth/starknet-remix-plugin"
+
+[[repo]]
+url = "https://github.com/NethermindEth/starknet-rpc-tests"
 
 [[repo]]
 url = "https://github.com/NethermindEth/starknet-state-verifier"
 
 [[repo]]
+url = "https://github.com/NethermindEth/starknet.go"
+
+[[repo]]
+url = "https://github.com/NethermindEth/starknet.unity"
+
+[[repo]]
+url = "https://github.com/NethermindEth/StarknetByExample"
+
+[[repo]]
 url = "https://github.com/NethermindEth/starkpack-winterfell"
+
+[[repo]]
+url = "https://github.com/NethermindEth/startnet"
+
+[[repo]]
+url = "https://github.com/NethermindEth/suapp"
+
+[[repo]]
+url = "https://github.com/NethermindEth/suave-geth"
 
 [[repo]]
 url = "https://github.com/NethermindEth/teku-init-validator"
 
 [[repo]]
 url = "https://github.com/NethermindEth/terraform-aws-polygon-technology-edge"
+missing = true
 
 [[repo]]
 url = "https://github.com/NethermindEth/terraform-nethermind"
+
+[[repo]]
+url = "https://github.com/NethermindEth/terraform-polygon-supernets"
 
 [[repo]]
 url = "https://github.com/NethermindEth/the-merge-scripts"
 
 [[repo]]
 url = "https://github.com/NethermindEth/timber"
+missing = true
 
 [[repo]]
 url = "https://github.com/NethermindEth/truffleTest"
+
+[[repo]]
+url = "https://github.com/NethermindEth/truffleTest-demerzel"
 
 [[repo]]
 url = "https://github.com/NethermindEth/tx-fuzz"
@@ -443,6 +637,7 @@ url = "https://github.com/NethermindEth/txfuzz"
 
 [[repo]]
 url = "https://github.com/NethermindEth/underhanded-cairo-contest"
+missing = true
 
 [[repo]]
 url = "https://github.com/NethermindEth/UniStark"
@@ -461,15 +656,24 @@ url = "https://github.com/NethermindEth/v3-periphery-archive"
 
 [[repo]]
 url = "https://github.com/NethermindEth/Validator-Block-Production-Tracking"
+missing = true
 
 [[repo]]
 url = "https://github.com/NethermindEth/validators-alerting-service"
 
 [[repo]]
+url = "https://github.com/NethermindEth/validators-watcher"
+
+[[repo]]
 url = "https://github.com/NethermindEth/vm-request-slack-bot"
+missing = true
 
 [[repo]]
 url = "https://github.com/NethermindEth/vmsToNotion"
+missing = true
+
+[[repo]]
+url = "https://github.com/NethermindEth/voyager-cli-verifier"
 
 [[repo]]
 url = "https://github.com/NethermindEth/voyager-translations"
@@ -487,6 +691,9 @@ url = "https://github.com/NethermindEth/warp-benchmark"
 url = "https://github.com/NethermindEth/warp-build-action"
 
 [[repo]]
+url = "https://github.com/NethermindEth/warp-packager"
+
+[[repo]]
 url = "https://github.com/NethermindEth/warp-plugin"
 
 [[repo]]
@@ -500,9 +707,16 @@ url = "https://github.com/NethermindEth/warping-contracts"
 
 [[repo]]
 url = "https://github.com/NethermindEth/WarpTemplates"
+missing = true
+
+[[repo]]
+url = "https://github.com/NethermindEth/wash-trade-detection-bot"
 
 [[repo]]
 url = "https://github.com/NethermindEth/winget-pkgs"
+
+[[repo]]
+url = "https://github.com/NethermindEth/withdrawals-testnet"
 
 [[repo]]
 url = "https://github.com/NethermindEth/workshop"
@@ -512,3 +726,6 @@ url = "https://github.com/NethermindEth/xdomain"
 
 [[repo]]
 url = "https://github.com/NethermindEth/Yul-Specification"
+
+[[repo]]
+url = "https://github.com/NethermindEth/zksync-remix-plugin"

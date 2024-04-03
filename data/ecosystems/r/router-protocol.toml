@@ -40,7 +40,13 @@ url = "https://github.com/router-protocol/ethers-multicall"
 url = "https://github.com/router-protocol/General-Grants-Program"
 
 [[repo]]
+url = "https://github.com/router-protocol/go-ethereum"
+
+[[repo]]
 url = "https://github.com/router-protocol/graph-node-custom"
+
+[[repo]]
+url = "https://github.com/router-protocol/hashi-router-integration"
 
 [[repo]]
 url = "https://github.com/router-protocol/logo"
@@ -50,6 +56,9 @@ url = "https://github.com/router-protocol/new-crosstalk-sample"
 
 [[repo]]
 url = "https://github.com/router-protocol/new-crosstalk-sample-1"
+
+[[repo]]
+url = "https://github.com/router-protocol/nitro-dapps-examples"
 
 [[repo]]
 url = "https://github.com/router-protocol/omniwallet"
@@ -115,6 +124,9 @@ url = "https://github.com/router-protocol/routerbridge-utils"
 url = "https://github.com/router-protocol/routerd-libs"
 
 [[repo]]
+url = "https://github.com/router-protocol/routerswap"
+
+[[repo]]
 url = "https://github.com/router-protocol/sdk-go"
 
 [[repo]]
@@ -122,6 +134,9 @@ url = "https://github.com/router-protocol/sdk-network-config"
 
 [[repo]]
 url = "https://github.com/router-protocol/snapshot-spaces"
+
+[[repo]]
+url = "https://github.com/router-protocol/stader_contracts"
 
 [[repo]]
 url = "https://github.com/router-protocol/substrate-node-template"
@@ -137,6 +152,9 @@ url = "https://github.com/router-protocol/validator-onboard"
 
 [[repo]]
 url = "https://github.com/router-protocol/wasmd"
+
+[[repo]]
+url = "https://github.com/router-protocol/web3-wallet-connector"
 
 [[repo]]
 url = "https://github.com/router-protocol/widget-react-template"

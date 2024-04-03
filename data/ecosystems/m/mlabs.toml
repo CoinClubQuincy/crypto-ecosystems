@@ -22,6 +22,9 @@ url = "https://github.com/mlabs-haskell/arloader"
 url = "https://github.com/mlabs-haskell/arlocal"
 
 [[repo]]
+url = "https://github.com/mlabs-haskell/atlas"
+
+[[repo]]
 url = "https://github.com/mlabs-haskell/audit"
 
 [[repo]]
@@ -55,6 +58,9 @@ url = "https://github.com/mlabs-haskell/cardano-configurations"
 url = "https://github.com/mlabs-haskell/cardano-db-sync"
 
 [[repo]]
+url = "https://github.com/mlabs-haskell/cardano-dev-wallet"
+
+[[repo]]
 url = "https://github.com/mlabs-haskell/cardano-ledger"
 
 [[repo]]
@@ -70,19 +76,43 @@ url = "https://github.com/mlabs-haskell/cardano-prelude"
 url = "https://github.com/mlabs-haskell/cardano-serialization-lib"
 
 [[repo]]
+url = "https://github.com/mlabs-haskell/cardano-serialization-lib-gc"
+
+[[repo]]
 url = "https://github.com/mlabs-haskell/cardano-token-registry"
+
+[[repo]]
+url = "https://github.com/mlabs-haskell/cardano-transaction-lib-atrium"
 
 [[repo]]
 url = "https://github.com/mlabs-haskell/cardano-wallet"
 
 [[repo]]
+url = "https://github.com/mlabs-haskell/cardano.nix"
+
+[[repo]]
+url = "https://github.com/mlabs-haskell/cardanow"
+
+[[repo]]
 url = "https://github.com/mlabs-haskell/CardStarter-bulk-airdrop-script"
+
+[[repo]]
+url = "https://github.com/mlabs-haskell/casper-examples"
 
 [[repo]]
 url = "https://github.com/mlabs-haskell/catalyst-funded-projects"
 
 [[repo]]
+url = "https://github.com/mlabs-haskell/cem-script"
+
+[[repo]]
 url = "https://github.com/mlabs-haskell/CIPs"
+
+[[repo]]
+url = "https://github.com/mlabs-haskell/clb"
+
+[[repo]]
+url = "https://github.com/mlabs-haskell/congested-testnet"
 
 [[repo]]
 url = "https://github.com/mlabs-haskell/csl-gc-wrapper"
@@ -100,6 +130,9 @@ url = "https://github.com/mlabs-haskell/ctl-scaffold"
 url = "https://github.com/mlabs-haskell/ctl-secp-mre"
 
 [[repo]]
+url = "https://github.com/mlabs-haskell/DeNS"
+
+[[repo]]
 url = "https://github.com/mlabs-haskell/digraph"
 
 [[repo]]
@@ -115,10 +148,20 @@ url = "https://github.com/mlabs-haskell/empty-flake"
 url = "https://github.com/mlabs-haskell/ErrorMessageInvestigation"
 
 [[repo]]
+url = "https://github.com/mlabs-haskell/fake-plutus-core"
+
+[[repo]]
+url = "https://github.com/mlabs-haskell/flake-lang.nix"
+
+[[repo]]
 url = "https://github.com/mlabs-haskell/flake-parts"
 
 [[repo]]
 url = "https://github.com/mlabs-haskell/freer-extras"
+
+[[repo]]
+url = "https://github.com/mlabs-haskell/gdext"
+missing = true
 
 [[repo]]
 url = "https://github.com/mlabs-haskell/GHAppy"
@@ -127,10 +170,16 @@ url = "https://github.com/mlabs-haskell/GHAppy"
 url = "https://github.com/mlabs-haskell/ghc-proposals"
 
 [[repo]]
+url = "https://github.com/mlabs-haskell/godot-cardano"
+
+[[repo]]
 url = "https://github.com/mlabs-haskell/gov"
 
 [[repo]]
 url = "https://github.com/mlabs-haskell/haskell-nix-extra-hackage"
+
+[[repo]]
+url = "https://github.com/mlabs-haskell/haskell-sdk"
 
 [[repo]]
 url = "https://github.com/mlabs-haskell/haskell.nix"
@@ -152,6 +201,12 @@ url = "https://github.com/mlabs-haskell/hydra"
 
 [[repo]]
 url = "https://github.com/mlabs-haskell/hydra-auction"
+
+[[repo]]
+url = "https://github.com/mlabs-haskell/hydra-auction-offchain"
+
+[[repo]]
+url = "https://github.com/mlabs-haskell/hydra-auction-onchain"
 
 [[repo]]
 url = "https://github.com/mlabs-haskell/hydra-demo"
@@ -181,7 +236,16 @@ url = "https://github.com/mlabs-haskell/kupo-nixos"
 url = "https://github.com/mlabs-haskell/lambda-buffers"
 
 [[repo]]
+url = "https://github.com/mlabs-haskell/lambda-buffers-for-cardano"
+
+[[repo]]
+url = "https://github.com/mlabs-haskell/lambdabuffers-cardano-demo"
+
+[[repo]]
 url = "https://github.com/mlabs-haskell/large-records"
+
+[[repo]]
+url = "https://github.com/mlabs-haskell/liqwid-libs"
 
 [[repo]]
 url = "https://github.com/mlabs-haskell/liqwid-nix"
@@ -202,10 +266,17 @@ url = "https://github.com/mlabs-haskell/medea-ps"
 url = "https://github.com/mlabs-haskell/metaplex"
 
 [[repo]]
+url = "https://github.com/mlabs-haskell/mina-playground"
+
+[[repo]]
+url = "https://github.com/mlabs-haskell/MinAuth"
+
+[[repo]]
 url = "https://github.com/mlabs-haskell/mlabs-tooling.nix"
 
 [[repo]]
 url = "https://github.com/mlabs-haskell/muesliswap-audit"
+missing = true
 
 [[repo]]
 url = "https://github.com/mlabs-haskell/muesliswap-audit-public"
@@ -229,6 +300,9 @@ url = "https://github.com/mlabs-haskell/nix"
 url = "https://github.com/mlabs-haskell/nix-ca-test"
 
 [[repo]]
+url = "https://github.com/mlabs-haskell/nixtract"
+
+[[repo]]
 url = "https://github.com/mlabs-haskell/node-dockerimage"
 
 [[repo]]
@@ -241,7 +315,13 @@ url = "https://github.com/mlabs-haskell/ogmios"
 url = "https://github.com/mlabs-haskell/ogmios-datum-cache"
 
 [[repo]]
+url = "https://github.com/mlabs-haskell/ogmios-nixos"
+
+[[repo]]
 url = "https://github.com/mlabs-haskell/opc-xml-da-client"
+
+[[repo]]
+url = "https://github.com/mlabs-haskell/orcfax-coop"
 
 [[repo]]
 url = "https://github.com/mlabs-haskell/oura"
@@ -277,6 +357,18 @@ url = "https://github.com/mlabs-haskell/plutus-extra-1"
 url = "https://github.com/mlabs-haskell/plutus-inbox-nfts"
 
 [[repo]]
+url = "https://github.com/mlabs-haskell/plutus-integer-bytestring"
+
+[[repo]]
+url = "https://github.com/mlabs-haskell/plutus-ledger-api-rust"
+
+[[repo]]
+url = "https://github.com/mlabs-haskell/plutus-ledger-api-typescript"
+
+[[repo]]
+url = "https://github.com/mlabs-haskell/plutus-ledger-types-rust"
+
+[[repo]]
 url = "https://github.com/mlabs-haskell/plutus-partial-tx"
 
 [[repo]]
@@ -310,7 +402,13 @@ url = "https://github.com/mlabs-haskell/ply"
 url = "https://github.com/mlabs-haskell/ply-ctl"
 
 [[repo]]
+url = "https://github.com/mlabs-haskell/prelude-typescript"
+
+[[repo]]
 url = "https://github.com/mlabs-haskell/private-test-network"
+
+[[repo]]
+url = "https://github.com/mlabs-haskell/proto.nix"
 
 [[repo]]
 url = "https://github.com/mlabs-haskell/protobufs.nix"
@@ -331,10 +429,16 @@ url = "https://github.com/mlabs-haskell/purescript-bridge"
 url = "https://github.com/mlabs-haskell/purescript-bridge-aeson-helpers"
 
 [[repo]]
+url = "https://github.com/mlabs-haskell/purescript-bytearrays"
+
+[[repo]]
 url = "https://github.com/mlabs-haskell/purescript-cardano-serialization-lib"
 
 [[repo]]
 url = "https://github.com/mlabs-haskell/purescript-cip30"
+
+[[repo]]
+url = "https://github.com/mlabs-haskell/purescript-cip30-typesafe"
 
 [[repo]]
 url = "https://github.com/mlabs-haskell/purescript-noble-secp256k1"
@@ -343,13 +447,29 @@ url = "https://github.com/mlabs-haskell/purescript-noble-secp256k1"
 url = "https://github.com/mlabs-haskell/purescript-spec"
 
 [[repo]]
+url = "https://github.com/mlabs-haskell/purescript-toppokki"
+
+[[repo]]
 url = "https://github.com/mlabs-haskell/purescript-tsd-gen"
+
+[[repo]]
+url = "https://github.com/mlabs-haskell/purus"
+
+[[repo]]
+url = "https://github.com/mlabs-haskell/push-cache-effect"
+missing = true
 
 [[repo]]
 url = "https://github.com/mlabs-haskell/radix-simple-oracle"
 
 [[repo]]
 url = "https://github.com/mlabs-haskell/radix-simple-vote"
+
+[[repo]]
+url = "https://github.com/mlabs-haskell/radix-snapshot-poll-concept"
+
+[[repo]]
+url = "https://github.com/mlabs-haskell/religant-integration-example"
 
 [[repo]]
 url = "https://github.com/mlabs-haskell/scrolls"
@@ -371,6 +491,7 @@ url = "https://github.com/mlabs-haskell/servant-purescript"
 
 [[repo]]
 url = "https://github.com/mlabs-haskell/singularitynet"
+missing = true
 
 [[repo]]
 url = "https://github.com/mlabs-haskell/snap-core"
@@ -379,10 +500,17 @@ url = "https://github.com/mlabs-haskell/snap-core"
 url = "https://github.com/mlabs-haskell/snap-server"
 
 [[repo]]
+url = "https://github.com/mlabs-haskell/snarky-purescript"
+
+[[repo]]
 url = "https://github.com/mlabs-haskell/solana"
+missing = true
 
 [[repo]]
 url = "https://github.com/mlabs-haskell/spec"
+
+[[repo]]
+url = "https://github.com/mlabs-haskell/spo-anywhere"
 
 [[repo]]
 url = "https://github.com/mlabs-haskell/styleguide"
@@ -392,15 +520,28 @@ url = "https://github.com/mlabs-haskell/text"
 
 [[repo]]
 url = "https://github.com/mlabs-haskell/the-plutus-scaffold"
+missing = true
 
 [[repo]]
 url = "https://github.com/mlabs-haskell/tokenomia"
+
+[[repo]]
+url = "https://github.com/mlabs-haskell/Tuxedo"
+
+[[repo]]
+url = "https://github.com/mlabs-haskell/uplc-apply-args"
+
+[[repo]]
+url = "https://github.com/mlabs-haskell/uplc-benchmark"
 
 [[repo]]
 url = "https://github.com/mlabs-haskell/vitrea"
 
 [[repo]]
 url = "https://github.com/mlabs-haskell/vulnix"
+
+[[repo]]
+url = "https://github.com/mlabs-haskell/wallet-auth"
 
 [[repo]]
 url = "https://github.com/mlabs-haskell/xlsx"

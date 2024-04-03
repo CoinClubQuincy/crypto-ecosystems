@@ -10,6 +10,9 @@ github_organizations = ["https://github.com/Plants-And-Pillars"]
 url = "https://github.com/Plants-And-Pillars/chainlink-spring-hack"
 
 [[repo]]
+url = "https://github.com/Plants-And-Pillars/hack-fs"
+
+[[repo]]
 url = "https://github.com/Plants-And-Pillars/Plants-And-Pillars"
 
 [[repo]]
@@ -17,3 +20,4 @@ url = "https://github.com/Plants-And-Pillars/polygon-apac-hack"
 
 [[repo]]
 url = "https://github.com/Plants-And-Pillars/zen-garden"
+missing = true

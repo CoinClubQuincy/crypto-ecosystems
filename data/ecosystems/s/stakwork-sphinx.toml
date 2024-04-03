@@ -10,7 +10,13 @@ github_organizations = ["https://github.com/stakwork"]
 url = "https://github.com/stakwork/c-lightning"
 
 [[repo]]
+url = "https://github.com/stakwork/cln-grpc-test"
+
+[[repo]]
 url = "https://github.com/stakwork/cln-sphinx"
+
+[[repo]]
+url = "https://github.com/stakwork/cln-sphinx-docker"
 
 [[repo]]
 url = "https://github.com/stakwork/fedimint"
@@ -47,6 +53,9 @@ url = "https://github.com/stakwork/sphinx-example-bot"
 
 [[repo]]
 url = "https://github.com/stakwork/sphinx-ios"
+
+[[repo]]
+url = "https://github.com/stakwork/sphinx-js"
 
 [[repo]]
 url = "https://github.com/stakwork/sphinx-key"
@@ -95,6 +104,9 @@ url = "https://github.com/stakwork/sphinx-tribes"
 
 [[repo]]
 url = "https://github.com/stakwork/sphinx-win-linux-desktop"
+
+[[repo]]
+url = "https://github.com/stakwork/stak-bounties"
 
 [[repo]]
 url = "https://github.com/stakwork/umbrel"

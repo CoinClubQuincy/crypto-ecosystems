@@ -49,6 +49,12 @@ url = "https://github.com/TrueBlocks/tokenomics"
 url = "https://github.com/TrueBlocks/tokenomics.io"
 
 [[repo]]
+url = "https://github.com/TrueBlocks/trueblocks-addressly"
+
+[[repo]]
+url = "https://github.com/TrueBlocks/trueblocks-compare"
+
+[[repo]]
 url = "https://github.com/TrueBlocks/trueblocks-compare-to-es"
 
 [[repo]]
@@ -59,6 +65,9 @@ url = "https://github.com/TrueBlocks/trueblocks-core"
 
 [[repo]]
 url = "https://github.com/TrueBlocks/trueblocks-dappnode"
+
+[[repo]]
+url = "https://github.com/TrueBlocks/trueblocks-dev"
 
 [[repo]]
 url = "https://github.com/TrueBlocks/trueblocks-docker"
@@ -83,6 +92,7 @@ url = "https://github.com/TrueBlocks/trueblocks-luz"
 
 [[repo]]
 url = "https://github.com/TrueBlocks/trueblocks-py"
+missing = true
 
 [[repo]]
 url = "https://github.com/TrueBlocks/trueblocks-rpc"
@@ -95,6 +105,12 @@ url = "https://github.com/TrueBlocks/trueblocks-sdk"
 
 [[repo]]
 url = "https://github.com/TrueBlocks/trueblocks-stack"
+
+[[repo]]
+url = "https://github.com/TrueBlocks/trueblocks-trove"
+
+[[repo]]
+url = "https://github.com/TrueBlocks/trueblocks-tutorials"
 
 [[repo]]
 url = "https://github.com/TrueBlocks/trueblocks-unchained"

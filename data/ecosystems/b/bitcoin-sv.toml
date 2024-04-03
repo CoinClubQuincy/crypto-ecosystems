@@ -1,7 +1,7 @@
 # Ecosystem Level Information
 title = "Bitcoin SV"
 
-sub_ecosystems = []
+sub_ecosystems = ["Edge"]
 
 github_organizations = ["https://github.com/bitcoin-sv"]
 
@@ -41,6 +41,15 @@ url = "https://github.com/bitcoin-sv/BRCs"
 url = "https://github.com/bitcoin-sv/bsv-components-library"
 
 [[repo]]
+url = "https://github.com/bitcoin-sv/bux-k8s-config"
+
+[[repo]]
+url = "https://github.com/bitcoin-sv/bux-wallet-backend"
+
+[[repo]]
+url = "https://github.com/bitcoin-sv/bux-wallet-frontend"
+
+[[repo]]
 url = "https://github.com/bitcoin-sv/create_db"
 
 [[repo]]
@@ -56,6 +65,12 @@ url = "https://github.com/bitcoin-sv/dpp-proxy"
 url = "https://github.com/bitcoin-sv/gitian.sigs"
 
 [[repo]]
+url = "https://github.com/bitcoin-sv/go-broadcast-client"
+
+[[repo]]
+url = "https://github.com/bitcoin-sv/go-paymail"
+
+[[repo]]
 url = "https://github.com/bitcoin-sv/mapi_common"
 
 [[repo]]
@@ -65,10 +80,19 @@ url = "https://github.com/bitcoin-sv/merchantapi-reference"
 url = "https://github.com/bitcoin-sv/minerid-reference"
 
 [[repo]]
+url = "https://github.com/bitcoin-sv/network-topology-c4-diagrams"
+
+[[repo]]
 url = "https://github.com/bitcoin-sv/OSSRH-71823"
 
 [[repo]]
 url = "https://github.com/bitcoin-sv/paymail-server"
+
+[[repo]]
+url = "https://github.com/bitcoin-sv/pulse"
+
+[[repo]]
+url = "https://github.com/bitcoin-sv/showcase-merkle-paths"
 
 [[repo]]
 url = "https://github.com/bitcoin-sv/sol2scrypt"
@@ -83,16 +107,22 @@ url = "https://github.com/bitcoin-sv/spvchannels-ios-reference"
 url = "https://github.com/bitcoin-sv/spvchannels-reference"
 
 [[repo]]
+url = "https://github.com/bitcoin-sv/template"
+
+[[repo]]
 url = "https://github.com/bitcoineler/BN"
+missing = true
 
 [[repo]]
 url = "https://github.com/bitcoinj-sv/bitcoinj-sv"
+missing = true
 
 [[repo]]
 url = "https://github.com/bitproton/coldwallet"
 
 [[repo]]
 url = "https://github.com/BitslerCasino/docker-bitcoinsv"
+missing = true
 
 [[repo]]
 url = "https://github.com/blockrange/bitcoin-SV"
@@ -114,6 +144,7 @@ url = "https://github.com/Firaenix/bsv-wasm"
 
 [[repo]]
 url = "https://github.com/flufy3d/MetaID"
+missing = true
 
 [[repo]]
 url = "https://github.com/gbtn/bitcoin-sv-gbtn"
@@ -123,6 +154,7 @@ url = "https://github.com/gitzhou/bitcoin-ecies"
 
 [[repo]]
 url = "https://github.com/gitzhou/bsv-tx-gun"
+missing = true
 
 [[repo]]
 url = "https://github.com/marcoadamo/bitcoin-sv-depends"

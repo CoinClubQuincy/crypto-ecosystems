@@ -8,6 +8,7 @@ github_organizations = ["https://github.com/0xSplits"]
 # Repositories
 [[repo]]
 url = "https://github.com/0xSplits/0xsplits-distributor-bot"
+missing = true
 
 [[repo]]
 url = "https://github.com/0xSplits/brand"
@@ -17,6 +18,9 @@ url = "https://github.com/0xSplits/clones-with-immutable-args"
 
 [[repo]]
 url = "https://github.com/0xSplits/docs"
+
+[[repo]]
+url = "https://github.com/0xSplits/headless-placeholder"
 
 [[repo]]
 url = "https://github.com/0xSplits/hot-chain-svg"

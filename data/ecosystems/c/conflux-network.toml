@@ -1,20 +1,24 @@
 # Ecosystem Level Information
 title = "Conflux Network"
 
-sub_ecosystems = ["Trust Domains","Swappi","Goledo","Nucleon","Fluent","Meson"]
+sub_ecosystems = [
+  "Celer Network cBridge",
+  "Fluent",
+  "Goledo",
+  "Meson",
+  "Nucleon",
+  "Swappi",
+  "Trust Domains",
+  "Witnet",
+]
 
 github_organizations = [
-  "https://github.com/conflux-chain",
   "https://github.com/Conflux-Chain",
-  "https://github.com/conflux-network-global",
   "https://github.com/Conflux-Network-Global",
   "https://github.com/Proposal-Stampers",
 ]
 
 # Repositories
-[[repo]]
-url = "https://github.com/Conflux-Chain/conflux-documentation"
-
 [[repo]]
 url = "https://github.com/Conflux-Chain/.github"
 
@@ -23,6 +27,10 @@ url = "https://github.com/Conflux-Chain/ant-design"
 
 [[repo]]
 url = "https://github.com/Conflux-Chain/API-Design-Guide"
+
+[[repo]]
+url = "https://github.com/Conflux-Chain/atom"
+missing = true
 
 [[repo]]
 url = "https://github.com/Conflux-Chain/bls-signatures"
@@ -43,6 +51,9 @@ url = "https://github.com/Conflux-Chain/CIPs"
 url = "https://github.com/Conflux-Chain/conflux-abigen"
 
 [[repo]]
+url = "https://github.com/Conflux-Chain/conflux-audits"
+
+[[repo]]
 url = "https://github.com/Conflux-Chain/conflux-bounty"
 
 [[repo]]
@@ -61,6 +72,9 @@ url = "https://github.com/Conflux-Chain/conflux-doc"
 url = "https://github.com/Conflux-Chain/conflux-docker"
 
 [[repo]]
+url = "https://github.com/Conflux-Chain/conflux-documentation"
+
+[[repo]]
 url = "https://github.com/Conflux-Chain/conflux-docusaurus-config"
 
 [[repo]]
@@ -70,10 +84,14 @@ url = "https://github.com/Conflux-Chain/conflux-evm-bridge"
 url = "https://github.com/Conflux-Chain/conflux-hw"
 
 [[repo]]
+url = "https://github.com/Conflux-Chain/conflux-light-contracts"
+
+[[repo]]
 url = "https://github.com/Conflux-Chain/conflux-monitor"
 
 [[repo]]
 url = "https://github.com/Conflux-Chain/conflux-nft-contract"
+missing = true
 
 [[repo]]
 url = "https://github.com/Conflux-Chain/conflux-parity-deps"
@@ -96,6 +114,9 @@ url = "https://github.com/Conflux-Chain/conflux-remix"
 [[repo]]
 url = "https://github.com/Conflux-Chain/conflux-rust"
 tags = ["Protocol"]
+
+[[repo]]
+url = "https://github.com/Conflux-Chain/conflux-rust-dev-contracts"
 
 [[repo]]
 url = "https://github.com/Conflux-Chain/conflux-rust-test-toolkits"
@@ -137,7 +158,13 @@ url = "https://github.com/Conflux-Chain/confura"
 url = "https://github.com/Conflux-Chain/CrossChain"
 
 [[repo]]
+url = "https://github.com/Conflux-Chain/dapp-omnibus"
+
+[[repo]]
 url = "https://github.com/Conflux-Chain/design-resource-lab"
+
+[[repo]]
+url = "https://github.com/Conflux-Chain/ecosystem"
 
 [[repo]]
 url = "https://github.com/Conflux-Chain/fc-contract"
@@ -185,6 +212,10 @@ url = "https://github.com/Conflux-Chain/java-sdk-example"
 url = "https://github.com/Conflux-Chain/js-conflux-sdk"
 
 [[repo]]
+url = "https://github.com/Conflux-Chain/js-neurahive-sdk"
+missing = true
+
+[[repo]]
 url = "https://github.com/Conflux-Chain/jsonrpc-spec"
 
 [[repo]]
@@ -192,6 +223,22 @@ url = "https://github.com/Conflux-Chain/ledger-app-conflux"
 
 [[repo]]
 url = "https://github.com/Conflux-Chain/libcfxaddr"
+
+[[repo]]
+url = "https://github.com/Conflux-Chain/neurahive-client"
+missing = true
+
+[[repo]]
+url = "https://github.com/Conflux-Chain/neurahive-contracts"
+missing = true
+
+[[repo]]
+url = "https://github.com/Conflux-Chain/neurahive-rust"
+missing = true
+
+[[repo]]
+url = "https://github.com/Conflux-Chain/neurahive-scan"
+missing = true
 
 [[repo]]
 url = "https://github.com/Conflux-Chain/nft-viewer"
@@ -213,6 +260,7 @@ url = "https://github.com/Conflux-Chain/react-ui"
 
 [[repo]]
 url = "https://github.com/Conflux-Chain/rigel"
+missing = true
 
 [[repo]]
 url = "https://github.com/Conflux-Chain/rocksdb"
@@ -258,6 +306,9 @@ url = "https://github.com/Conflux-Chain/web3pay-sdk-js"
 
 [[repo]]
 url = "https://github.com/Conflux-Chain/web3pay-service"
+
+[[repo]]
+url = "https://github.com/Conflux-Chain/WrappedConflux"
 
 [[repo]]
 url = "https://github.com/Conflux-Chain/zh-hans.developer.confluxnetwork.org"

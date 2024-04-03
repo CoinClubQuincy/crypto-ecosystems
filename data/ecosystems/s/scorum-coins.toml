@@ -16,7 +16,13 @@ url = "https://github.com/scorum/bitshares-go"
 url = "https://github.com/scorum/build_image"
 
 [[repo]]
+url = "https://github.com/scorum/chain-registry"
+
+[[repo]]
 url = "https://github.com/scorum/clappr-flvjs-playback"
+
+[[repo]]
+url = "https://github.com/scorum/cosmos-network"
 
 [[repo]]
 url = "https://github.com/scorum/doc"
@@ -34,10 +40,16 @@ url = "https://github.com/scorum/hippomocks"
 url = "https://github.com/scorum/javascript"
 
 [[repo]]
+url = "https://github.com/scorum/keplr-chain-registry"
+
+[[repo]]
 url = "https://github.com/scorum/medium-editor"
 
 [[repo]]
 url = "https://github.com/scorum/mongo-exporter"
+
+[[repo]]
+url = "https://github.com/scorum/network-client-go"
 
 [[repo]]
 url = "https://github.com/scorum/node-bootstrap"
@@ -68,3 +80,6 @@ url = "https://github.com/scorum/scorum-side-js"
 
 [[repo]]
 url = "https://github.com/scorum/scorumapi-py"
+
+[[repo]]
+url = "https://github.com/scorum/test-task"

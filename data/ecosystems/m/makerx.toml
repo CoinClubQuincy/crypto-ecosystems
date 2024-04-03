@@ -10,7 +10,14 @@ github_organizations = ["https://github.com/MakerXStudio"]
 url = "https://github.com/MakerXStudio/algorand-hashlips-minter"
 
 [[repo]]
+url = "https://github.com/MakerXStudio/algorand-indexer-poc"
+
+[[repo]]
 url = "https://github.com/MakerXStudio/algorand-sandbox-dev"
+
+[[repo]]
+url = "https://github.com/MakerXStudio/automatic1111-sdxl-docker"
+missing = true
 
 [[repo]]
 url = "https://github.com/MakerXStudio/capacitor-stripe"
@@ -22,7 +29,25 @@ url = "https://github.com/MakerXStudio/cloudwatch-error-alarms"
 url = "https://github.com/MakerXStudio/EventBridgeDemo"
 
 [[repo]]
+url = "https://github.com/MakerXStudio/express-bearer"
+
+[[repo]]
+url = "https://github.com/MakerXStudio/express-msal"
+
+[[repo]]
 url = "https://github.com/MakerXStudio/forms"
+
+[[repo]]
+url = "https://github.com/MakerXStudio/graphql-apollo-server"
+
+[[repo]]
+url = "https://github.com/MakerXStudio/graphql-core"
+
+[[repo]]
+url = "https://github.com/MakerXStudio/node-common"
+
+[[repo]]
+url = "https://github.com/MakerXStudio/node-winston"
 
 [[repo]]
 url = "https://github.com/MakerXStudio/repository-website-generator"
@@ -41,3 +66,9 @@ url = "https://github.com/MakerXStudio/ts-dossier"
 
 [[repo]]
 url = "https://github.com/MakerXStudio/ts-toolkit"
+
+[[repo]]
+url = "https://github.com/MakerXStudio/typeorm-pg-toolkit"
+
+[[repo]]
+url = "https://github.com/MakerXStudio/use-wallet"

@@ -17,6 +17,7 @@ url = "https://github.com/curvefi/brownie-tutorial"
 
 [[repo]]
 url = "https://github.com/curvefi/connect-thegraph-voting"
+missing = true
 
 [[repo]]
 url = "https://github.com/curvefi/contract-migrations"
@@ -32,6 +33,10 @@ url = "https://github.com/curvefi/CRV-distribution-data"
 
 [[repo]]
 url = "https://github.com/curvefi/crv.finance"
+missing = true
+
+[[repo]]
+url = "https://github.com/curvefi/crvusd-ape-tutorial"
 
 [[repo]]
 url = "https://github.com/curvefi/crypto_lp_pricing"
@@ -46,6 +51,9 @@ url = "https://github.com/curvefi/cryptopool-simulator"
 url = "https://github.com/curvefi/curve-api"
 
 [[repo]]
+url = "https://github.com/curvefi/curve-api-metadata"
+
+[[repo]]
 url = "https://github.com/curvefi/curve-aragon-voting"
 
 [[repo]]
@@ -58,6 +66,9 @@ url = "https://github.com/curvefi/curve-assets-1"
 url = "https://github.com/curvefi/curve-base-repo"
 
 [[repo]]
+url = "https://github.com/curvefi/curve-burners"
+
+[[repo]]
 url = "https://github.com/curvefi/curve-contract"
 
 [[repo]]
@@ -65,6 +76,9 @@ url = "https://github.com/curvefi/curve-contract-polygon"
 
 [[repo]]
 url = "https://github.com/curvefi/curve-cross-asset-swaps"
+
+[[repo]]
+url = "https://github.com/curvefi/curve-crypto-calc"
 
 [[repo]]
 url = "https://github.com/curvefi/curve-crypto-contract"
@@ -80,6 +94,9 @@ url = "https://github.com/curvefi/curve-dao-operations"
 
 [[repo]]
 url = "https://github.com/curvefi/curve-docs"
+
+[[repo]]
+url = "https://github.com/curvefi/curve-external-integrations"
 
 [[repo]]
 url = "https://github.com/curvefi/curve-factory"
@@ -112,10 +129,19 @@ url = "https://github.com/curvefi/curve-ren-adapter"
 url = "https://github.com/curvefi/curve-router-js"
 
 [[repo]]
+url = "https://github.com/curvefi/curve-router-ng"
+
+[[repo]]
+url = "https://github.com/curvefi/curve-snapshot"
+
+[[repo]]
 url = "https://github.com/curvefi/curve-stable-peg"
 
 [[repo]]
 url = "https://github.com/curvefi/curve-stablecoin"
+
+[[repo]]
+url = "https://github.com/curvefi/curve-stablecoin-dashboard"
 
 [[repo]]
 url = "https://github.com/curvefi/curve-stablecoin-js"
@@ -128,15 +154,20 @@ url = "https://github.com/curvefi/curve-subgraph"
 
 [[repo]]
 url = "https://github.com/curvefi/curve-ui"
+missing = true
 
 [[repo]]
 url = "https://github.com/curvefi/curve-veBoost"
 
 [[repo]]
 url = "https://github.com/curvefi/curve-vue"
+missing = true
 
 [[repo]]
 url = "https://github.com/curvefi/curve-xchain-factory"
+
+[[repo]]
+url = "https://github.com/curvefi/curve-xdao"
 
 [[repo]]
 url = "https://github.com/curvefi/curve-xgov"
@@ -175,16 +206,29 @@ url = "https://github.com/curvefi/security-incident-reports"
 url = "https://github.com/curvefi/snapshot"
 
 [[repo]]
+url = "https://github.com/curvefi/stableswap-ng"
+
+[[repo]]
+url = "https://github.com/curvefi/third-party-vault-oracles"
+
+[[repo]]
 url = "https://github.com/curvefi/tricrypto-ng"
 
 [[repo]]
+url = "https://github.com/curvefi/twocrypto-ng"
+
+[[repo]]
 url = "https://github.com/curvefi/unipool-fork"
+
+[[repo]]
+url = "https://github.com/curvefi/vest-split"
 
 [[repo]]
 url = "https://github.com/curvefi/volume-subgraphs"
 
 [[repo]]
 url = "https://github.com/curvefi/votingescrow-subgraph"
+missing = true
 
 [[repo]]
 url = "https://github.com/curvefi/vyper-tutorial"

@@ -70,6 +70,9 @@ url = "https://github.com/iden3/distanceProver"
 url = "https://github.com/iden3/docs"
 
 [[repo]]
+url = "https://github.com/iden3/eslint-config"
+
+[[repo]]
 url = "https://github.com/iden3/eslint-config-react-ts"
 
 [[repo]]
@@ -77,6 +80,9 @@ url = "https://github.com/iden3/fastfile"
 
 [[repo]]
 url = "https://github.com/iden3/ffiasm"
+
+[[repo]]
+url = "https://github.com/iden3/ffiasm-old"
 
 [[repo]]
 url = "https://github.com/iden3/ffjavascript"
@@ -139,6 +145,9 @@ url = "https://github.com/iden3/go-schema-processor"
 url = "https://github.com/iden3/go-schema-registry-wrapper"
 
 [[repo]]
+url = "https://github.com/iden3/go-service-template"
+
+[[repo]]
 url = "https://github.com/iden3/go-wasm3"
 
 [[repo]]
@@ -178,6 +187,9 @@ url = "https://github.com/iden3/js-iden3-auth"
 url = "https://github.com/iden3/js-iden3-core"
 
 [[repo]]
+url = "https://github.com/iden3/js-iden3-eslint-config"
+
+[[repo]]
 url = "https://github.com/iden3/js-jsonld-merklization"
 
 [[repo]]
@@ -188,6 +200,9 @@ url = "https://github.com/iden3/js-merkletree"
 
 [[repo]]
 url = "https://github.com/iden3/merkletree-proof"
+
+[[repo]]
+url = "https://github.com/iden3/notification-service"
 
 [[repo]]
 url = "https://github.com/iden3/notifications-server"
@@ -214,7 +229,16 @@ url = "https://github.com/iden3/r1csoptimize"
 url = "https://github.com/iden3/rapidsnark"
 
 [[repo]]
+url = "https://github.com/iden3/rapidsnark-old"
+
+[[repo]]
+url = "https://github.com/iden3/react-native-rapidsnark"
+
+[[repo]]
 url = "https://github.com/iden3/research"
+
+[[repo]]
+url = "https://github.com/iden3/reverse-hash-service"
 
 [[repo]]
 url = "https://github.com/iden3/rollup"
@@ -224,6 +248,9 @@ url = "https://github.com/iden3/schema-explorer"
 
 [[repo]]
 url = "https://github.com/iden3/snarkjs"
+
+[[repo]]
+url = "https://github.com/iden3/snarkjs-generate-solidity"
 
 [[repo]]
 url = "https://github.com/iden3/trustlessrelayercircuit"

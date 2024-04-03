@@ -11,9 +11,11 @@ url = "https://github.com/spherity/aries-rfcs-veramo-plugin"
 
 [[repo]]
 url = "https://github.com/spherity/charts"
+missing = true
 
 [[repo]]
 url = "https://github.com/spherity/credential-status"
+missing = true
 
 [[repo]]
 url = "https://github.com/spherity/did-eth"
@@ -26,9 +28,13 @@ url = "https://github.com/spherity/did-extension-ethr"
 
 [[repo]]
 url = "https://github.com/spherity/docker-indy-node"
+missing = true
 
 [[repo]]
 url = "https://github.com/spherity/EIPs"
+
+[[repo]]
+url = "https://github.com/spherity/ERCs"
 
 [[repo]]
 url = "https://github.com/spherity/ethr-did"
@@ -47,6 +53,7 @@ url = "https://github.com/spherity/ethr-revocation-registry-veramo-plugin"
 
 [[repo]]
 url = "https://github.com/spherity/kerijs"
+missing = true
 
 [[repo]]
 url = "https://github.com/spherity/Pathogen-Vocab"
@@ -59,15 +66,20 @@ url = "https://github.com/spherity/schemas"
 
 [[repo]]
 url = "https://github.com/spherity/sovrin-container"
+missing = true
 
 [[repo]]
 url = "https://github.com/spherity/spec-template"
+
+[[repo]]
+url = "https://github.com/spherity/trusted-hint-registry"
 
 [[repo]]
 url = "https://github.com/spherity/trustframework"
 
 [[repo]]
 url = "https://github.com/spherity/uport-did-driver"
+missing = true
 
 [[repo]]
 url = "https://github.com/spherity/vc"

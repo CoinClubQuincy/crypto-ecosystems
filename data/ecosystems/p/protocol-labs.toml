@@ -2,23 +2,33 @@
 title = "Protocol Labs"
 
 sub_ecosystems = [
+  "Banyan Network",
+  "BitElite",
+  "CookBook",
   "Ethernal-Tech",
   "Factor8 Solutions",
+  "Filmine",
   "FilSwan",
   "Froghub",
   "Kamu",
   "Lemonade",
   "Lighthouse web3",
+  "MerkleBot",
   "Metapals",
   "Ownership Labs (Dataverse)",
+  "Peeranha",
   "Plants and PIllars",
   "Polyphene",
+  "Portrait.gg",
   "Shamba",
   "Spheron Protocol",
   "SPNDAO",
   "Starboard",
   "Third Storage",
+  "Trustified Network",
   "Valist",
+  "Zerion",
+  "ZKsig",
 ]
 
 github_organizations = ["https://github.com/filedrive-team", "https://github.com/protocol"]
@@ -178,6 +188,9 @@ url = "https://github.com/protocol/beyond-bitswap"
 url = "https://github.com/protocol/bifrost-community"
 
 [[repo]]
+url = "https://github.com/protocol/bifrost-website"
+
+[[repo]]
 url = "https://github.com/protocol/bps"
 
 [[repo]]
@@ -200,6 +213,9 @@ url = "https://github.com/protocol/CryptoComputeLab"
 
 [[repo]]
 url = "https://github.com/protocol/CryptoEconLab"
+
+[[repo]]
+url = "https://github.com/protocol/CryptoEconLab-Qredo-Collab"
 
 [[repo]]
 url = "https://github.com/protocol/CryptoNetLab"
@@ -283,7 +299,14 @@ url = "https://github.com/protocol/launchpad-tutorials"
 url = "https://github.com/protocol/launchpad-website"
 
 [[repo]]
+url = "https://github.com/protocol/mechafil-jax"
+
+[[repo]]
+url = "https://github.com/protocol/mechafil-jax-web"
+
+[[repo]]
 url = "https://github.com/protocol/moonlanding"
+missing = true
 
 [[repo]]
 url = "https://github.com/protocol/multiple-go-modules"
@@ -311,9 +334,13 @@ url = "https://github.com/protocol/probelab"
 
 [[repo]]
 url = "https://github.com/protocol/probelab-infra"
+missing = true
 
 [[repo]]
 url = "https://github.com/protocol/prodeng"
+
+[[repo]]
+url = "https://github.com/protocol/pystarboard"
 
 [[repo]]
 url = "https://github.com/protocol/read-irec-pdfs"
@@ -341,6 +368,9 @@ url = "https://github.com/protocol/sessionizer"
 
 [[repo]]
 url = "https://github.com/protocol/the-spark"
+
+[[repo]]
+url = "https://github.com/protocol/upptime-pln"
 
 [[repo]]
 url = "https://github.com/protocol/vdf"

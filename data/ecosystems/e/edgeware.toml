@@ -116,10 +116,15 @@ url = "https://github.com/edgeware-network/anon"
 url = "https://github.com/edgeware-network/apps"
 
 [[repo]]
+url = "https://github.com/edgeware-network/CSP"
+missing = true
+
+[[repo]]
 url = "https://github.com/edgeware-network/dotdrop"
 
 [[repo]]
 url = "https://github.com/edgeware-network/dotdrop-1"
+missing = true
 
 [[repo]]
 url = "https://github.com/edgeware-network/dotvanity"
@@ -132,12 +137,22 @@ url = "https://github.com/edgeware-network/EdgeCause"
 
 [[repo]]
 url = "https://github.com/edgeware-network/EdgeChat"
+missing = true
 
 [[repo]]
 url = "https://github.com/edgeware-network/EdgeFlow"
 
 [[repo]]
+url = "https://github.com/edgeware-network/EdgeSafe"
+
+[[repo]]
+url = "https://github.com/edgeware-network/EdgeSnap"
+
+[[repo]]
 url = "https://github.com/edgeware-network/edgeware-chainlink"
+
+[[repo]]
+url = "https://github.com/edgeware-network/edgeware-cli"
 
 [[repo]]
 url = "https://github.com/edgeware-network/edgeware-docker"
@@ -200,6 +215,9 @@ url = "https://github.com/edgeware-network/ledger-edgeware"
 url = "https://github.com/edgeware-network/ledger-edgeware-new"
 
 [[repo]]
+url = "https://github.com/edgeware-network/LexBridge-UI"
+
+[[repo]]
 url = "https://github.com/edgeware-network/lockdrop-data"
 
 [[repo]]
@@ -218,6 +236,9 @@ url = "https://github.com/edgeware-network/new-edgeware-docs"
 url = "https://github.com/edgeware-network/node-tests"
 
 [[repo]]
+url = "https://github.com/edgeware-network/OofMedia"
+
+[[repo]]
 url = "https://github.com/edgeware-network/open-runtime-module-library"
 
 [[repo]]
@@ -234,6 +255,15 @@ url = "https://github.com/edgeware-network/Project-Registry"
 
 [[repo]]
 url = "https://github.com/edgeware-network/rosetta-node-sdk"
+
+[[repo]]
+url = "https://github.com/edgeware-network/safe-client-gateway"
+
+[[repo]]
+url = "https://github.com/edgeware-network/safe-config-service"
+
+[[repo]]
+url = "https://github.com/edgeware-network/safe-transaction-service"
 
 [[repo]]
 url = "https://github.com/edgeware-network/SimpleUI"

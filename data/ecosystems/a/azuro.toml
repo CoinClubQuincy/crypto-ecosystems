@@ -19,7 +19,14 @@ url = "https://github.com/Azuro-protocol/AirDrop"
 url = "https://github.com/Azuro-protocol/Azuro-Archive"
 
 [[repo]]
+url = "https://github.com/Azuro-protocol/azuro-freebets-admin"
+missing = true
+
+[[repo]]
 url = "https://github.com/Azuro-protocol/azuro-learn-starter"
+
+[[repo]]
+url = "https://github.com/Azuro-protocol/Azuro-subgraphs"
 
 [[repo]]
 url = "https://github.com/Azuro-protocol/azuro-tutorial-app"
@@ -34,6 +41,9 @@ url = "https://github.com/Azuro-protocol/Bug-Bounty"
 url = "https://github.com/Azuro-protocol/build-own-front-example"
 
 [[repo]]
+url = "https://github.com/Azuro-protocol/ClaimToken"
+
+[[repo]]
 url = "https://github.com/Azuro-protocol/DefiLlama-Adapters"
 
 [[repo]]
@@ -44,12 +54,16 @@ url = "https://github.com/Azuro-protocol/Dictionaries"
 
 [[repo]]
 url = "https://github.com/Azuro-protocol/dictionaries-package"
+missing = true
 
 [[repo]]
 url = "https://github.com/Azuro-protocol/dimension-adapters"
 
 [[repo]]
 url = "https://github.com/Azuro-protocol/gem-docs"
+
+[[repo]]
+url = "https://github.com/Azuro-protocol/hop-react-sdk"
 
 [[repo]]
 url = "https://github.com/Azuro-protocol/images-generator"
@@ -74,12 +88,15 @@ url = "https://github.com/Azuro-protocol/public-config"
 
 [[repo]]
 url = "https://github.com/Azuro-protocol/sdk"
+missing = true
 
 [[repo]]
 url = "https://github.com/Azuro-protocol/sdk-docs"
+missing = true
 
 [[repo]]
 url = "https://github.com/Azuro-protocol/sdk-react-example"
+missing = true
 
 [[repo]]
 url = "https://github.com/Azuro-protocol/toolkit"

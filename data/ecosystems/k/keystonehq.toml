@@ -14,6 +14,7 @@ url = "https://github.com/KeystoneHQ/Airgapped-Wallet-Community"
 
 [[repo]]
 url = "https://github.com/KeystoneHQ/algebra"
+missing = true
 
 [[repo]]
 url = "https://github.com/KeystoneHQ/aptos-core"
@@ -25,13 +26,22 @@ url = "https://github.com/KeystoneHQ/ArConnect"
 url = "https://github.com/KeystoneHQ/backpack"
 
 [[repo]]
+url = "https://github.com/KeystoneHQ/base32"
+
+[[repo]]
 url = "https://github.com/KeystoneHQ/bc-ur-rust"
 
 [[repo]]
 url = "https://github.com/KeystoneHQ/bcs"
 
 [[repo]]
+url = "https://github.com/KeystoneHQ/BCSwiftCrypto"
+
+[[repo]]
 url = "https://github.com/KeystoneHQ/BCSwiftDCBOR"
+
+[[repo]]
+url = "https://github.com/KeystoneHQ/BCSwiftFloat16"
 
 [[repo]]
 url = "https://github.com/KeystoneHQ/bitcoinblackfriday.org"
@@ -61,6 +71,9 @@ url = "https://github.com/KeystoneHQ/commit-linter"
 url = "https://github.com/KeystoneHQ/controllers"
 
 [[repo]]
+url = "https://github.com/KeystoneHQ/cosmos-rust"
+
+[[repo]]
 url = "https://github.com/KeystoneHQ/crypto-coin-kit"
 
 [[repo]]
@@ -80,6 +93,7 @@ url = "https://github.com/KeystoneHQ/ethhub"
 
 [[repo]]
 url = "https://github.com/KeystoneHQ/fastcrypto"
+missing = true
 
 [[repo]]
 url = "https://github.com/KeystoneHQ/Grants-Program"
@@ -142,7 +156,17 @@ url = "https://github.com/KeystoneHQ/keystone-sdk-web-demo"
 url = "https://github.com/KeystoneHQ/keystone-se-firmware"
 
 [[repo]]
+url = "https://github.com/KeystoneHQ/keystone-suite"
+
+[[repo]]
 url = "https://github.com/KeystoneHQ/Keystone-system"
+
+[[repo]]
+url = "https://github.com/KeystoneHQ/keystone3-bootloader"
+missing = true
+
+[[repo]]
+url = "https://github.com/KeystoneHQ/keystone3-firmware"
 
 [[repo]]
 url = "https://github.com/KeystoneHQ/KeystoneQRVerifier"
@@ -175,6 +199,9 @@ url = "https://github.com/KeystoneHQ/onboard"
 url = "https://github.com/KeystoneHQ/parity-signer"
 
 [[repo]]
+url = "https://github.com/KeystoneHQ/Rabby"
+
+[[repo]]
 url = "https://github.com/KeystoneHQ/rcc_android"
 
 [[repo]]
@@ -188,6 +215,15 @@ url = "https://github.com/KeystoneHQ/Research"
 
 [[repo]]
 url = "https://github.com/KeystoneHQ/rippled_binary_codec"
+
+[[repo]]
+url = "https://github.com/KeystoneHQ/rs-stellar-strkey"
+
+[[repo]]
+url = "https://github.com/KeystoneHQ/rs-stellar-xdr"
+
+[[repo]]
+url = "https://github.com/KeystoneHQ/rust-bitcoin"
 
 [[repo]]
 url = "https://github.com/KeystoneHQ/rust-compression"
@@ -212,6 +248,19 @@ url = "https://github.com/KeystoneHQ/safe-react"
 
 [[repo]]
 url = "https://github.com/KeystoneHQ/safe-react-mainnet"
+
+[[repo]]
+url = "https://github.com/KeystoneHQ/secp256k1-zkp"
+
+[[repo]]
+url = "https://github.com/KeystoneHQ/secp256k1-zkp.swift"
+missing = true
+
+[[repo]]
+url = "https://github.com/KeystoneHQ/secp256k1.swift"
+
+[[repo]]
+url = "https://github.com/KeystoneHQ/serde-value"
 
 [[repo]]
 url = "https://github.com/KeystoneHQ/shamir-secret"

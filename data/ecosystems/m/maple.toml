@@ -113,6 +113,7 @@ url = "https://github.com/maple-labs/maple-docs"
 
 [[repo]]
 url = "https://github.com/maple-labs/maple-js"
+missing = true
 
 [[repo]]
 url = "https://github.com/maple-labs/maple-proxy-factory"
@@ -142,6 +143,9 @@ url = "https://github.com/maple-labs/mpl-migration"
 url = "https://github.com/maple-labs/mpl-rewards"
 
 [[repo]]
+url = "https://github.com/maple-labs/mplv2"
+
+[[repo]]
 url = "https://github.com/maple-labs/non-transparent-proxy"
 
 [[repo]]
@@ -155,6 +159,9 @@ url = "https://github.com/maple-labs/oracle"
 
 [[repo]]
 url = "https://github.com/maple-labs/pool"
+
+[[repo]]
+url = "https://github.com/maple-labs/pool-permission-manager"
 
 [[repo]]
 url = "https://github.com/maple-labs/pool-v2"
@@ -206,6 +213,12 @@ url = "https://github.com/maple-labs/weth-simulation"
 
 [[repo]]
 url = "https://github.com/maple-labs/withdrawal-manager"
+
+[[repo]]
+url = "https://github.com/maple-labs/withdrawal-manager-cyclical"
+
+[[repo]]
+url = "https://github.com/maple-labs/withdrawal-manager-queue"
 
 [[repo]]
 url = "https://github.com/maple-labs/xMPL"

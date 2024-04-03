@@ -10,6 +10,9 @@ github_organizations = ["https://github.com/NonceGeek"]
 url = "https://github.com/NonceGeek/.github"
 
 [[repo]]
+url = "https://github.com/NonceGeek/ai-based-smart-contract-explorer"
+
+[[repo]]
 url = "https://github.com/NonceGeek/Airdropper-Based-On-Github"
 
 [[repo]]
@@ -20,6 +23,9 @@ url = "https://github.com/NonceGeek/AntiConsensusLab"
 
 [[repo]]
 url = "https://github.com/NonceGeek/aptos-NFT-marketplace"
+
+[[repo]]
+url = "https://github.com/NonceGeek/aptos_dapp_ex"
 
 [[repo]]
 url = "https://github.com/NonceGeek/aptos_e2e_test_tool"
@@ -40,6 +46,12 @@ url = "https://github.com/NonceGeek/Arweave-Gist-Uploader-Plugin"
 url = "https://github.com/NonceGeek/arweave-polygon-uploader"
 
 [[repo]]
+url = "https://github.com/NonceGeek/Arweave-Vector-Dataset-Uploader-Plugin"
+
+[[repo]]
+url = "https://github.com/NonceGeek/Arweave-Vector-Datset-Uploader-Plugin"
+
+[[repo]]
 url = "https://github.com/NonceGeek/arweave_ex"
 
 [[repo]]
@@ -49,10 +61,34 @@ url = "https://github.com/NonceGeek/arweave_sdk_ex"
 url = "https://github.com/NonceGeek/Asset-Example-Lacked-Sth"
 
 [[repo]]
+url = "https://github.com/NonceGeek/autonomous-book-learning-scaffold-eth"
+
+[[repo]]
+url = "https://github.com/NonceGeek/autonomous-elixir-book"
+
+[[repo]]
+url = "https://github.com/NonceGeek/autonomous-life-eth"
+
+[[repo]]
+url = "https://github.com/NonceGeek/autonomous-npc"
+
+[[repo]]
+url = "https://github.com/NonceGeek/awesome-movespace"
+
+[[repo]]
+url = "https://github.com/NonceGeek/awesome-scaffold"
+
+[[repo]]
 url = "https://github.com/NonceGeek/awesome-scaffold-eth"
 
 [[repo]]
 url = "https://github.com/NonceGeek/awesome_free_move_tools_ex"
+
+[[repo]]
+url = "https://github.com/NonceGeek/batch-send-raw-tx"
+
+[[repo]]
+url = "https://github.com/NonceGeek/bitcoin-signer"
 
 [[repo]]
 url = "https://github.com/NonceGeek/blockchain_consensus_algorithm"
@@ -61,7 +97,17 @@ url = "https://github.com/NonceGeek/blockchain_consensus_algorithm"
 url = "https://github.com/NonceGeek/BlockchainSim"
 
 [[repo]]
+url = "https://github.com/NonceGeek/bodhi-bodhi"
+
+[[repo]]
+url = "https://github.com/NonceGeek/bodhi-bodhi-backup"
+
+[[repo]]
+url = "https://github.com/NonceGeek/bodhi-searcher"
+
+[[repo]]
 url = "https://github.com/NonceGeek/Brickin-NFT"
+missing = true
 
 [[repo]]
 url = "https://github.com/NonceGeek/Builder-Profile"
@@ -71,6 +117,7 @@ url = "https://github.com/NonceGeek/chat-programming"
 
 [[repo]]
 url = "https://github.com/NonceGeek/chat_programming"
+missing = true
 
 [[repo]]
 url = "https://github.com/NonceGeek/cheatsheets-move"
@@ -97,6 +144,9 @@ url = "https://github.com/NonceGeek/DAO-System-Based-On-Github"
 url = "https://github.com/NonceGeek/dao_system_based_on_github"
 
 [[repo]]
+url = "https://github.com/NonceGeek/dapp_ex"
+
+[[repo]]
 url = "https://github.com/NonceGeek/DC_work"
 
 [[repo]]
@@ -106,7 +156,19 @@ url = "https://github.com/NonceGeek/diesel"
 url = "https://github.com/NonceGeek/EduSubDAO"
 
 [[repo]]
+url = "https://github.com/NonceGeek/embedbase"
+
+[[repo]]
+url = "https://github.com/NonceGeek/embedbase_ex"
+
+[[repo]]
+url = "https://github.com/NonceGeek/embedbase_interactor_ex"
+
+[[repo]]
 url = "https://github.com/NonceGeek/ERC721A"
+
+[[repo]]
+url = "https://github.com/NonceGeek/eth-signer"
 
 [[repo]]
 url = "https://github.com/NonceGeek/Evidence-Demo-Elixir"
@@ -148,7 +210,16 @@ url = "https://github.com/NonceGeek/geektime-rust"
 url = "https://github.com/NonceGeek/gist_interactor"
 
 [[repo]]
+url = "https://github.com/NonceGeek/github-linker"
+
+[[repo]]
+url = "https://github.com/NonceGeek/greenfield_ex"
+
+[[repo]]
 url = "https://github.com/NonceGeek/hackathon-2022-winter"
+
+[[repo]]
+url = "https://github.com/NonceGeek/Indiehacker-Accelerator-Homepage"
 
 [[repo]]
 url = "https://github.com/NonceGeek/learning-solidity"
@@ -181,6 +252,9 @@ url = "https://github.com/NonceGeek/Move-Bounties-For-Hackerhouse"
 url = "https://github.com/NonceGeek/Move-Crowdfund"
 
 [[repo]]
+url = "https://github.com/NonceGeek/Move-Crowdfunder"
+
+[[repo]]
 url = "https://github.com/NonceGeek/Move-DID-NFT-Minter"
 
 [[repo]]
@@ -190,7 +264,11 @@ url = "https://github.com/NonceGeek/Move-Micro-Accelerator-Homepage"
 url = "https://github.com/NonceGeek/move-nft-with-attrs"
 
 [[repo]]
+url = "https://github.com/NonceGeek/Move-Space-Homepage"
+
+[[repo]]
 url = "https://github.com/NonceGeek/move-stdlib"
+missing = true
 
 [[repo]]
 url = "https://github.com/NonceGeek/move_cheatsheets"
@@ -202,16 +280,46 @@ url = "https://github.com/NonceGeek/move_e2e_test_tool"
 url = "https://github.com/NonceGeek/move_sdk_ex_liveview_example"
 
 [[repo]]
+url = "https://github.com/NonceGeek/movecraft"
+
+[[repo]]
 url = "https://github.com/NonceGeek/MoveDID"
 
 [[repo]]
 url = "https://github.com/NonceGeek/MoveDID-Homepage"
 
 [[repo]]
+url = "https://github.com/NonceGeek/movespace-dataset-all-whitpapers"
+
+[[repo]]
+url = "https://github.com/NonceGeek/movespace-explorer"
+
+[[repo]]
+url = "https://github.com/NonceGeek/movespace-greenfield-client"
+
+[[repo]]
+url = "https://github.com/NonceGeek/Movespace-Homepage"
+
+[[repo]]
+url = "https://github.com/NonceGeek/movespace-tg-submitter"
+
+[[repo]]
+url = "https://github.com/NonceGeek/movespace_db"
+
+[[repo]]
+url = "https://github.com/NonceGeek/movespace_db_uploader_cli"
+
+[[repo]]
+url = "https://github.com/NonceGeek/movespace_sdk_ex"
+
+[[repo]]
 url = "https://github.com/NonceGeek/MoveTable"
 
 [[repo]]
 url = "https://github.com/NonceGeek/movetool"
+
+[[repo]]
+url = "https://github.com/NonceGeek/next-chrome-starter"
 
 [[repo]]
 url = "https://github.com/NonceGeek/NFT-Parser-0x01"
@@ -229,10 +337,19 @@ url = "https://github.com/NonceGeek/nonce-geek-projects"
 url = "https://github.com/NonceGeek/Nonce-Geek-Studio"
 
 [[repo]]
+url = "https://github.com/NonceGeek/noncegeek-project-space"
+
+[[repo]]
+url = "https://github.com/NonceGeek/NonceGeekBlog"
+
+[[repo]]
 url = "https://github.com/NonceGeek/NonceGeekDAO"
 
 [[repo]]
 url = "https://github.com/NonceGeek/openai.ex"
+
+[[repo]]
+url = "https://github.com/NonceGeek/opml"
 
 [[repo]]
 url = "https://github.com/NonceGeek/Perma-Life-Simulator"
@@ -241,10 +358,19 @@ url = "https://github.com/NonceGeek/Perma-Life-Simulator"
 url = "https://github.com/NonceGeek/Perma-Life-Simulator-HTML"
 
 [[repo]]
+url = "https://github.com/NonceGeek/root_mud_ex"
+
+[[repo]]
 url = "https://github.com/NonceGeek/Router-For-FISCO-BCOS"
 
 [[repo]]
 url = "https://github.com/NonceGeek/scaffold-aptos"
+
+[[repo]]
+url = "https://github.com/NonceGeek/scaffold-aptos-based-on-AI"
+
+[[repo]]
+url = "https://github.com/NonceGeek/scaffold-aptos-examples"
 
 [[repo]]
 url = "https://github.com/NonceGeek/scaffold-eth"
@@ -253,13 +379,25 @@ url = "https://github.com/NonceGeek/scaffold-eth"
 url = "https://github.com/NonceGeek/scaffold-eth-ex"
 
 [[repo]]
+url = "https://github.com/NonceGeek/scaffold-gpt-bot"
+
+[[repo]]
 url = "https://github.com/NonceGeek/scaffold-move"
 
 [[repo]]
 url = "https://github.com/NonceGeek/scaffold-sui"
 
 [[repo]]
+url = "https://github.com/NonceGeek/scaffold-sui-based-on-AI"
+
+[[repo]]
 url = "https://github.com/NonceGeek/set-purpose"
+
+[[repo]]
+url = "https://github.com/NonceGeek/smart-prompter"
+
+[[repo]]
+url = "https://github.com/NonceGeek/solidity_parser"
 
 [[repo]]
 url = "https://github.com/NonceGeek/Soul-Card-DAO-Homepage-Example"
@@ -277,7 +415,11 @@ url = "https://github.com/NonceGeek/sui_e2e_test_tool"
 url = "https://github.com/NonceGeek/SuiCraft"
 
 [[repo]]
+url = "https://github.com/NonceGeek/super-language-copilot"
+
+[[repo]]
 url = "https://github.com/NonceGeek/supply-chain-demo"
+missing = true
 
 [[repo]]
 url = "https://github.com/NonceGeek/SVG-NFT-In-Move"
@@ -367,6 +509,9 @@ url = "https://github.com/NonceGeek/Taishang-Credential-With-Interactive-Badges"
 url = "https://github.com/NonceGeek/TaiShangRaceNumber"
 
 [[repo]]
+url = "https://github.com/NonceGeek/vector-dataset-governancer"
+
+[[repo]]
 url = "https://github.com/NonceGeek/vevote-contracts"
 
 [[repo]]
@@ -406,6 +551,9 @@ url = "https://github.com/NonceGeek/web3_storage_and_gist_handler"
 url = "https://github.com/NonceGeek/web3_sui_ex"
 
 [[repo]]
+url = "https://github.com/NonceGeek/web3_vector_dataset"
+
+[[repo]]
 url = "https://github.com/NonceGeek/web3challenges"
 
 [[repo]]
@@ -431,3 +579,9 @@ url = "https://github.com/NonceGeek/WeLightBlockchainOS"
 
 [[repo]]
 url = "https://github.com/NonceGeek/WeLightLab"
+
+[[repo]]
+url = "https://github.com/NonceGeek/whitepaper-talker"
+
+[[repo]]
+url = "https://github.com/NonceGeek/zk_credential"

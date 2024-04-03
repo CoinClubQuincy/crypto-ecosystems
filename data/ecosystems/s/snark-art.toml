@@ -8,9 +8,11 @@ github_organizations = ["https://github.com/snarkdotart"]
 # Repositories
 [[repo]]
 url = "https://github.com/snarkdotart/api-ts"
+missing = true
 
 [[repo]]
 url = "https://github.com/snarkdotart/ERC721-batch"
+missing = true
 
 [[repo]]
 url = "https://github.com/snarkdotart/eth-go-bindings"
@@ -22,6 +24,9 @@ url = "https://github.com/snarkdotart/og-artwork-scene-boilerplate"
 url = "https://github.com/snarkdotart/og-docs"
 
 [[repo]]
+url = "https://github.com/snarkdotart/og-trait-generator-boilerplate"
+
+[[repo]]
 url = "https://github.com/snarkdotart/ogcr_ar_src"
 
 [[repo]]
@@ -29,6 +34,8 @@ url = "https://github.com/snarkdotart/snarkcontract"
 
 [[repo]]
 url = "https://github.com/snarkdotart/validate-eth-address"
+missing = true
 
 [[repo]]
 url = "https://github.com/snarkdotart/wma-contract"
+missing = true

@@ -28,10 +28,20 @@ url = "https://github.com/Arbol-Project/dReLifecycle"
 url = "https://github.com/Arbol-Project/dWeather-js-client"
 
 [[repo]]
+url = "https://github.com/Arbol-Project/external-adapters"
+
+[[repo]]
 url = "https://github.com/Arbol-Project/gridded-etl-tools"
 
 [[repo]]
 url = "https://github.com/Arbol-Project/hasura-storage"
+
+[[repo]]
+url = "https://github.com/Arbol-Project/nettle"
+
+[[repo]]
+url = "https://github.com/Arbol-Project/sales-platform-auth"
+missing = true
 
 [[repo]]
 url = "https://github.com/Arbol-Project/stormProtector"

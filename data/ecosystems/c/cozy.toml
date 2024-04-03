@@ -7,6 +7,12 @@ github_organizations = ["https://github.com/Cozy-Finance"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/Cozy-Finance/agent-buttercup"
+
+[[repo]]
+url = "https://github.com/Cozy-Finance/agent-smith"
+
+[[repo]]
 url = "https://github.com/Cozy-Finance/cozy-developer-guides"
 
 [[repo]]
@@ -23,9 +29,11 @@ url = "https://github.com/Cozy-Finance/cozy-models-v2-simulation"
 
 [[repo]]
 url = "https://github.com/Cozy-Finance/cozy-token-buyer-v2"
+missing = true
 
 [[repo]]
 url = "https://github.com/Cozy-Finance/cozy-trigger-poc"
+missing = true
 
 [[repo]]
 url = "https://github.com/Cozy-Finance/cozy-triggers-v2"
@@ -35,6 +43,7 @@ url = "https://github.com/Cozy-Finance/cozy-triggers-v2-simulation"
 
 [[repo]]
 url = "https://github.com/Cozy-Finance/cross-chain-proxy"
+missing = true
 
 [[repo]]
 url = "https://github.com/Cozy-Finance/EIPs"
@@ -50,3 +59,6 @@ url = "https://github.com/Cozy-Finance/market-lists"
 
 [[repo]]
 url = "https://github.com/Cozy-Finance/platform-ids"
+
+[[repo]]
+url = "https://github.com/Cozy-Finance/simulation-engine"

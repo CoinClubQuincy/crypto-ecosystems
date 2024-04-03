@@ -13,7 +13,11 @@ url = "https://github.com/WTFAcademy/0xAA-Wallet"
 url = "https://github.com/WTFAcademy/ETHBeijing"
 
 [[repo]]
+url = "https://github.com/WTFAcademy/ETHHangzhou"
+
+[[repo]]
 url = "https://github.com/WTFAcademy/evote-fabric"
+missing = true
 
 [[repo]]
 url = "https://github.com/WTFAcademy/frontend"
@@ -31,16 +35,40 @@ url = "https://github.com/WTFAcademy/solui"
 url = "https://github.com/WTFAcademy/starknetbook-zh"
 
 [[repo]]
+url = "https://github.com/WTFAcademy/WeWill"
+
+[[repo]]
+url = "https://github.com/WTFAcademy/WTF-Assembly"
+
+[[repo]]
+url = "https://github.com/WTFAcademy/WTF-Blog"
+
+[[repo]]
 url = "https://github.com/WTFAcademy/WTF-Cairo"
 
 [[repo]]
 url = "https://github.com/WTFAcademy/WTF-ClosedSource"
 
 [[repo]]
+url = "https://github.com/WTFAcademy/WTF-Cosmosjs"
+
+[[repo]]
 url = "https://github.com/WTFAcademy/WTF-CSS"
 
 [[repo]]
 url = "https://github.com/WTFAcademy/WTF-CTF"
+
+[[repo]]
+url = "https://github.com/WTFAcademy/WTF-Dapp"
+
+[[repo]]
+url = "https://github.com/WTFAcademy/WTF-DeepRL"
+
+[[repo]]
+url = "https://github.com/WTFAcademy/WTF-DeFi-Engineering"
+
+[[repo]]
+url = "https://github.com/WTFAcademy/WTF-Dune"
 
 [[repo]]
 url = "https://github.com/WTFAcademy/WTF-Ethers"
@@ -52,7 +80,13 @@ url = "https://github.com/WTFAcademy/WTF-ethers-v6-doc-cn"
 url = "https://github.com/WTFAcademy/WTF-Events"
 
 [[repo]]
+url = "https://github.com/WTFAcademy/WTF-EVM-Opcodes"
+
+[[repo]]
 url = "https://github.com/WTFAcademy/WTF-gas-optimization"
+
+[[repo]]
+url = "https://github.com/WTFAcademy/WTF-Geth"
 
 [[repo]]
 url = "https://github.com/WTFAcademy/WTF-gm"
@@ -61,7 +95,19 @@ url = "https://github.com/WTFAcademy/WTF-gm"
 url = "https://github.com/WTFAcademy/WTF-HTML"
 
 [[repo]]
+url = "https://github.com/WTFAcademy/WTF-Huff"
+
+[[repo]]
 url = "https://github.com/WTFAcademy/WTF-Javascript"
+
+[[repo]]
+url = "https://github.com/WTFAcademy/WTF-Langchain"
+
+[[repo]]
+url = "https://github.com/WTFAcademy/WTF-Onchain-Analysis"
+
+[[repo]]
+url = "https://github.com/WTFAcademy/WTF-Opcodes"
 
 [[repo]]
 url = "https://github.com/WTFAcademy/WTF-Rust"
@@ -73,10 +119,16 @@ url = "https://github.com/WTFAcademy/WTF-SBT"
 url = "https://github.com/WTFAcademy/WTF-SBT-subGraph"
 
 [[repo]]
+url = "https://github.com/WTFAcademy/WTF-Scroll"
+
+[[repo]]
 url = "https://github.com/WTFAcademy/WTF-solcurity"
 
 [[repo]]
 url = "https://github.com/WTFAcademy/WTF-Solidity"
+
+[[repo]]
+url = "https://github.com/WTFAcademy/WTF-Solidity-Internals"
 
 [[repo]]
 url = "https://github.com/WTFAcademy/WTF-Starknet"
@@ -85,10 +137,31 @@ url = "https://github.com/WTFAcademy/WTF-Starknet"
 url = "https://github.com/WTFAcademy/WTF-Starknet-Dapp-demo"
 
 [[repo]]
+url = "https://github.com/WTFAcademy/WTF-Starknet-Dapp-demo2"
+
+[[repo]]
+url = "https://github.com/WTFAcademy/WTF-Uniswap"
+
+[[repo]]
 url = "https://github.com/WTFAcademy/WTF-Uniswap-v4"
 
 [[repo]]
+url = "https://github.com/WTFAcademy/WTF-viem"
+
+[[repo]]
+url = "https://github.com/WTFAcademy/WTF-Vyper"
+
+[[repo]]
+url = "https://github.com/WTFAcademy/WTF-web3py"
+
+[[repo]]
+url = "https://github.com/WTFAcademy/WTF-zk"
+
+[[repo]]
 url = "https://github.com/WTFAcademy/WTFGeth"
+
+[[repo]]
+url = "https://github.com/WTFAcademy/WTForm"
 
 [[repo]]
 url = "https://github.com/WTFAcademy/WTFTasks"

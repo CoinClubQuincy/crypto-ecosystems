@@ -7,10 +7,23 @@ github_organizations = ["https://github.com/darwinia-network"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/darwinia-network/.github"
+
+[[repo]]
 url = "https://github.com/darwinia-network/airdrop"
+missing = true
+
+[[repo]]
+url = "https://github.com/darwinia-network/airnode-dapi"
 
 [[repo]]
 url = "https://github.com/darwinia-network/alarmmgr"
+
+[[repo]]
+url = "https://github.com/darwinia-network/apk-proofs"
+
+[[repo]]
+url = "https://github.com/darwinia-network/apk-verifier"
 
 [[repo]]
 url = "https://github.com/darwinia-network/apps"
@@ -22,10 +35,14 @@ url = "https://github.com/darwinia-network/apps-subql"
 url = "https://github.com/darwinia-network/Awesome-Darwinia"
 
 [[repo]]
+url = "https://github.com/darwinia-network/beacon-light-client"
+
+[[repo]]
 url = "https://github.com/darwinia-network/bridger"
 
 [[repo]]
 url = "https://github.com/darwinia-network/chain-primitives"
+missing = true
 
 [[repo]]
 url = "https://github.com/darwinia-network/chain-state-exporter"
@@ -37,7 +54,10 @@ url = "https://github.com/darwinia-network/chains"
 url = "https://github.com/darwinia-network/collaboration"
 
 [[repo]]
-url = "https://github.com/darwinia-network/common-primitives"
+url = "https://github.com/darwinia-network/commission-board"
+
+[[repo]]
+url = "https://github.com/darwinia-network/community-rpc"
 missing = true
 
 [[repo]]
@@ -54,9 +74,14 @@ url = "https://github.com/darwinia-network/crab-nft-subql"
 
 [[repo]]
 url = "https://github.com/darwinia-network/crab.network"
+missing = true
+
+[[repo]]
+url = "https://github.com/darwinia-network/create3-deploy"
 
 [[repo]]
 url = "https://github.com/darwinia-network/crypto-ecosystems"
+missing = true
 
 [[repo]]
 url = "https://github.com/darwinia-network/cumulus"
@@ -71,13 +96,18 @@ url = "https://github.com/darwinia-network/darwinia"
 url = "https://github.com/darwinia-network/darwinia-2.0"
 
 [[repo]]
+url = "https://github.com/darwinia-network/darwinia-airnode"
+
+[[repo]]
 url = "https://github.com/darwinia-network/darwinia-appchain"
 
 [[repo]]
 url = "https://github.com/darwinia-network/darwinia-bot"
+missing = true
 
 [[repo]]
 url = "https://github.com/darwinia-network/darwinia-builder"
+missing = true
 
 [[repo]]
 url = "https://github.com/darwinia-network/darwinia-chains-connect"
@@ -86,10 +116,17 @@ url = "https://github.com/darwinia-network/darwinia-chains-connect"
 url = "https://github.com/darwinia-network/darwinia-common"
 
 [[repo]]
+url = "https://github.com/darwinia-network/darwinia-crosschain-ui"
+
+[[repo]]
 url = "https://github.com/darwinia-network/darwinia-democracy"
+missing = true
 
 [[repo]]
 url = "https://github.com/darwinia-network/darwinia-docs"
+
+[[repo]]
+url = "https://github.com/darwinia-network/darwinia-governance-ui"
 
 [[repo]]
 url = "https://github.com/darwinia-network/darwinia-js-sdk"
@@ -110,7 +147,16 @@ url = "https://github.com/darwinia-network/darwinia-messages-sol"
 url = "https://github.com/darwinia-network/darwinia-messages-substrate"
 
 [[repo]]
+url = "https://github.com/darwinia-network/darwinia-migration-ui"
+
+[[repo]]
 url = "https://github.com/darwinia-network/darwinia-monitor"
+
+[[repo]]
+url = "https://github.com/darwinia-network/darwinia-msgport"
+
+[[repo]]
+url = "https://github.com/darwinia-network/darwinia-msgport-api"
 
 [[repo]]
 url = "https://github.com/darwinia-network/darwinia-nft-subql"
@@ -131,13 +177,22 @@ url = "https://github.com/darwinia-network/darwinia-polkadotjs-typegen"
 url = "https://github.com/darwinia-network/darwinia-s2s-template"
 
 [[repo]]
+url = "https://github.com/darwinia-network/darwinia-staking-ui"
+
+[[repo]]
 url = "https://github.com/darwinia-network/darwinia-truffle-box"
 
 [[repo]]
 url = "https://github.com/darwinia-network/darwinia.js"
 
 [[repo]]
+url = "https://github.com/darwinia-network/darwinia.js-1.0-deprecated"
+
+[[repo]]
 url = "https://github.com/darwinia-network/darwinia2.0-account-migration-ui"
+
+[[repo]]
+url = "https://github.com/darwinia-network/darwinia2.0-data-server"
 
 [[repo]]
 url = "https://github.com/darwinia-network/darwinia2.0-staking-ui"
@@ -146,10 +201,25 @@ url = "https://github.com/darwinia-network/darwinia2.0-staking-ui"
 url = "https://github.com/darwinia-network/darwinia2.0-template"
 
 [[repo]]
+url = "https://github.com/darwinia-network/datahub"
+
+[[repo]]
+url = "https://github.com/darwinia-network/DefiLlama-Adapters"
+
+[[repo]]
+url = "https://github.com/darwinia-network/defillama-sdk"
+
+[[repo]]
 url = "https://github.com/darwinia-network/deprecated-bridge-primitives"
 
 [[repo]]
 url = "https://github.com/darwinia-network/deprecated-token-contracts"
+
+[[repo]]
+url = "https://github.com/darwinia-network/devops"
+
+[[repo]]
+url = "https://github.com/darwinia-network/DIPs"
 
 [[repo]]
 url = "https://github.com/darwinia-network/dj"
@@ -179,6 +249,9 @@ url = "https://github.com/darwinia-network/faucet"
 url = "https://github.com/darwinia-network/fee-market"
 
 [[repo]]
+url = "https://github.com/darwinia-network/feestimi"
+
+[[repo]]
 url = "https://github.com/darwinia-network/fork-off-darwinia"
 
 [[repo]]
@@ -189,12 +262,19 @@ url = "https://github.com/darwinia-network/grandma"
 
 [[repo]]
 url = "https://github.com/darwinia-network/grandpa-bridge-gadget"
+missing = true
+
+[[repo]]
+url = "https://github.com/darwinia-network/Grant-Milestone-Delivery"
 
 [[repo]]
 url = "https://github.com/darwinia-network/Grants-Program"
 
 [[repo]]
 url = "https://github.com/darwinia-network/graph-node"
+
+[[repo]]
+url = "https://github.com/darwinia-network/hashi"
 
 [[repo]]
 url = "https://github.com/darwinia-network/home"
@@ -242,19 +322,43 @@ url = "https://github.com/darwinia-network/mmr-verifier"
 url = "https://github.com/darwinia-network/moonbeam"
 
 [[repo]]
+url = "https://github.com/darwinia-network/msgport-kitchen-sink"
+
+[[repo]]
+url = "https://github.com/darwinia-network/msgportscan"
+
+[[repo]]
+url = "https://github.com/darwinia-network/msgscan"
+
+[[repo]]
 url = "https://github.com/darwinia-network/multi-transfer"
 
 [[repo]]
 url = "https://github.com/darwinia-network/multisig"
+missing = true
 
 [[repo]]
 url = "https://github.com/darwinia-network/node-liveness-probe"
+
+[[repo]]
+url = "https://github.com/darwinia-network/OMP"
 
 [[repo]]
 url = "https://github.com/darwinia-network/Open-Grants-Program"
 
 [[repo]]
 url = "https://github.com/darwinia-network/open-runtime-module-library"
+missing = true
+
+[[repo]]
+url = "https://github.com/darwinia-network/ORMP"
+
+[[repo]]
+url = "https://github.com/darwinia-network/ormpipe"
+
+[[repo]]
+url = "https://github.com/darwinia-network/ormpscan"
+missing = true
 
 [[repo]]
 url = "https://github.com/darwinia-network/parachain"
@@ -291,6 +395,7 @@ url = "https://github.com/darwinia-network/postman_rs"
 
 [[repo]]
 url = "https://github.com/darwinia-network/primitives"
+missing = true
 
 [[repo]]
 url = "https://github.com/darwinia-network/react-boilerplate"
@@ -305,10 +410,20 @@ url = "https://github.com/darwinia-network/research"
 url = "https://github.com/darwinia-network/rfcs"
 
 [[repo]]
+url = "https://github.com/darwinia-network/rfcs-deprecated"
+
+[[repo]]
+url = "https://github.com/darwinia-network/runtime-override"
+
+[[repo]]
 url = "https://github.com/darwinia-network/runtime-overrides"
 
 [[repo]]
 url = "https://github.com/darwinia-network/rust-web3"
+
+[[repo]]
+url = "https://github.com/darwinia-network/safe-transaction-service"
+missing = true
 
 [[repo]]
 url = "https://github.com/darwinia-network/shadow"
@@ -324,9 +439,11 @@ url = "https://github.com/darwinia-network/snapshot-init-container"
 
 [[repo]]
 url = "https://github.com/darwinia-network/staking-payouts"
+missing = true
 
 [[repo]]
 url = "https://github.com/darwinia-network/staking-rewards-collector"
+missing = true
 
 [[repo]]
 url = "https://github.com/darwinia-network/subql"
@@ -342,6 +459,7 @@ url = "https://github.com/darwinia-network/subql-darinwia-mmr"
 
 [[repo]]
 url = "https://github.com/darwinia-network/subql-darwinia-bridger"
+missing = true
 
 [[repo]]
 url = "https://github.com/darwinia-network/subql-dictionary"
@@ -354,6 +472,7 @@ url = "https://github.com/darwinia-network/subql-pangolin"
 
 [[repo]]
 url = "https://github.com/darwinia-network/subql-pangolin-bridger"
+missing = true
 
 [[repo]]
 url = "https://github.com/darwinia-network/subql-pangolin-mmr"
@@ -363,6 +482,7 @@ url = "https://github.com/darwinia-network/subql-pangoro"
 
 [[repo]]
 url = "https://github.com/darwinia-network/subql-pangoro-v2"
+missing = true
 
 [[repo]]
 url = "https://github.com/darwinia-network/subql-polkadot"
@@ -372,18 +492,24 @@ url = "https://github.com/darwinia-network/substrate"
 
 [[repo]]
 url = "https://github.com/darwinia-network/substrate-api-client"
+missing = true
 
 [[repo]]
 url = "https://github.com/darwinia-network/substrate-open-working-groups"
 
 [[repo]]
 url = "https://github.com/darwinia-network/substrate-telemetry"
+missing = true
 
 [[repo]]
 url = "https://github.com/darwinia-network/subwasm"
+missing = true
 
 [[repo]]
 url = "https://github.com/darwinia-network/subxt"
+
+[[repo]]
+url = "https://github.com/darwinia-network/supply"
 
 [[repo]]
 url = "https://github.com/darwinia-network/the-darwinia-book"
@@ -396,6 +522,9 @@ url = "https://github.com/darwinia-network/token-migration"
 
 [[repo]]
 url = "https://github.com/darwinia-network/token-resources"
+
+[[repo]]
+url = "https://github.com/darwinia-network/token-supply"
 
 [[repo]]
 url = "https://github.com/darwinia-network/vercel-gateway"
@@ -423,6 +552,7 @@ url = "https://github.com/darwinia-network/wormhole-dao"
 
 [[repo]]
 url = "https://github.com/darwinia-network/wormhole-docs"
+missing = true
 
 [[repo]]
 url = "https://github.com/darwinia-network/wormhole-subql"

@@ -7,7 +7,14 @@ github_organizations = ["https://github.com/Geodefi"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/Geodefi/awesome-geode"
+missing = true
+
+[[repo]]
 url = "https://github.com/Geodefi/docs"
+
+[[repo]]
+url = "https://github.com/Geodefi/geode-py"
 
 [[repo]]
 url = "https://github.com/Geodefi/Portal-Avax"

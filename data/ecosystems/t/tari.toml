@@ -12,45 +12,58 @@ github_organizations = [
 # Repositories
 [[repo]]
 url = "https://github.com/big-neon/bigneon"
+missing = true
 
 [[repo]]
 url = "https://github.com/big-neon/bn-about"
+missing = true
 
 [[repo]]
 url = "https://github.com/big-neon/bn-android-doorperson"
+missing = true
 
 [[repo]]
 url = "https://github.com/big-neon/bn-api"
+missing = true
 
 [[repo]]
 url = "https://github.com/big-neon/bn-api-node"
+missing = true
 
 [[repo]]
 url = "https://github.com/big-neon/bn-cube"
+missing = true
 
 [[repo]]
 url = "https://github.com/big-neon/bn-db"
+missing = true
 
 [[repo]]
 url = "https://github.com/big-neon/bn-front-door"
+missing = true
 
 [[repo]]
 url = "https://github.com/big-neon/bn-ios"
+missing = true
 
 [[repo]]
 url = "https://github.com/big-neon/bn-mobile-react"
+missing = true
 
 [[repo]]
 url = "https://github.com/big-neon/bn-web"
+missing = true
 
 [[repo]]
 url = "https://github.com/big-neon/bn-web-admin-demo"
+missing = true
 
 [[repo]]
 url = "https://github.com/big-neon/diesel"
 
 [[repo]]
 url = "https://github.com/big-neon/docs"
+missing = true
 
 [[repo]]
 url = "https://github.com/big-neon/expo-server-sdk-rust"
@@ -69,6 +82,9 @@ url = "https://github.com/tari-labs/action-eslint"
 
 [[repo]]
 url = "https://github.com/tari-labs/actix-broker"
+
+[[repo]]
+url = "https://github.com/tari-labs/aptos-marketplace-contract"
 
 [[repo]]
 url = "https://github.com/tari-labs/block-explorer-frontend-2"
@@ -127,6 +143,7 @@ url = "https://github.com/tari-labs/rust-rdkafka"
 
 [[repo]]
 url = "https://github.com/tari-labs/tari"
+missing = true
 
 [[repo]]
 url = "https://github.com/tari-labs/tari-crypto-android"
@@ -154,6 +171,9 @@ url = "https://github.com/tari-labs/yat-steganography"
 
 [[repo]]
 url = "https://github.com/tari-project/action-buildlibs"
+
+[[repo]]
+url = "https://github.com/tari-project/awesome-tari"
 
 [[repo]]
 url = "https://github.com/tari-project/base_node_grpc_client"
@@ -195,16 +215,25 @@ url = "https://github.com/tari-project/deploy"
 url = "https://github.com/tari-project/desktop-client"
 
 [[repo]]
+url = "https://github.com/tari-project/explorer"
+
+[[repo]]
 url = "https://github.com/tari-project/gh-pilot"
 
 [[repo]]
 url = "https://github.com/tari-project/github-action"
 
 [[repo]]
+url = "https://github.com/tari-project/integer-encoding-rs"
+
+[[repo]]
 url = "https://github.com/tari-project/ledger"
 
 [[repo]]
 url = "https://github.com/tari-project/lmdb-rs"
+
+[[repo]]
+url = "https://github.com/tari-project/log4rs"
 
 [[repo]]
 url = "https://github.com/tari-project/meta"
@@ -217,6 +246,7 @@ url = "https://github.com/tari-project/Miningcore.WebUI"
 
 [[repo]]
 url = "https://github.com/tari-project/monero-rs"
+missing = true
 
 [[repo]]
 url = "https://github.com/tari-project/node-cryptonight-hashing"
@@ -238,6 +268,7 @@ url = "https://github.com/tari-project/randomx-rs"
 
 [[repo]]
 url = "https://github.com/tari-project/RFC"
+missing = true
 
 [[repo]]
 url = "https://github.com/tari-project/rfcs"
@@ -253,6 +284,9 @@ url = "https://github.com/tari-project/rust-multiaddr"
 
 [[repo]]
 url = "https://github.com/tari-project/snow"
+
+[[repo]]
+url = "https://github.com/tari-project/stable-coin"
 
 [[repo]]
 url = "https://github.com/tari-project/tari"
@@ -274,6 +308,12 @@ url = "https://github.com/tari-project/tari-connector"
 url = "https://github.com/tari-project/tari-crypto"
 
 [[repo]]
+url = "https://github.com/tari-project/tari-crypto-ffi"
+
+[[repo]]
+url = "https://github.com/tari-project/tari-crypto-wasm"
+
+[[repo]]
 url = "https://github.com/tari-project/tari-dan"
 
 [[repo]]
@@ -292,10 +332,19 @@ url = "https://github.com/tari-project/tari-launchpad"
 url = "https://github.com/tari-project/tari-scanner"
 
 [[repo]]
+url = "https://github.com/tari-project/tari-snap"
+
+[[repo]]
 url = "https://github.com/tari-project/tari-web-extension"
 
 [[repo]]
 url = "https://github.com/tari-project/tari-website"
+
+[[repo]]
+url = "https://github.com/tari-project/tari.js"
+
+[[repo]]
+url = "https://github.com/tari-project/tari_hash_domains"
 
 [[repo]]
 url = "https://github.com/tari-project/tari_node_controller"
@@ -310,6 +359,9 @@ url = "https://github.com/tari-project/test-faucet"
 url = "https://github.com/tari-project/test-templates"
 
 [[repo]]
+url = "https://github.com/tari-project/tiny-keccak"
+
+[[repo]]
 url = "https://github.com/tari-project/tokio-socks"
 
 [[repo]]
@@ -317,6 +369,12 @@ url = "https://github.com/tari-project/tor-hash-password"
 
 [[repo]]
 url = "https://github.com/tari-project/tower"
+
+[[repo]]
+url = "https://github.com/tari-project/triptych"
+
+[[repo]]
+url = "https://github.com/tari-project/tww"
 
 [[repo]]
 url = "https://github.com/tari-project/validator-node"

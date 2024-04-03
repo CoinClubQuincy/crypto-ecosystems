@@ -7,7 +7,11 @@ github_organizations = ["https://github.com/ensdomains"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/0xgeeb/eth_denver"
+
+[[repo]]
 url = "https://github.com/ahadoodle/bent-frontend"
+missing = true
 
 [[repo]]
 url = "https://github.com/anasshad/polygon-ens-domain-service"
@@ -82,6 +86,12 @@ url = "https://github.com/ensdomains/buffer"
 url = "https://github.com/ensdomains/ccip-read-dns-gateway"
 
 [[repo]]
+url = "https://github.com/ensdomains/ccip-rust-gateway"
+
+[[repo]]
+url = "https://github.com/ensdomains/ccip-tools"
+
+[[repo]]
 url = "https://github.com/ensdomains/constitution-book-claim"
 
 [[repo]]
@@ -127,7 +137,11 @@ url = "https://github.com/ensdomains/dnssectool"
 url = "https://github.com/ensdomains/docs"
 
 [[repo]]
+url = "https://github.com/ensdomains/docs-v2"
+
+[[repo]]
 url = "https://github.com/ensdomains/ens"
+tags = ["Protocol"]
 
 [[repo]]
 url = "https://github.com/ensdomains/ens-app"
@@ -155,6 +169,7 @@ url = "https://github.com/ensdomains/ens-cfw"
 
 [[repo]]
 url = "https://github.com/ensdomains/ens-contenthash"
+missing = true
 
 [[repo]]
 url = "https://github.com/ensdomains/ens-contracts"
@@ -170,6 +185,9 @@ url = "https://github.com/ensdomains/ens-manager"
 
 [[repo]]
 url = "https://github.com/ensdomains/ens-metadata-service"
+
+[[repo]]
+url = "https://github.com/ensdomains/ens-og-image"
 
 [[repo]]
 url = "https://github.com/ensdomains/ens-print"
@@ -196,6 +214,9 @@ url = "https://github.com/ensdomains/ens.domains"
 url = "https://github.com/ensdomains/enscluster"
 
 [[repo]]
+url = "https://github.com/ensdomains/ensdomains-landing-v2"
+
+[[repo]]
 url = "https://github.com/ensdomains/ensdomains-v2"
 
 [[repo]]
@@ -203,6 +224,7 @@ url = "https://github.com/ensdomains/ensjs"
 
 [[repo]]
 url = "https://github.com/ensdomains/ensjs-v2"
+missing = true
 
 [[repo]]
 url = "https://github.com/ensdomains/ensjs-v3"
@@ -220,7 +242,13 @@ url = "https://github.com/ensdomains/ethlink-request"
 url = "https://github.com/ensdomains/ethregistrar"
 
 [[repo]]
+url = "https://github.com/ensdomains/evmgateway"
+
+[[repo]]
 url = "https://github.com/ensdomains/f1rewall"
+
+[[repo]]
+url = "https://github.com/ensdomains/frontend-template"
 
 [[repo]]
 url = "https://github.com/ensdomains/ganache-core"
@@ -233,6 +261,9 @@ url = "https://github.com/ensdomains/get-trust-anchor"
 
 [[repo]]
 url = "https://github.com/ensdomains/governance"
+
+[[repo]]
+url = "https://github.com/ensdomains/governance-contracts"
 
 [[repo]]
 url = "https://github.com/ensdomains/governance-docs"
@@ -280,6 +311,9 @@ url = "https://github.com/ensdomains/mock"
 url = "https://github.com/ensdomains/moonpay-worker"
 
 [[repo]]
+url = "https://github.com/ensdomains/multiformats"
+
+[[repo]]
 url = "https://github.com/ensdomains/my-ens-app"
 
 [[repo]]
@@ -290,6 +324,9 @@ url = "https://github.com/ensdomains/name-wrapper"
 
 [[repo]]
 url = "https://github.com/ensdomains/normalise-refund"
+
+[[repo]]
+url = "https://github.com/ensdomains/offchain-gateway-rs"
 
 [[repo]]
 url = "https://github.com/ensdomains/offchain-resolver"
@@ -308,6 +345,7 @@ url = "https://github.com/ensdomains/pm"
 
 [[repo]]
 url = "https://github.com/ensdomains/proxy-gateway"
+missing = true
 
 [[repo]]
 url = "https://github.com/ensdomains/punycode"
@@ -367,6 +405,9 @@ url = "https://github.com/ensdomains/ui"
 url = "https://github.com/ensdomains/unicode-confusables"
 
 [[repo]]
+url = "https://github.com/ensdomains/universal-offchain-unwrapper"
+
+[[repo]]
 url = "https://github.com/ensdomains/usd-oracle"
 
 [[repo]]
@@ -421,6 +462,9 @@ url = "https://github.com/imperviousinc/badass-ens"
 url = "https://github.com/kovart/forta-ens-spoofing"
 
 [[repo]]
+url = "https://github.com/M3MBER-ETHDenver/M3MBER-ETHDenver"
+
+[[repo]]
 url = "https://github.com/merklejerk/ez-ens"
 
 [[repo]]
@@ -437,6 +481,7 @@ url = "https://github.com/muxable/ens-resolver"
 
 [[repo]]
 url = "https://github.com/NaturalSelectionLabs/Web3-Name-Service"
+missing = true
 
 [[repo]]
 url = "https://github.com/novusys/novusys-paymaster"

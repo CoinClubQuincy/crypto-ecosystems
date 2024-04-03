@@ -28,6 +28,9 @@ url = "https://github.com/b-harvest/auto_block_snapshot"
 url = "https://github.com/b-harvest/Automated-testnet-builder"
 
 [[repo]]
+url = "https://github.com/b-harvest/axelmon"
+
+[[repo]]
 url = "https://github.com/b-harvest/bdjuno"
 
 [[repo]]
@@ -58,6 +61,12 @@ url = "https://github.com/b-harvest/chain-registry"
 url = "https://github.com/b-harvest/coinswap"
 
 [[repo]]
+url = "https://github.com/b-harvest/cometbft"
+
+[[repo]]
+url = "https://github.com/b-harvest/cometbft-rollkit-mid-block"
+
+[[repo]]
 url = "https://github.com/b-harvest/cosmos-explorer-1.1"
 
 [[repo]]
@@ -73,6 +82,9 @@ url = "https://github.com/b-harvest/cosmos-rawdata"
 url = "https://github.com/b-harvest/cosmos-sdk"
 
 [[repo]]
+url = "https://github.com/b-harvest/cosmos-sdk-rollkit-mid-block"
+
+[[repo]]
 url = "https://github.com/b-harvest/cosmos-validators"
 
 [[repo]]
@@ -86,6 +98,7 @@ url = "https://github.com/b-harvest/cosmostation_token_resource"
 
 [[repo]]
 url = "https://github.com/b-harvest/cre_telegram_bot"
+missing = true
 
 [[repo]]
 url = "https://github.com/b-harvest/crescent"
@@ -110,6 +123,9 @@ url = "https://github.com/b-harvest/Delegation-Tokenization-Module"
 
 [[repo]]
 url = "https://github.com/b-harvest/emoney-networks"
+
+[[repo]]
+url = "https://github.com/b-harvest/ethermint"
 
 [[repo]]
 url = "https://github.com/b-harvest/evmos-tarsis-testnet"
@@ -152,6 +168,9 @@ url = "https://github.com/b-harvest/gurvy"
 
 [[repo]]
 url = "https://github.com/b-harvest/harvest"
+
+[[repo]]
+url = "https://github.com/b-harvest/iac"
 
 [[repo]]
 url = "https://github.com/b-harvest/ibc-go"
@@ -208,6 +227,9 @@ url = "https://github.com/b-harvest/Liquidity-Module-For-the-Hub"
 url = "https://github.com/b-harvest/mainnet-gentx"
 
 [[repo]]
+url = "https://github.com/b-harvest/merkle-airdrop-starter"
+
+[[repo]]
 url = "https://github.com/b-harvest/modules"
 
 [[repo]]
@@ -224,6 +246,12 @@ url = "https://github.com/b-harvest/namada-testnets"
 
 [[repo]]
 url = "https://github.com/b-harvest/networks"
+
+[[repo]]
+url = "https://github.com/b-harvest/networks-celestia"
+
+[[repo]]
+url = "https://github.com/b-harvest/Networks-Nibiru"
 
 [[repo]]
 url = "https://github.com/b-harvest/networks-vega"
@@ -247,10 +275,16 @@ url = "https://github.com/b-harvest/oracle-lens"
 url = "https://github.com/b-harvest/packet-forward-middleware"
 
 [[repo]]
+url = "https://github.com/b-harvest/performant-cosmos-research"
+
+[[repo]]
 url = "https://github.com/b-harvest/polkadot-auto-nomination-management-tool"
 
 [[repo]]
 url = "https://github.com/b-harvest/public-testnets"
+
+[[repo]]
+url = "https://github.com/b-harvest/pystarport"
 
 [[repo]]
 url = "https://github.com/b-harvest/quicksilver-mainnet"
@@ -263,6 +297,7 @@ url = "https://github.com/b-harvest/random-price-oracle"
 
 [[repo]]
 url = "https://github.com/b-harvest/randombot"
+missing = true
 
 [[repo]]
 url = "https://github.com/b-harvest/relayer"
@@ -275,6 +310,12 @@ url = "https://github.com/b-harvest/rescue-fatfinger"
 
 [[repo]]
 url = "https://github.com/b-harvest/rizon-mainnet"
+
+[[repo]]
+url = "https://github.com/b-harvest/rollkit-mid-block"
+
+[[repo]]
+url = "https://github.com/b-harvest/roulette-api-server"
 
 [[repo]]
 url = "https://github.com/b-harvest/santa"
@@ -338,6 +379,7 @@ url = "https://github.com/b-harvest/tx_race"
 
 [[repo]]
 url = "https://github.com/b-harvest/umee-autod"
+missing = true
 
 [[repo]]
 url = "https://github.com/b-harvest/umee-networks-to-be-deleted"

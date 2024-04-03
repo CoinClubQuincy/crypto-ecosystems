@@ -14,6 +14,7 @@ url = "https://github.com/alchemix-finance/alchemix-protocol"
 
 [[repo]]
 url = "https://github.com/alchemix-finance/alchemix-v2-frontend"
+tags = ["Protocol"]
 
 [[repo]]
 url = "https://github.com/alchemix-finance/alkeeper-v1"
@@ -26,6 +27,7 @@ url = "https://github.com/alchemix-finance/deployments"
 
 [[repo]]
 url = "https://github.com/alchemix-finance/jam"
+missing = true
 
 [[repo]]
 url = "https://github.com/alchemix-finance/migrate2balancer"
@@ -41,3 +43,4 @@ url = "https://github.com/alchemix-finance/v2-contracts"
 
 [[repo]]
 url = "https://github.com/alchemix-finance/v2-foundry"
+tags = ["Protocol"]

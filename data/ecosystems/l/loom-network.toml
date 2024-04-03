@@ -52,6 +52,12 @@ url = "https://github.com/loomnetwork/delegation-api-docs"
 url = "https://github.com/loomnetwork/e2e"
 
 [[repo]]
+url = "https://github.com/loomnetwork/era-contracts"
+
+[[repo]]
+url = "https://github.com/loomnetwork/era-zkEVM-assembly"
+
+[[repo]]
 url = "https://github.com/loomnetwork/erc721x"
 
 [[repo]]
@@ -218,6 +224,7 @@ url = "https://github.com/loomnetwork/plasma-paper"
 
 [[repo]]
 url = "https://github.com/loomnetwork/Relentless"
+missing = true
 
 [[repo]]
 url = "https://github.com/loomnetwork/rollout_ui2"
@@ -341,6 +348,9 @@ url = "https://github.com/loomnetwork/yubihsm-go"
 
 [[repo]]
 url = "https://github.com/loomnetwork/zb_game_mode"
+
+[[repo]]
+url = "https://github.com/loomnetwork/zkloom-examples"
 
 [[repo]]
 url = "https://github.com/loomnetwork/zombie-battleground-api"

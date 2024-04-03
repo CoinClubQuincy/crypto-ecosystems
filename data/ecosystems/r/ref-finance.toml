@@ -13,6 +13,9 @@ url = "https://github.com/ref-finance/boost-farm"
 url = "https://github.com/ref-finance/docs"
 
 [[repo]]
+url = "https://github.com/ref-finance/fastapi-template"
+
+[[repo]]
 url = "https://github.com/ref-finance/guide"
 
 [[repo]]
@@ -41,6 +44,7 @@ url = "https://github.com/ref-finance/ref-sdk"
 
 [[repo]]
 url = "https://github.com/ref-finance/ref-stats"
+missing = true
 
 [[repo]]
 url = "https://github.com/ref-finance/ref-token"

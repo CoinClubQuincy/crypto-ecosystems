@@ -13,6 +13,9 @@ url = "https://github.com/ambrosus/air-dao"
 url = "https://github.com/ambrosus/airdao-components-and-tools"
 
 [[repo]]
+url = "https://github.com/ambrosus/airdao-gov-user-verifier"
+
+[[repo]]
 url = "https://github.com/ambrosus/airdao-menu"
 
 [[repo]]
@@ -22,7 +25,16 @@ url = "https://github.com/ambrosus/airdao-mobile"
 url = "https://github.com/ambrosus/airdao-node-contracts"
 
 [[repo]]
+url = "https://github.com/ambrosus/airdao-nop"
+
+[[repo]]
+url = "https://github.com/ambrosus/airdao-stats"
+
+[[repo]]
 url = "https://github.com/ambrosus/airdao-wallet-api"
+
+[[repo]]
+url = "https://github.com/ambrosus/airdao.io"
 
 [[repo]]
 url = "https://github.com/ambrosus/amb-to"
@@ -82,6 +94,9 @@ url = "https://github.com/ambrosus/beat-exporter"
 url = "https://github.com/ambrosus/blockbook"
 
 [[repo]]
+url = "https://github.com/ambrosus/bond-contracts"
+
+[[repo]]
 url = "https://github.com/ambrosus/bridge-multisig-front"
 
 [[repo]]
@@ -97,6 +112,15 @@ url = "https://github.com/ambrosus/contract-example"
 url = "https://github.com/ambrosus/cryptoeconomics-monitoring-scripts"
 
 [[repo]]
+url = "https://github.com/ambrosus/DefiLlama-Adapters"
+
+[[repo]]
+url = "https://github.com/ambrosus/deployments"
+
+[[repo]]
+url = "https://github.com/ambrosus/error-provider"
+
+[[repo]]
 url = "https://github.com/ambrosus/eth-exporter"
 
 [[repo]]
@@ -104,6 +128,9 @@ url = "https://github.com/ambrosus/eth-net-intelligence-api"
 
 [[repo]]
 url = "https://github.com/ambrosus/ethers.js"
+
+[[repo]]
+url = "https://github.com/ambrosus/explorer-config"
 
 [[repo]]
 url = "https://github.com/ambrosus/explorer-frontend"
@@ -119,9 +146,13 @@ url = "https://github.com/ambrosus/iot-app-ios"
 
 [[repo]]
 url = "https://github.com/ambrosus/ipfs-image-web-upload"
+missing = true
 
 [[repo]]
 url = "https://github.com/ambrosus/issues"
+
+[[repo]]
+url = "https://github.com/ambrosus/multisig-dashboard"
 
 [[repo]]
 url = "https://github.com/ambrosus/network-monitor"
@@ -149,12 +180,15 @@ url = "https://github.com/ambrosus/RFID-Viewer"
 
 [[repo]]
 url = "https://github.com/ambrosus/roadmap.ambrosus.com"
+missing = true
 
 [[repo]]
 url = "https://github.com/ambrosus/sdk-android"
+missing = true
 
 [[repo]]
 url = "https://github.com/ambrosus/sdk-android-old"
+missing = true
 
 [[repo]]
 url = "https://github.com/ambrosus/sdk-ios"
@@ -164,9 +198,11 @@ url = "https://github.com/ambrosus/sdk-java"
 
 [[repo]]
 url = "https://github.com/ambrosus/sdk-java-old"
+missing = true
 
 [[repo]]
 url = "https://github.com/ambrosus/sdk-javascript"
+missing = true
 
 [[repo]]
 url = "https://github.com/ambrosus/sdk-javascript2"
@@ -188,6 +224,9 @@ url = "https://github.com/ambrosus/staking-frontend"
 
 [[repo]]
 url = "https://github.com/ambrosus/tge-contract"
+
+[[repo]]
+url = "https://github.com/ambrosus/ui-library"
 
 [[repo]]
 url = "https://github.com/ambrosus/www-dev"

@@ -26,6 +26,7 @@ url = "https://github.com/regen-network/canonical-proto3"
 
 [[repo]]
 url = "https://github.com/regen-network/carbonplus-grasslands-methodology"
+missing = true
 
 [[repo]]
 url = "https://github.com/regen-network/ceres"
@@ -91,6 +92,9 @@ url = "https://github.com/regen-network/gaia"
 url = "https://github.com/regen-network/GameOfZones"
 
 [[repo]]
+url = "https://github.com/regen-network/gherkin2markdown"
+
+[[repo]]
 url = "https://github.com/regen-network/go-amino"
 
 [[repo]]
@@ -107,6 +111,7 @@ url = "https://github.com/regen-network/governance"
 
 [[repo]]
 url = "https://github.com/regen-network/grasslands-demo"
+missing = true
 
 [[repo]]
 url = "https://github.com/regen-network/groups-ui"
@@ -140,6 +145,9 @@ url = "https://github.com/regen-network/ind-soc"
 
 [[repo]]
 url = "https://github.com/regen-network/ind-template"
+
+[[repo]]
+url = "https://github.com/regen-network/indexer"
 
 [[repo]]
 url = "https://github.com/regen-network/keystone"
@@ -199,10 +207,19 @@ url = "https://github.com/regen-network/regen-registry"
 url = "https://github.com/regen-network/regen-registry-credit-classes"
 
 [[repo]]
+url = "https://github.com/regen-network/regen-registry-handbook"
+
+[[repo]]
+url = "https://github.com/regen-network/regen-registry-methodology-library"
+
+[[repo]]
 url = "https://github.com/regen-network/regen-registry-ops"
 
 [[repo]]
 url = "https://github.com/regen-network/regen-registry-program"
+
+[[repo]]
+url = "https://github.com/regen-network/regen-registry-program-guide"
 
 [[repo]]
 url = "https://github.com/regen-network/regen-registry-standards"
@@ -217,7 +234,13 @@ url = "https://github.com/regen-network/regen-s2-ard"
 url = "https://github.com/regen-network/regen-sanity"
 
 [[repo]]
+url = "https://github.com/regen-network/regen-server"
+
+[[repo]]
 url = "https://github.com/regen-network/regen-web"
+
+[[repo]]
+url = "https://github.com/regen-network/regenie-corpus"
 
 [[repo]]
 url = "https://github.com/regen-network/registry-graphile-starter"
@@ -230,6 +253,9 @@ url = "https://github.com/regen-network/relayer"
 
 [[repo]]
 url = "https://github.com/regen-network/rhizome-db"
+
+[[repo]]
+url = "https://github.com/regen-network/rnd-dev-team"
 
 [[repo]]
 url = "https://github.com/regen-network/rust-binding"
@@ -251,6 +277,7 @@ url = "https://github.com/regen-network/toucan-bridge"
 
 [[repo]]
 url = "https://github.com/regen-network/toucan-bridge-service"
+missing = true
 
 [[repo]]
 url = "https://github.com/regen-network/toucan-contracts"

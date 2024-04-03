@@ -8,6 +8,7 @@ github_organizations = ["https://github.com/GammaStrategies"]
 # Repositories
 [[repo]]
 url = "https://github.com/GammaStrategies/active-strategy-framework"
+missing = true
 
 [[repo]]
 url = "https://github.com/GammaStrategies/asset"
@@ -20,6 +21,9 @@ url = "https://github.com/GammaStrategies/awesome-uniswap-v3"
 
 [[repo]]
 url = "https://github.com/GammaStrategies/ethereum-optimism.github.io"
+
+[[repo]]
+url = "https://github.com/GammaStrategies/fees-subgraph"
 
 [[repo]]
 url = "https://github.com/GammaStrategies/gamma_endpoint"

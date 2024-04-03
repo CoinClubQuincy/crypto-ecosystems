@@ -13,7 +13,11 @@ url = "https://github.com/cartesi/arbitration-dlib"
 url = "https://github.com/cartesi/blockchain-node"
 
 [[repo]]
+url = "https://github.com/cartesi/calculator"
+
+[[repo]]
 url = "https://github.com/cartesi/cargo-check-version"
+missing = true
 
 [[repo]]
 url = "https://github.com/cartesi/cips"
@@ -49,6 +53,9 @@ url = "https://github.com/cartesi/creepts-mappack"
 url = "https://github.com/cartesi/dapp-incubation-program"
 
 [[repo]]
+url = "https://github.com/cartesi/dave"
+
+[[repo]]
 url = "https://github.com/cartesi/demo"
 
 [[repo]]
@@ -59,6 +66,10 @@ url = "https://github.com/cartesi/descartes-tutorials"
 
 [[repo]]
 url = "https://github.com/cartesi/descartes-v2"
+missing = true
+
+[[repo]]
+url = "https://github.com/cartesi/DevGuide"
 
 [[repo]]
 url = "https://github.com/cartesi/dispatcher"
@@ -68,6 +79,10 @@ url = "https://github.com/cartesi/docker-node"
 
 [[repo]]
 url = "https://github.com/cartesi/docs"
+
+[[repo]]
+url = "https://github.com/cartesi/docs-contrib"
+missing = true
 
 [[repo]]
 url = "https://github.com/cartesi/ethsigner"
@@ -80,6 +95,9 @@ url = "https://github.com/cartesi/experiments"
 
 [[repo]]
 url = "https://github.com/cartesi/explorer"
+
+[[repo]]
+url = "https://github.com/cartesi/fortune"
 
 [[repo]]
 url = "https://github.com/cartesi/genext2fs"
@@ -148,6 +166,9 @@ url = "https://github.com/cartesi/machine-emulator-sdk"
 url = "https://github.com/cartesi/machine-emulator-tools"
 
 [[repo]]
+url = "https://github.com/cartesi/machine-json-rpc"
+
+[[repo]]
 url = "https://github.com/cartesi/machine-manager"
 
 [[repo]]
@@ -184,6 +205,9 @@ url = "https://github.com/cartesi/pos-dlib"
 url = "https://github.com/cartesi/python"
 
 [[repo]]
+url = "https://github.com/cartesi/riscv-arch-test"
+
+[[repo]]
 url = "https://github.com/cartesi/riscv-pk"
 
 [[repo]]
@@ -196,10 +220,22 @@ url = "https://github.com/cartesi/riscv-tests"
 url = "https://github.com/cartesi/rollups"
 
 [[repo]]
+url = "https://github.com/cartesi/rollups-contracts"
+
+[[repo]]
 url = "https://github.com/cartesi/rollups-deployment"
 
 [[repo]]
 url = "https://github.com/cartesi/rollups-examples"
+
+[[repo]]
+url = "https://github.com/cartesi/rollups-explorer"
+
+[[repo]]
+url = "https://github.com/cartesi/rollups-explorer-api"
+
+[[repo]]
+url = "https://github.com/cartesi/rollups-node"
 
 [[repo]]
 url = "https://github.com/cartesi/rust-web3"
@@ -223,6 +259,9 @@ url = "https://github.com/cartesi/state-fold"
 url = "https://github.com/cartesi/subgraph"
 
 [[repo]]
+url = "https://github.com/cartesi/sunodo-examples"
+
+[[repo]]
 url = "https://github.com/cartesi/tournament-dlib"
 
 [[repo]]
@@ -236,3 +275,6 @@ url = "https://github.com/cartesi/TypeChain"
 
 [[repo]]
 url = "https://github.com/cartesi/unofficial-builds"
+
+[[repo]]
+url = "https://github.com/sunodo/sunodo"

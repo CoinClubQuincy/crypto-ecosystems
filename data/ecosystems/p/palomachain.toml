@@ -13,6 +13,13 @@ url = "https://github.com/palomachain/amm"
 url = "https://github.com/palomachain/anchor.js"
 
 [[repo]]
+url = "https://github.com/palomachain/arb-geth"
+
+[[repo]]
+url = "https://github.com/palomachain/arbitrum-go-ethereum"
+missing = true
+
+[[repo]]
 url = "https://github.com/palomachain/astroport-lbp-frontend"
 
 [[repo]]
@@ -37,6 +44,12 @@ url = "https://github.com/palomachain/docs"
 url = "https://github.com/palomachain/EggNFT"
 
 [[repo]]
+url = "https://github.com/palomachain/evm-arb-geth"
+
+[[repo]]
+url = "https://github.com/palomachain/evm-op-geth"
+
+[[repo]]
 url = "https://github.com/palomachain/faucet"
 
 [[repo]]
@@ -49,19 +62,26 @@ url = "https://github.com/palomachain/gas-refund"
 url = "https://github.com/palomachain/go-ethereum"
 
 [[repo]]
+url = "https://github.com/palomachain/huginn"
+
+[[repo]]
 url = "https://github.com/palomachain/kitchen.utils"
+missing = true
 
 [[repo]]
 url = "https://github.com/palomachain/ledger-paloma-js"
 
 [[repo]]
 url = "https://github.com/palomachain/limit-order-bot-cosmwasm"
+missing = true
 
 [[repo]]
 url = "https://github.com/palomachain/limit-order-bot-uni-v2-cosmwasm"
+missing = true
 
 [[repo]]
 url = "https://github.com/palomachain/limit-order-bot-vyper"
+missing = true
 
 [[repo]]
 url = "https://github.com/palomachain/log-finder-ruleset"

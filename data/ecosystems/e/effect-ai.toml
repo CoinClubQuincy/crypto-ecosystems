@@ -43,6 +43,9 @@ url = "https://github.com/effectai/effect-force-templates"
 url = "https://github.com/effectai/effect-js"
 
 [[repo]]
+url = "https://github.com/effectai/effect-mobile"
+
+[[repo]]
 url = "https://github.com/effectai/effect-network"
 
 [[repo]]
@@ -50,6 +53,9 @@ url = "https://github.com/effectai/effect-network-neo"
 
 [[repo]]
 url = "https://github.com/effectai/effect-network-website"
+
+[[repo]]
+url = "https://github.com/effectai/effect-py"
 
 [[repo]]
 url = "https://github.com/effectai/effect-socials"
@@ -77,6 +83,7 @@ url = "https://github.com/effectai/force-frontend-new"
 
 [[repo]]
 url = "https://github.com/effectai/force-frontend-prd"
+missing = true
 
 [[repo]]
 url = "https://github.com/effectai/Force_Bot"
@@ -113,6 +120,10 @@ url = "https://github.com/effectai/neural-pepe-dapp"
 
 [[repo]]
 url = "https://github.com/effectai/pipeline-templates"
+missing = true
+
+[[repo]]
+url = "https://github.com/effectai/stl"
 
 [[repo]]
 url = "https://github.com/effectai/user-docs"

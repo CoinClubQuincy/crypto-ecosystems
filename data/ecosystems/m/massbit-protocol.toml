@@ -10,10 +10,25 @@ github_organizations = ["https://github.com/massbitprotocol"]
 url = "https://github.com/massbitprotocol/.github"
 
 [[repo]]
+url = "https://github.com/massbitprotocol/axelar-core"
+
+[[repo]]
+url = "https://github.com/massbitprotocol/axelar-examples"
+
+[[repo]]
+url = "https://github.com/massbitprotocol/axelar-local-dev"
+
+[[repo]]
+url = "https://github.com/massbitprotocol/axelarate-community"
+
+[[repo]]
 url = "https://github.com/massbitprotocol/blog"
 
 [[repo]]
 url = "https://github.com/massbitprotocol/core"
+
+[[repo]]
+url = "https://github.com/massbitprotocol/coredns"
 
 [[repo]]
 url = "https://github.com/massbitprotocol/dashboard"
@@ -28,6 +43,9 @@ url = "https://github.com/massbitprotocol/examples"
 url = "https://github.com/massbitprotocol/explorer"
 
 [[repo]]
+url = "https://github.com/massbitprotocol/formio"
+
+[[repo]]
 url = "https://github.com/massbitprotocol/gdnsd"
 
 [[repo]]
@@ -35,6 +53,9 @@ url = "https://github.com/massbitprotocol/Grant-Milestone-Delivery"
 
 [[repo]]
 url = "https://github.com/massbitprotocol/graph-cli"
+
+[[repo]]
+url = "https://github.com/massbitprotocol/graph-node"
 
 [[repo]]
 url = "https://github.com/massbitprotocol/graph-ts"
@@ -53,9 +74,11 @@ url = "https://github.com/massbitprotocol/indexer-app"
 
 [[repo]]
 url = "https://github.com/massbitprotocol/infra"
+missing = true
 
 [[repo]]
 url = "https://github.com/massbitprotocol/massbit-graph-node"
+missing = true
 
 [[repo]]
 url = "https://github.com/massbitprotocol/massbit-subgraphs"
@@ -68,6 +91,7 @@ url = "https://github.com/massbitprotocol/massbit-webapp"
 
 [[repo]]
 url = "https://github.com/massbitprotocol/massbitchain"
+missing = true
 
 [[repo]]
 url = "https://github.com/massbitprotocol/massbitprotocol"
@@ -92,6 +116,7 @@ url = "https://github.com/massbitprotocol/massbitroute_deployment"
 
 [[repo]]
 url = "https://github.com/massbitprotocol/massbitroute_dev"
+missing = true
 
 [[repo]]
 url = "https://github.com/massbitprotocol/massbitroute_explorer"
@@ -131,6 +156,7 @@ url = "https://github.com/massbitprotocol/massbitroute_stat"
 
 [[repo]]
 url = "https://github.com/massbitprotocol/massbitroute_test"
+missing = true
 
 [[repo]]
 url = "https://github.com/massbitprotocol/mbr-app"
@@ -157,10 +183,16 @@ url = "https://github.com/massbitprotocol/nginx-module-vts"
 url = "https://github.com/massbitprotocol/Open-Grants-Program"
 
 [[repo]]
+url = "https://github.com/massbitprotocol/opentelemetry-proto"
+
+[[repo]]
 url = "https://github.com/massbitprotocol/rollup"
 
 [[repo]]
 url = "https://github.com/massbitprotocol/rust-web3-substrate"
+
+[[repo]]
+url = "https://github.com/massbitprotocol/scalar-relayer"
 
 [[repo]]
 url = "https://github.com/massbitprotocol/serum-dex"
@@ -217,7 +249,11 @@ url = "https://github.com/massbitprotocol/substrate-network-indexers"
 url = "https://github.com/massbitprotocol/substrate-sum-reward-indexer"
 
 [[repo]]
+url = "https://github.com/massbitprotocol/sui"
+
+[[repo]]
 url = "https://github.com/massbitprotocol/test-ci"
+missing = true
 
 [[repo]]
 url = "https://github.com/massbitprotocol/test-ci-for-massbitprotocol"
@@ -226,7 +262,14 @@ url = "https://github.com/massbitprotocol/test-ci-for-massbitprotocol"
 url = "https://github.com/massbitprotocol/test-ci-rust"
 
 [[repo]]
+url = "https://github.com/massbitprotocol/tofn"
+
+[[repo]]
+url = "https://github.com/massbitprotocol/tofnd"
+
+[[repo]]
 url = "https://github.com/massbitprotocol/user-management"
+missing = true
 
 [[repo]]
 url = "https://github.com/massbitprotocol/version"
@@ -239,9 +282,13 @@ url = "https://github.com/massbitprotocol/warwick"
 
 [[repo]]
 url = "https://github.com/massbitprotocol/website"
+missing = true
 
 [[repo]]
 url = "https://github.com/massbitprotocol/website-development"
+
+[[repo]]
+url = "https://github.com/massbitprotocol/weighted"
 
 [[repo]]
 url = "https://github.com/massbitprotocol/zesty"

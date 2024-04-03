@@ -8,6 +8,7 @@ github_organizations = ["https://github.com/LedgerHQ"]
 # Repositories
 [[repo]]
 url = "https://github.com/LedgerHQ/-deprecated-app-boilerplate"
+missing = true
 
 [[repo]]
 url = "https://github.com/LedgerHQ/-deprecated-app-cardano"
@@ -32,6 +33,7 @@ url = "https://github.com/LedgerHQ/ansible-sshd"
 
 [[repo]]
 url = "https://github.com/LedgerHQ/apduboy"
+missing = true
 
 [[repo]]
 url = "https://github.com/LedgerHQ/ApduGenerator"
@@ -110,6 +112,16 @@ url = "https://github.com/LedgerHQ/app-blockstack"
 
 [[repo]]
 url = "https://github.com/LedgerHQ/app-boilerplate"
+
+[[repo]]
+url = "https://github.com/LedgerHQ/app-boilerplate-fuzz-storage"
+missing = true
+
+[[repo]]
+url = "https://github.com/LedgerHQ/app-boilerplate-rust"
+
+[[repo]]
+url = "https://github.com/LedgerHQ/app-boilerplate-vierzon"
 
 [[repo]]
 url = "https://github.com/LedgerHQ/app-btec"
@@ -274,6 +286,9 @@ url = "https://github.com/LedgerHQ/app-kadena"
 url = "https://github.com/LedgerHQ/app-karura"
 
 [[repo]]
+url = "https://github.com/LedgerHQ/app-kaspa"
+
+[[repo]]
 url = "https://github.com/LedgerHQ/app-keepass"
 
 [[repo]]
@@ -290,6 +305,9 @@ url = "https://github.com/LedgerHQ/app-kusama"
 
 [[repo]]
 url = "https://github.com/LedgerHQ/app-lisk"
+
+[[repo]]
+url = "https://github.com/LedgerHQ/app-lisk-new"
 
 [[repo]]
 url = "https://github.com/LedgerHQ/app-lto"
@@ -311,6 +329,9 @@ url = "https://github.com/LedgerHQ/app-monero"
 
 [[repo]]
 url = "https://github.com/LedgerHQ/app-multiversx"
+
+[[repo]]
+url = "https://github.com/LedgerHQ/app-namada"
 
 [[repo]]
 url = "https://github.com/LedgerHQ/app-nano"
@@ -350,6 +371,7 @@ url = "https://github.com/LedgerHQ/app-oxen"
 
 [[repo]]
 url = "https://github.com/LedgerHQ/app-panacea"
+missing = true
 
 [[repo]]
 url = "https://github.com/LedgerHQ/app-parallel"
@@ -359,6 +381,9 @@ url = "https://github.com/LedgerHQ/app-particl"
 
 [[repo]]
 url = "https://github.com/LedgerHQ/app-passwords"
+
+[[repo]]
+url = "https://github.com/LedgerHQ/app-pendulum"
 
 [[repo]]
 url = "https://github.com/LedgerHQ/app-persistence"
@@ -379,6 +404,9 @@ url = "https://github.com/LedgerHQ/app-plugin-alkemi"
 url = "https://github.com/LedgerHQ/app-plugin-angle"
 
 [[repo]]
+url = "https://github.com/LedgerHQ/app-plugin-apwine"
+
+[[repo]]
 url = "https://github.com/LedgerHQ/app-plugin-art-blocks"
 
 [[repo]]
@@ -388,10 +416,19 @@ url = "https://github.com/LedgerHQ/app-plugin-boilerplate"
 url = "https://github.com/LedgerHQ/app-plugin-cbridge"
 
 [[repo]]
+url = "https://github.com/LedgerHQ/app-plugin-cian"
+
+[[repo]]
 url = "https://github.com/LedgerHQ/app-plugin-cometh"
 
 [[repo]]
 url = "https://github.com/LedgerHQ/app-plugin-compound"
+
+[[repo]]
+url = "https://github.com/LedgerHQ/app-plugin-ens"
+
+[[repo]]
+url = "https://github.com/LedgerHQ/app-plugin-figment"
 
 [[repo]]
 url = "https://github.com/LedgerHQ/app-plugin-harvest"
@@ -400,7 +437,17 @@ url = "https://github.com/LedgerHQ/app-plugin-harvest"
 url = "https://github.com/LedgerHQ/app-plugin-kiln"
 
 [[repo]]
+url = "https://github.com/LedgerHQ/app-plugin-lens"
+
+[[repo]]
+url = "https://github.com/LedgerHQ/app-plugin-libertify"
+missing = true
+
+[[repo]]
 url = "https://github.com/LedgerHQ/app-plugin-lido"
+
+[[repo]]
+url = "https://github.com/LedgerHQ/app-plugin-morpho"
 
 [[repo]]
 url = "https://github.com/LedgerHQ/app-plugin-nested"
@@ -409,10 +456,16 @@ url = "https://github.com/LedgerHQ/app-plugin-nested"
 url = "https://github.com/LedgerHQ/app-plugin-nft"
 
 [[repo]]
+url = "https://github.com/LedgerHQ/app-plugin-okx"
+
+[[repo]]
 url = "https://github.com/LedgerHQ/app-plugin-opensea"
 
 [[repo]]
 url = "https://github.com/LedgerHQ/app-plugin-opensea-new"
+
+[[repo]]
+url = "https://github.com/LedgerHQ/app-plugin-p2p"
 
 [[repo]]
 url = "https://github.com/LedgerHQ/app-plugin-paraswap"
@@ -433,6 +486,12 @@ url = "https://github.com/LedgerHQ/app-plugin-ribbon"
 url = "https://github.com/LedgerHQ/app-plugin-ricochet"
 
 [[repo]]
+url = "https://github.com/LedgerHQ/app-plugin-rocketpool"
+
+[[repo]]
+url = "https://github.com/LedgerHQ/app-plugin-spool"
+
+[[repo]]
 url = "https://github.com/LedgerHQ/app-plugin-squid"
 
 [[repo]]
@@ -440,6 +499,20 @@ url = "https://github.com/LedgerHQ/app-plugin-staderlabs"
 
 [[repo]]
 url = "https://github.com/LedgerHQ/app-plugin-stakedao"
+
+[[repo]]
+url = "https://github.com/LedgerHQ/app-plugin-stakekit"
+
+[[repo]]
+url = "https://github.com/LedgerHQ/app-plugin-uniswap"
+
+[[repo]]
+url = "https://github.com/LedgerHQ/app-plugin-uniswap-test"
+missing = true
+
+[[repo]]
+url = "https://github.com/LedgerHQ/app-plugin-uniswap-test2"
+missing = true
 
 [[repo]]
 url = "https://github.com/LedgerHQ/app-plugin-yearn"
@@ -460,10 +533,19 @@ url = "https://github.com/LedgerHQ/app-polymesh"
 url = "https://github.com/LedgerHQ/app-pro"
 
 [[repo]]
+url = "https://github.com/LedgerHQ/app-provenance"
+
+[[repo]]
 url = "https://github.com/LedgerHQ/app-qrl"
 
 [[repo]]
+url = "https://github.com/LedgerHQ/app-qtum"
+
+[[repo]]
 url = "https://github.com/LedgerHQ/app-radix"
+
+[[repo]]
+url = "https://github.com/LedgerHQ/app-radix-babylon"
 
 [[repo]]
 url = "https://github.com/LedgerHQ/app-ravencoin"
@@ -476,6 +558,7 @@ url = "https://github.com/LedgerHQ/app-reef"
 
 [[repo]]
 url = "https://github.com/LedgerHQ/app-revealer"
+missing = true
 
 [[repo]]
 url = "https://github.com/LedgerHQ/app-rise"
@@ -511,6 +594,9 @@ url = "https://github.com/LedgerHQ/app-ssh-agent"
 url = "https://github.com/LedgerHQ/app-starknet"
 
 [[repo]]
+url = "https://github.com/LedgerHQ/app-starknet-zondax"
+
+[[repo]]
 url = "https://github.com/LedgerHQ/app-statemine"
 
 [[repo]]
@@ -544,6 +630,9 @@ url = "https://github.com/LedgerHQ/app-tess-train"
 url = "https://github.com/LedgerHQ/app-tezos"
 
 [[repo]]
+url = "https://github.com/LedgerHQ/app-tezos-new"
+
+[[repo]]
 url = "https://github.com/LedgerHQ/app-theta"
 
 [[repo]]
@@ -557,6 +646,9 @@ url = "https://github.com/LedgerHQ/app-ton-new"
 
 [[repo]]
 url = "https://github.com/LedgerHQ/app-tron"
+
+[[repo]]
+url = "https://github.com/LedgerHQ/app-trustchain"
 
 [[repo]]
 url = "https://github.com/LedgerHQ/app-u2f"
@@ -611,6 +703,7 @@ url = "https://github.com/LedgerHQ/bitcoin-abc"
 
 [[repo]]
 url = "https://github.com/LedgerHQ/bitcoin-keychain"
+missing = true
 
 [[repo]]
 url = "https://github.com/LedgerHQ/bitcoin-lib-grpc"
@@ -683,12 +776,19 @@ url = "https://github.com/LedgerHQ/btg-convert"
 
 [[repo]]
 url = "https://github.com/LedgerHQ/buy-sell-live-app"
+missing = true
 
 [[repo]]
 url = "https://github.com/LedgerHQ/c-helper-macros"
 
 [[repo]]
 url = "https://github.com/LedgerHQ/cargo-ledger"
+
+[[repo]]
+url = "https://github.com/LedgerHQ/categorizer_bot"
+
+[[repo]]
+url = "https://github.com/LedgerHQ/cex-deposit-live-app"
 
 [[repo]]
 url = "https://github.com/LedgerHQ/chef"
@@ -701,6 +801,7 @@ url = "https://github.com/LedgerHQ/chef-nginx"
 
 [[repo]]
 url = "https://github.com/LedgerHQ/chef-pgbouncer-service"
+missing = true
 
 [[repo]]
 url = "https://github.com/LedgerHQ/chef-postgresql"
@@ -743,12 +844,14 @@ url = "https://github.com/LedgerHQ/cream-workshop-solidity"
 
 [[repo]]
 url = "https://github.com/LedgerHQ/cria"
+missing = true
 
 [[repo]]
 url = "https://github.com/LedgerHQ/crosstool-ng"
 
 [[repo]]
 url = "https://github.com/LedgerHQ/cScale"
+missing = true
 
 [[repo]]
 url = "https://github.com/LedgerHQ/CTF"
@@ -757,7 +860,11 @@ url = "https://github.com/LedgerHQ/CTF"
 url = "https://github.com/LedgerHQ/cylib"
 
 [[repo]]
+url = "https://github.com/LedgerHQ/dale"
+
+[[repo]]
 url = "https://github.com/LedgerHQ/developer-portal"
+missing = true
 
 [[repo]]
 url = "https://github.com/LedgerHQ/djinni"
@@ -787,10 +894,14 @@ url = "https://github.com/LedgerHQ/electron-builder"
 url = "https://github.com/LedgerHQ/electrum-ltc"
 
 [[repo]]
+url = "https://github.com/LedgerHQ/embedded-application-tools"
+
+[[repo]]
 url = "https://github.com/LedgerHQ/eth-dapp-browser"
 
 [[repo]]
 url = "https://github.com/LedgerHQ/eth-dapp-browser-test-dapp"
+missing = true
 
 [[repo]]
 url = "https://github.com/LedgerHQ/eth-ledger-bridge-keyring"
@@ -802,6 +913,9 @@ url = "https://github.com/LedgerHQ/ethash"
 url = "https://github.com/LedgerHQ/ethereum-plugin-sdk"
 
 [[repo]]
+url = "https://github.com/LedgerHQ/exchange-sdk"
+
+[[repo]]
 url = "https://github.com/LedgerHQ/exercises-public"
 
 [[repo]]
@@ -809,6 +923,7 @@ url = "https://github.com/LedgerHQ/foresight"
 
 [[repo]]
 url = "https://github.com/LedgerHQ/fuzzers-corpus"
+missing = true
 
 [[repo]]
 url = "https://github.com/LedgerHQ/ga-argocd-action"
@@ -821,6 +936,7 @@ url = "https://github.com/LedgerHQ/get-starknet"
 
 [[repo]]
 url = "https://github.com/LedgerHQ/gh-metadata-action"
+missing = true
 
 [[repo]]
 url = "https://github.com/LedgerHQ/gitcoin-bounties"
@@ -857,9 +973,13 @@ url = "https://github.com/LedgerHQ/innovation-ens-resolver-L2"
 
 [[repo]]
 url = "https://github.com/LedgerHQ/innovation-merkle-tree"
+missing = true
 
 [[repo]]
 url = "https://github.com/LedgerHQ/innovation-voucher-web"
+
+[[repo]]
+url = "https://github.com/LedgerHQ/inventory"
 
 [[repo]]
 url = "https://github.com/LedgerHQ/ios-ble-wrapper"
@@ -893,9 +1013,11 @@ url = "https://github.com/LedgerHQ/kudelski-cryptochallenge18"
 
 [[repo]]
 url = "https://github.com/LedgerHQ/lama"
+missing = true
 
 [[repo]]
 url = "https://github.com/LedgerHQ/lama-scheduler"
+missing = true
 
 [[repo]]
 url = "https://github.com/LedgerHQ/lascar"
@@ -914,6 +1036,7 @@ url = "https://github.com/LedgerHQ/ledger-app-builder"
 
 [[repo]]
 url = "https://github.com/LedgerHQ/ledger-app-builder-clang"
+missing = true
 
 [[repo]]
 url = "https://github.com/LedgerHQ/ledger-app-cosmos"
@@ -934,6 +1057,12 @@ url = "https://github.com/LedgerHQ/ledger-app-pocket"
 url = "https://github.com/LedgerHQ/ledger-app-store-front"
 
 [[repo]]
+url = "https://github.com/LedgerHQ/ledger-app-tester"
+
+[[repo]]
+url = "https://github.com/LedgerHQ/ledger-app-tester-test"
+
+[[repo]]
 url = "https://github.com/LedgerHQ/ledger-app-workflows"
 
 [[repo]]
@@ -943,10 +1072,16 @@ url = "https://github.com/LedgerHQ/ledger-asset-dapps"
 url = "https://github.com/LedgerHQ/ledger-blue"
 
 [[repo]]
+url = "https://github.com/LedgerHQ/ledger-cairo-contracts"
+
+[[repo]]
 url = "https://github.com/LedgerHQ/ledger-cosmos-js"
 
 [[repo]]
 url = "https://github.com/LedgerHQ/ledger-dev-doc"
+
+[[repo]]
+url = "https://github.com/LedgerHQ/ledger-device-rust-sdk"
 
 [[repo]]
 url = "https://github.com/LedgerHQ/ledger-dotnet-api"
@@ -974,6 +1109,7 @@ url = "https://github.com/LedgerHQ/ledger-live-desktop"
 
 [[repo]]
 url = "https://github.com/LedgerHQ/ledger-live-desktop-beta"
+missing = true
 
 [[repo]]
 url = "https://github.com/LedgerHQ/ledger-live-desktop-nightly"
@@ -1010,6 +1146,7 @@ url = "https://github.com/LedgerHQ/ledger-manager-hsm-proxy"
 
 [[repo]]
 url = "https://github.com/LedgerHQ/ledger-nano-piv"
+missing = true
 
 [[repo]]
 url = "https://github.com/LedgerHQ/ledger-nano-s"
@@ -1033,6 +1170,9 @@ url = "https://github.com/LedgerHQ/ledger-sample-apps"
 url = "https://github.com/LedgerHQ/ledger-scala-template"
 
 [[repo]]
+url = "https://github.com/LedgerHQ/ledger-secure-os"
+
+[[repo]]
 url = "https://github.com/LedgerHQ/ledger-secure-sdk"
 
 [[repo]]
@@ -1043,6 +1183,9 @@ url = "https://github.com/LedgerHQ/ledger-u2f-javacard"
 
 [[repo]]
 url = "https://github.com/LedgerHQ/ledger-updater"
+
+[[repo]]
+url = "https://github.com/LedgerHQ/ledger-vscode-extension"
 
 [[repo]]
 url = "https://github.com/LedgerHQ/ledger-wagmi-connector"
@@ -1075,16 +1218,23 @@ url = "https://github.com/LedgerHQ/ledgercomm"
 url = "https://github.com/LedgerHQ/ledgerctl"
 
 [[repo]]
+url = "https://github.com/LedgerHQ/ledgered"
+
+[[repo]]
 url = "https://github.com/LedgerHQ/LedgerHQ-app-boilerplate-test-fork"
+missing = true
 
 [[repo]]
 url = "https://github.com/LedgerHQ/LedgerHQ-app-boilerplate-test-fork2"
+missing = true
 
 [[repo]]
 url = "https://github.com/LedgerHQ/LedgerHQ-app-boilerplate-test-fork3"
+missing = true
 
 [[repo]]
 url = "https://github.com/LedgerHQ/LedgerHQ.github.io"
+missing = true
 
 [[repo]]
 url = "https://github.com/LedgerHQ/ledgerjs"
@@ -1127,6 +1277,7 @@ url = "https://github.com/LedgerHQ/llvm"
 
 [[repo]]
 url = "https://github.com/LedgerHQ/login-with-metamask-demo"
+missing = true
 
 [[repo]]
 url = "https://github.com/LedgerHQ/marshmallow_dataclass"
@@ -1142,6 +1293,7 @@ url = "https://github.com/LedgerHQ/mew-wallet-ios-kit"
 
 [[repo]]
 url = "https://github.com/LedgerHQ/mew-wallet-ios-kit-ledger"
+missing = true
 
 [[repo]]
 url = "https://github.com/LedgerHQ/moxiebox"
@@ -1214,6 +1366,7 @@ url = "https://github.com/LedgerHQ/nuts"
 
 [[repo]]
 url = "https://github.com/LedgerHQ/offchain-resolver"
+missing = true
 
 [[repo]]
 url = "https://github.com/LedgerHQ/open-keychain"
@@ -1253,6 +1406,7 @@ url = "https://github.com/LedgerHQ/plugin-erc20"
 
 [[repo]]
 url = "https://github.com/LedgerHQ/plugin-tools"
+missing = true
 
 [[repo]]
 url = "https://github.com/LedgerHQ/poise-archive"
@@ -1274,9 +1428,11 @@ url = "https://github.com/LedgerHQ/python-base-images"
 
 [[repo]]
 url = "https://github.com/LedgerHQ/python-lib-action"
+missing = true
 
 [[repo]]
 url = "https://github.com/LedgerHQ/qa-backend-tests"
+missing = true
 
 [[repo]]
 url = "https://github.com/LedgerHQ/ragger"
@@ -1292,6 +1448,9 @@ url = "https://github.com/LedgerHQ/react-native-secp256k1"
 
 [[repo]]
 url = "https://github.com/LedgerHQ/react-native-touch-id"
+
+[[repo]]
+url = "https://github.com/LedgerHQ/recover-whitepaper"
 
 [[repo]]
 url = "https://github.com/LedgerHQ/resigner"
@@ -1315,6 +1474,10 @@ url = "https://github.com/LedgerHQ/rust-app-password-manager"
 url = "https://github.com/LedgerHQ/S3-Uploads"
 
 [[repo]]
+url = "https://github.com/LedgerHQ/sample"
+missing = true
+
+[[repo]]
 url = "https://github.com/LedgerHQ/samplewebwallet"
 
 [[repo]]
@@ -1328,6 +1491,9 @@ url = "https://github.com/LedgerHQ/sdk_include_gif"
 
 [[repo]]
 url = "https://github.com/LedgerHQ/secp256k1"
+
+[[repo]]
+url = "https://github.com/LedgerHQ/secure-sdk-rust"
 
 [[repo]]
 url = "https://github.com/LedgerHQ/send-to-allure-server-action"
@@ -1360,6 +1526,9 @@ url = "https://github.com/LedgerHQ/staking-deposit-cli"
 url = "https://github.com/LedgerHQ/StarkCheck"
 
 [[repo]]
+url = "https://github.com/LedgerHQ/starknet-apdu-generator"
+
+[[repo]]
 url = "https://github.com/LedgerHQ/starknet-js-client"
 
 [[repo]]
@@ -1369,7 +1538,11 @@ url = "https://github.com/LedgerHQ/starknet-plugin-account"
 url = "https://github.com/LedgerHQ/starknet-plugin-store"
 
 [[repo]]
+url = "https://github.com/LedgerHQ/starknet-sdk"
+
+[[repo]]
 url = "https://github.com/LedgerHQ/Starknet-wallet-contracts"
+missing = true
 
 [[repo]]
 url = "https://github.com/LedgerHQ/starknet-watcher"
@@ -1378,7 +1551,14 @@ url = "https://github.com/LedgerHQ/starknet-watcher"
 url = "https://github.com/LedgerHQ/substrate-api-sidecar"
 
 [[repo]]
+url = "https://github.com/LedgerHQ/swap-live-app"
+missing = true
+
+[[repo]]
 url = "https://github.com/LedgerHQ/temporary-ledger-live-issues-template"
+
+[[repo]]
+url = "https://github.com/LedgerHQ/test-app-boilerplate"
 
 [[repo]]
 url = "https://github.com/LedgerHQ/thor-sync.electron-ldg-recovery"
@@ -1414,6 +1594,18 @@ url = "https://github.com/LedgerHQ/ui"
 url = "https://github.com/LedgerHQ/unos_"
 
 [[repo]]
+url = "https://github.com/LedgerHQ/vanadium"
+
+[[repo]]
+url = "https://github.com/LedgerHQ/vanadium-rust-bitcoin"
+
+[[repo]]
+url = "https://github.com/LedgerHQ/vanadium-rust-secp256k1"
+
+[[repo]]
+url = "https://github.com/LedgerHQ/vanadium-secp256kfun"
+
+[[repo]]
 url = "https://github.com/LedgerHQ/vault-cli-setup"
 
 [[repo]]
@@ -1421,6 +1613,9 @@ url = "https://github.com/LedgerHQ/vault-front-homework"
 
 [[repo]]
 url = "https://github.com/LedgerHQ/vault_seed_recovery"
+
+[[repo]]
+url = "https://github.com/LedgerHQ/vnd-boilerplate"
 
 [[repo]]
 url = "https://github.com/LedgerHQ/wallet-api"
@@ -1436,6 +1631,9 @@ url = "https://github.com/LedgerHQ/wallet-btc"
 
 [[repo]]
 url = "https://github.com/LedgerHQ/wallet-connect-live-app"
+
+[[repo]]
+url = "https://github.com/LedgerHQ/wallet-sync-system"
 
 [[repo]]
 url = "https://github.com/LedgerHQ/walletconnect-ll-universal-proxy"

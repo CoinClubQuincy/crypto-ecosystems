@@ -13,6 +13,9 @@ url = "https://github.com/armoniax/abieos"
 url = "https://github.com/armoniax/amax-dapp-demo"
 
 [[repo]]
+url = "https://github.com/armoniax/amax-python-toolkits"
+
+[[repo]]
 url = "https://github.com/armoniax/amax-synapse"
 
 [[repo]]
@@ -22,10 +25,14 @@ url = "https://github.com/armoniax/amax-web-ide"
 url = "https://github.com/armoniax/amax.aips"
 
 [[repo]]
+url = "https://github.com/armoniax/amax.bootcamp"
+
+[[repo]]
 url = "https://github.com/armoniax/amax.cdt"
 
 [[repo]]
 url = "https://github.com/armoniax/amax.contracts"
+missing = true
 
 [[repo]]
 url = "https://github.com/armoniax/amax.contracts.evm"
@@ -44,6 +51,7 @@ url = "https://github.com/armoniax/amax.fc"
 
 [[repo]]
 url = "https://github.com/armoniax/amax.meta.chain"
+missing = true
 
 [[repo]]
 url = "https://github.com/armoniax/amax.releases"
@@ -61,10 +69,19 @@ url = "https://github.com/armoniax/amaxscan"
 url = "https://github.com/armoniax/amaxscan_v1"
 
 [[repo]]
+url = "https://github.com/armoniax/amaxup.evmsnap"
+
+[[repo]]
+url = "https://github.com/armoniax/amaxup.evmsnap.contracts"
+
+[[repo]]
 url = "https://github.com/armoniax/amc-dev-docs"
 
 [[repo]]
 url = "https://github.com/armoniax/amc-dev-docs-cn"
+
+[[repo]]
+url = "https://github.com/armoniax/ans.contracts"
 
 [[repo]]
 url = "https://github.com/armoniax/aplink-docs"
@@ -74,6 +91,7 @@ url = "https://github.com/armoniax/aplink.contracts"
 
 [[repo]]
 url = "https://github.com/armoniax/apollo.contracts"
+missing = true
 
 [[repo]]
 url = "https://github.com/armoniax/apps"
@@ -104,6 +122,7 @@ url = "https://github.com/armoniax/dart-esr-amax"
 
 [[repo]]
 url = "https://github.com/armoniax/dex.contracts"
+missing = true
 
 [[repo]]
 url = "https://github.com/armoniax/element-desktop"

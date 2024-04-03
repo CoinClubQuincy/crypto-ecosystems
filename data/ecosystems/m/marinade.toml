@@ -25,6 +25,9 @@ url = "https://github.com/marinade-finance/delegation-strategy-2"
 url = "https://github.com/marinade-finance/delegation-strategy-pipeline"
 
 [[repo]]
+url = "https://github.com/marinade-finance/ds-playground"
+
+[[repo]]
 url = "https://github.com/marinade-finance/elusiv"
 
 [[repo]]
@@ -35,6 +38,9 @@ url = "https://github.com/marinade-finance/governance-ui"
 
 [[repo]]
 url = "https://github.com/marinade-finance/how-to-integrate-marinade"
+
+[[repo]]
+url = "https://github.com/marinade-finance/hubble-common"
 
 [[repo]]
 url = "https://github.com/marinade-finance/jobs"
@@ -64,7 +70,11 @@ url = "https://github.com/marinade-finance/maridrop"
 url = "https://github.com/marinade-finance/marinade-apy"
 
 [[repo]]
+url = "https://github.com/marinade-finance/marinade-common-rs-cli"
+
+[[repo]]
 url = "https://github.com/marinade-finance/marinade-gitbook"
+missing = true
 
 [[repo]]
 url = "https://github.com/marinade-finance/marinade-onchain-helper"
@@ -80,6 +90,12 @@ url = "https://github.com/marinade-finance/marinade-ts-cli"
 
 [[repo]]
 url = "https://github.com/marinade-finance/marinade-ts-sdk"
+
+[[repo]]
+url = "https://github.com/marinade-finance/marinade-web-config"
+
+[[repo]]
+url = "https://github.com/marinade-finance/marinade-widget"
 
 [[repo]]
 url = "https://github.com/marinade-finance/metaplex-program-library"
@@ -109,6 +125,9 @@ url = "https://github.com/marinade-finance/quarry-cli"
 url = "https://github.com/marinade-finance/quarry-cli-old"
 
 [[repo]]
+url = "https://github.com/marinade-finance/scope"
+
+[[repo]]
 url = "https://github.com/marinade-finance/solana"
 
 [[repo]]
@@ -122,9 +141,13 @@ url = "https://github.com/marinade-finance/solana-snapshot-etl"
 
 [[repo]]
 url = "https://github.com/marinade-finance/solana-snapshot-finder"
+missing = true
 
 [[repo]]
 url = "https://github.com/marinade-finance/solana-snapshot-manager"
+
+[[repo]]
+url = "https://github.com/marinade-finance/spl-gov-notifier"
 
 [[repo]]
 url = "https://github.com/marinade-finance/stake-o-matic"
@@ -143,6 +166,7 @@ url = "https://github.com/marinade-finance/token-list"
 
 [[repo]]
 url = "https://github.com/marinade-finance/token-list-builder"
+missing = true
 
 [[repo]]
 url = "https://github.com/marinade-finance/token-vesting"
@@ -152,6 +176,9 @@ url = "https://github.com/marinade-finance/tribeca"
 
 [[repo]]
 url = "https://github.com/marinade-finance/tribeca-non-quarry-config"
+
+[[repo]]
+url = "https://github.com/marinade-finance/validator-bonds"
 
 [[repo]]
 url = "https://github.com/marinade-finance/vipers"

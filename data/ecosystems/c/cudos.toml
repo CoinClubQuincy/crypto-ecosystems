@@ -25,10 +25,14 @@ url = "https://github.com/CudoVentures/chain-registry"
 url = "https://github.com/CudoVentures/code-explorer"
 
 [[repo]]
+url = "https://github.com/CudoVentures/cometbft"
+
+[[repo]]
 url = "https://github.com/CudoVentures/cosmos-exporter"
 
 [[repo]]
 url = "https://github.com/CudoVentures/cosmos-flooder"
+missing = true
 
 [[repo]]
 url = "https://github.com/CudoVentures/cosmos-gravity-bridge"
@@ -38,6 +42,9 @@ url = "https://github.com/CudoVentures/Cosmos-IE"
 
 [[repo]]
 url = "https://github.com/CudoVentures/cosmos-sdk"
+
+[[repo]]
+url = "https://github.com/CudoVentures/cosmwasm"
 
 [[repo]]
 url = "https://github.com/CudoVentures/cosmwasm-as"
@@ -56,6 +63,9 @@ url = "https://github.com/CudoVentures/cudo-builders"
 
 [[repo]]
 url = "https://github.com/CudoVentures/cudo-compute-docs"
+
+[[repo]]
+url = "https://github.com/CudoVentures/cudo-compute-python-client"
 
 [[repo]]
 url = "https://github.com/CudoVentures/cudo-ethminer"
@@ -178,7 +188,13 @@ url = "https://github.com/CudoVentures/cudos-token-minter-ui"
 url = "https://github.com/CudoVentures/cudos-utils"
 
 [[repo]]
+url = "https://github.com/CudoVentures/cudos-wasm-ica-ibc-poc"
+
+[[repo]]
 url = "https://github.com/CudoVentures/cudosjs"
+
+[[repo]]
+url = "https://github.com/CudoVentures/ebpf_exporter"
 
 [[repo]]
 url = "https://github.com/CudoVentures/electron-installer-dmg"
@@ -190,7 +206,13 @@ url = "https://github.com/CudoVentures/ethash"
 url = "https://github.com/CudoVentures/faucet"
 
 [[repo]]
+url = "https://github.com/CudoVentures/goflow2"
+
+[[repo]]
 url = "https://github.com/CudoVentures/juno"
+
+[[repo]]
+url = "https://github.com/CudoVentures/keplr-chain-registry"
 
 [[repo]]
 url = "https://github.com/CudoVentures/kubespray"
@@ -209,6 +231,7 @@ url = "https://github.com/CudoVentures/nft-marketplace"
 
 [[repo]]
 url = "https://github.com/CudoVentures/node-desktop-idle"
+missing = true
 
 [[repo]]
 url = "https://github.com/CudoVentures/node-multi-hashing"
@@ -220,10 +243,19 @@ url = "https://github.com/CudoVentures/one"
 url = "https://github.com/CudoVentures/one_exporter"
 
 [[repo]]
+url = "https://github.com/CudoVentures/openwhisk-cli"
+
+[[repo]]
 url = "https://github.com/CudoVentures/osmosis-frontend"
 
 [[repo]]
 url = "https://github.com/CudoVentures/release-action"
+
+[[repo]]
+url = "https://github.com/CudoVentures/skypilot"
+
+[[repo]]
+url = "https://github.com/CudoVentures/skypilot-catalog"
 
 [[repo]]
 url = "https://github.com/CudoVentures/terraform-provider-cudo"
@@ -239,6 +271,9 @@ url = "https://github.com/CudoVentures/vue-undraw"
 
 [[repo]]
 url = "https://github.com/CudoVentures/vuex-module-decorators"
+
+[[repo]]
+url = "https://github.com/CudoVentures/wasmvmwrapper"
 
 [[repo]]
 url = "https://github.com/CudoVentures/xmonarch"

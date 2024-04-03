@@ -37,6 +37,12 @@ url = "https://github.com/mobilecoinofficial/auxin"
 url = "https://github.com/mobilecoinofficial/awesome-mobilecoin"
 
 [[repo]]
+url = "https://github.com/mobilecoinofficial/axelar-amplifier"
+
+[[repo]]
+url = "https://github.com/mobilecoinofficial/axelar-grpc-protobuf"
+
+[[repo]]
 url = "https://github.com/mobilecoinofficial/bigdecimal-rs"
 
 [[repo]]
@@ -88,6 +94,9 @@ url = "https://github.com/mobilecoinofficial/docker-rust-sgx-base"
 url = "https://github.com/mobilecoinofficial/ed25519-dalek"
 
 [[repo]]
+url = "https://github.com/mobilecoinofficial/ethers-rs"
+
+[[repo]]
 url = "https://github.com/mobilecoinofficial/FloatingPanel"
 
 [[repo]]
@@ -118,6 +127,9 @@ url = "https://github.com/mobilecoinofficial/gha-docker-helpers"
 url = "https://github.com/mobilecoinofficial/gha-k8s-toolbox"
 
 [[repo]]
+url = "https://github.com/mobilecoinofficial/gha-runner"
+
+[[repo]]
 url = "https://github.com/mobilecoinofficial/gha-workflow-dispatch"
 
 [[repo]]
@@ -145,13 +157,23 @@ url = "https://github.com/mobilecoinofficial/hyper"
 url = "https://github.com/mobilecoinofficial/json"
 
 [[repo]]
+url = "https://github.com/mobilecoinofficial/jwt-compact"
+
+[[repo]]
 url = "https://github.com/mobilecoinofficial/kube-leader-election"
+missing = true
 
 [[repo]]
 url = "https://github.com/mobilecoinofficial/ledger-mob"
 
 [[repo]]
 url = "https://github.com/mobilecoinofficial/libmobilecoin"
+
+[[repo]]
+url = "https://github.com/mobilecoinofficial/libmobilecoin-apple-artifacts"
+
+[[repo]]
+url = "https://github.com/mobilecoinofficial/libmobilecoin-archive"
 
 [[repo]]
 url = "https://github.com/mobilecoinofficial/loom"
@@ -176,6 +198,9 @@ url = "https://github.com/mobilecoinofficial/mobilecoin-python-cli"
 
 [[repo]]
 url = "https://github.com/mobilecoinofficial/MobileCoin-Swift"
+
+[[repo]]
+url = "https://github.com/mobilecoinofficial/mobilecoind-buddy"
 
 [[repo]]
 url = "https://github.com/mobilecoinofficial/MobileCoinPressKit"
@@ -257,6 +282,7 @@ url = "https://github.com/mobilecoinofficial/serde"
 
 [[repo]]
 url = "https://github.com/mobilecoinofficial/Signal-Android"
+missing = true
 
 [[repo]]
 url = "https://github.com/mobilecoinofficial/Signal-Pods"
@@ -269,12 +295,22 @@ url = "https://github.com/mobilecoinofficial/slog"
 
 [[repo]]
 url = "https://github.com/mobilecoinofficial/tf-mc-testnet-consensus-network"
+missing = true
 
 [[repo]]
 url = "https://github.com/mobilecoinofficial/thrift"
+
+[[repo]]
+url = "https://github.com/mobilecoinofficial/tofn"
+
+[[repo]]
+url = "https://github.com/mobilecoinofficial/tofnd"
 
 [[repo]]
 url = "https://github.com/mobilecoinofficial/traits"
 
 [[repo]]
 url = "https://github.com/mobilecoinofficial/trezor-agent"
+
+[[repo]]
+url = "https://github.com/mobilecoinofficial/TwilioPhoneVerify"

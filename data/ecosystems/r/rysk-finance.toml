@@ -37,10 +37,14 @@ url = "https://github.com/rysk-finance/gnosis-safe-proposor"
 url = "https://github.com/rysk-finance/options_simulation"
 
 [[repo]]
+url = "https://github.com/rysk-finance/Rysk-Grant-Proposals"
+
+[[repo]]
 url = "https://github.com/rysk-finance/rysk-subgraph-arbitrum"
 
 [[repo]]
 url = "https://github.com/rysk-finance/tokyo-hack"
+missing = true
 
 [[repo]]
 url = "https://github.com/rysk-finance/volatility-trading"

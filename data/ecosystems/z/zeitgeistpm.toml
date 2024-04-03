@@ -68,6 +68,7 @@ url = "https://github.com/zeitgeistpm/Seer-For-China"
 
 [[repo]]
 url = "https://github.com/zeitgeistpm/snapshot-web"
+missing = true
 
 [[repo]]
 url = "https://github.com/zeitgeistpm/substrate"
@@ -80,6 +81,9 @@ url = "https://github.com/zeitgeistpm/ui"
 
 [[repo]]
 url = "https://github.com/zeitgeistpm/wsx"
+
+[[repo]]
+url = "https://github.com/zeitgeistpm/wsx-landing"
 
 [[repo]]
 url = "https://github.com/zeitgeistpm/xcm-simulator"
@@ -98,6 +102,9 @@ url = "https://github.com/zeitgeistpm/zeitgeist-subsquid"
 
 [[repo]]
 url = "https://github.com/zeitgeistpm/zeitgeist-token-api"
+
+[[repo]]
+url = "https://github.com/zeitgeistpm/zeitgeist-workshop"
 
 [[repo]]
 url = "https://github.com/zeitgeistpm/zeitgeistpm.github.io"

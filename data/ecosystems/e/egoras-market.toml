@@ -25,6 +25,9 @@ url = "https://github.com/EgorasMarket/Egoras-Savings-App"
 url = "https://github.com/EgorasMarket/EGORAS-V3-smart"
 
 [[repo]]
+url = "https://github.com/EgorasMarket/Egoras.com"
+
+[[repo]]
 url = "https://github.com/EgorasMarket/EgorasAMM"
 
 [[repo]]
@@ -50,6 +53,7 @@ url = "https://github.com/EgorasMarket/EgorasSmartContractV2"
 
 [[repo]]
 url = "https://github.com/EgorasMarket/EgorasV2"
+missing = true
 
 [[repo]]
 url = "https://github.com/EgorasMarket/EgorasWeb"
@@ -62,6 +66,7 @@ url = "https://github.com/EgorasMarket/Ella.ng"
 
 [[repo]]
 url = "https://github.com/EgorasMarket/Fort-Admin"
+missing = true
 
 [[repo]]
 url = "https://github.com/EgorasMarket/Marketplace-web-app"

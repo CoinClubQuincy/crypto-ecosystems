@@ -7,10 +7,16 @@ github_organizations = ["https://github.com/sherlock-protocol"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/sherlock-audit/2023-03-taurus"
+
+[[repo]]
 url = "https://github.com/sherlock-protocol/bug-poc"
 
 [[repo]]
 url = "https://github.com/sherlock-protocol/DefiLlama-Adapters"
+
+[[repo]]
+url = "https://github.com/sherlock-protocol/governance-and-discussion"
 
 [[repo]]
 url = "https://github.com/sherlock-protocol/integrations-whitelist"
@@ -47,6 +53,7 @@ url = "https://github.com/sherlock-protocol/sherlock-v2-docs"
 
 [[repo]]
 url = "https://github.com/sherlock-protocol/sherlock-v2-docs-technical"
+missing = true
 
 [[repo]]
 url = "https://github.com/sherlock-protocol/sherlock-v2-frontend"
@@ -59,6 +66,7 @@ url = "https://github.com/sherlock-protocol/sherlock-v2-monitor"
 
 [[repo]]
 url = "https://github.com/sherlock-protocol/sherlock-xyz"
+missing = true
 
 [[repo]]
 url = "https://github.com/sherlock-protocol/yield-server"

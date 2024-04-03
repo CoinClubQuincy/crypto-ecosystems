@@ -7,6 +7,9 @@ github_organizations = ["https://github.com/XinFinOrg"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/XinFinOrg/alt-blockchain-ci"
+
+[[repo]]
 url = "https://github.com/XinFinOrg/analysis-tools"
 
 [[repo]]
@@ -46,10 +49,19 @@ url = "https://github.com/XinFinOrg/comtech-gold-contract"
 url = "https://github.com/XinFinOrg/dai.js"
 
 [[repo]]
+url = "https://github.com/XinFinOrg/daofin-ui"
+
+[[repo]]
+url = "https://github.com/XinFinOrg/DC-EBC-Hackathon"
+
+[[repo]]
 url = "https://github.com/XinFinOrg/DemoTradeFinex"
 
 [[repo]]
 url = "https://github.com/XinFinOrg/Developer-Resource"
+
+[[repo]]
+url = "https://github.com/XinFinOrg/dnsprove"
 
 [[repo]]
 url = "https://github.com/XinFinOrg/Docs"
@@ -74,6 +86,9 @@ url = "https://github.com/XinFinOrg/Docs-XF"
 
 [[repo]]
 url = "https://github.com/XinFinOrg/Docs_MyContract"
+
+[[repo]]
+url = "https://github.com/XinFinOrg/document-creator-website"
 
 [[repo]]
 url = "https://github.com/XinFinOrg/erc20-faucet-react"
@@ -109,6 +124,9 @@ url = "https://github.com/XinFinOrg/gnosis-safe-contracts"
 url = "https://github.com/XinFinOrg/gnosis-safe-deployments"
 
 [[repo]]
+url = "https://github.com/XinFinOrg/go-ethereum"
+
+[[repo]]
 url = "https://github.com/XinFinOrg/Go-XDC"
 
 [[repo]]
@@ -128,6 +146,7 @@ url = "https://github.com/XinFinOrg/graph-node"
 
 [[repo]]
 url = "https://github.com/XinFinOrg/Gravitas"
+missing = true
 
 [[repo]]
 url = "https://github.com/XinFinOrg/GravitasICO"
@@ -181,6 +200,9 @@ url = "https://github.com/XinFinOrg/NFT_Marketplace"
 url = "https://github.com/XinFinOrg/Node-Setup"
 
 [[repo]]
+url = "https://github.com/XinFinOrg/oa-verify"
+
+[[repo]]
 url = "https://github.com/XinFinOrg/Official-XinFinOrg"
 
 [[repo]]
@@ -188,6 +210,12 @@ url = "https://github.com/XinFinOrg/open-attestation-cli"
 
 [[repo]]
 url = "https://github.com/XinFinOrg/Open-Hackathon"
+
+[[repo]]
+url = "https://github.com/XinFinOrg/osx"
+
+[[repo]]
+url = "https://github.com/XinFinOrg/osx-daofin"
 
 [[repo]]
 url = "https://github.com/XinFinOrg/pantheon"
@@ -215,9 +243,13 @@ url = "https://github.com/XinFinOrg/spock-etl"
 
 [[repo]]
 url = "https://github.com/XinFinOrg/StableCoin"
+missing = true
 
 [[repo]]
 url = "https://github.com/XinFinOrg/StandByNodes"
+
+[[repo]]
+url = "https://github.com/XinFinOrg/subnet-stats-service"
 
 [[repo]]
 url = "https://github.com/XinFinOrg/Telegram-Bot"
@@ -227,6 +259,9 @@ url = "https://github.com/XinFinOrg/TF_Deployer"
 
 [[repo]]
 url = "https://github.com/XinFinOrg/theGraph"
+
+[[repo]]
+url = "https://github.com/XinFinOrg/token-registry"
 
 [[repo]]
 url = "https://github.com/XinFinOrg/Token_Burn"
@@ -247,6 +282,18 @@ url = "https://github.com/XinFinOrg/TradeFinexLive"
 url = "https://github.com/XinFinOrg/TradefinexMockAPIInterface"
 
 [[repo]]
+url = "https://github.com/XinFinOrg/TradeFinTech"
+
+[[repo]]
+url = "https://github.com/XinFinOrg/tradetrust-config"
+
+[[repo]]
+url = "https://github.com/XinFinOrg/tradetrust-functions"
+
+[[repo]]
+url = "https://github.com/XinFinOrg/tradetrust-utils"
+
+[[repo]]
 url = "https://github.com/XinFinOrg/tradetrust-website"
 
 [[repo]]
@@ -257,6 +304,7 @@ url = "https://github.com/XinFinOrg/TurantPay"
 
 [[repo]]
 url = "https://github.com/XinFinOrg/UATMycontract"
+missing = true
 
 [[repo]]
 url = "https://github.com/XinFinOrg/usxd-borrow"
@@ -298,13 +346,25 @@ url = "https://github.com/XinFinOrg/WhitePaper"
 url = "https://github.com/XinFinOrg/wiki"
 
 [[repo]]
+url = "https://github.com/XinFinOrg/XDC-blockchain-monitor"
+
+[[repo]]
 url = "https://github.com/XinFinOrg/xdc-connect"
+
+[[repo]]
+url = "https://github.com/XinFinOrg/XDC-CSC"
 
 [[repo]]
 url = "https://github.com/XinFinOrg/XDC-DApp-Summer-hackathon"
 
 [[repo]]
 url = "https://github.com/XinFinOrg/XDC-DeFi-Hackathon"
+
+[[repo]]
+url = "https://github.com/XinFinOrg/XDC-Graph-Node"
+
+[[repo]]
+url = "https://github.com/XinFinOrg/XDC-Helpers"
 
 [[repo]]
 url = "https://github.com/XinFinOrg/XDC-Mobile-Wallet"
@@ -328,6 +388,9 @@ url = "https://github.com/XinFinOrg/XDC-Subnet"
 url = "https://github.com/XinFinOrg/xdc-subnet-docs"
 
 [[repo]]
+url = "https://github.com/XinFinOrg/XDC-Zero"
+
+[[repo]]
 url = "https://github.com/XinFinOrg/XDC01-docker-Nnodes"
 
 [[repo]]
@@ -338,10 +401,6 @@ url = "https://github.com/XinFinOrg/XDC_Forensics"
 
 [[repo]]
 url = "https://github.com/XinFinOrg/XDC_LedgerCompanion"
-
-[[repo]]
-url = "https://github.com/XinFinOrg/xdcchain"
-missing = true
 
 [[repo]]
 url = "https://github.com/XinFinOrg/XDCe_Converter_App"

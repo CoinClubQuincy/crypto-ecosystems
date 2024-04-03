@@ -25,6 +25,9 @@ url = "https://github.com/line/abc-kmm-shared-storage"
 url = "https://github.com/line/abc-user-feedback"
 
 [[repo]]
+url = "https://github.com/line/aes-gcm-siv"
+
+[[repo]]
 url = "https://github.com/line/apng-drawable"
 
 [[repo]]
@@ -121,6 +124,9 @@ url = "https://github.com/line/demo-rich-menu-bot"
 url = "https://github.com/line/feature-flag-android"
 
 [[repo]]
+url = "https://github.com/line/figma-translator-vue-plugin-sample"
+
+[[repo]]
 url = "https://github.com/line/flutter_line_sdk"
 
 [[repo]]
@@ -148,10 +154,16 @@ url = "https://github.com/line/grow-loader"
 url = "https://github.com/line/headver"
 
 [[repo]]
+url = "https://github.com/line/Human-Interaction-Generation"
+
+[[repo]]
 url = "https://github.com/line/iavl"
 
 [[repo]]
 url = "https://github.com/line/ibc-go"
+
+[[repo]]
+url = "https://github.com/line/japanese-large-lm-instruction-sft"
 
 [[repo]]
 url = "https://github.com/line/jnotebook_reader"
@@ -167,6 +179,9 @@ url = "https://github.com/line/lbm-sdk"
 
 [[repo]]
 url = "https://github.com/line/lfb"
+
+[[repo]]
+url = "https://github.com/line/license-gradle-plugin-git"
 
 [[repo]]
 url = "https://github.com/line/lich"
@@ -325,6 +340,15 @@ url = "https://github.com/line/ns3-rmcat"
 url = "https://github.com/line/ostracon"
 
 [[repo]]
+url = "https://github.com/line/planet-kit-android"
+
+[[repo]]
+url = "https://github.com/line/planet-kit-apple"
+
+[[repo]]
+url = "https://github.com/line/planet-kit-windows"
+
+[[repo]]
 url = "https://github.com/line/promgen"
 
 [[repo]]
@@ -334,10 +358,19 @@ url = "https://github.com/line/recruiting-resources-jp"
 url = "https://github.com/line/rules_apple_line"
 
 [[repo]]
+url = "https://github.com/line/Skeleton-Temporal-Action-Localization"
+
+[[repo]]
 url = "https://github.com/line/stellite"
 
 [[repo]]
+url = "https://github.com/line/thrift-gradle-plugin"
+
+[[repo]]
 url = "https://github.com/line/tm-db"
+
+[[repo]]
+url = "https://github.com/line/ts-remove-unused"
 
 [[repo]]
 url = "https://github.com/line/vue-pivot-table-plus"

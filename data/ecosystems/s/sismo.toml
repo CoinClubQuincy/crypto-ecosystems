@@ -7,6 +7,12 @@ github_organizations = ["https://github.com/sismo-core"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/ahippoly/EthParisHackathon"
+
+[[repo]]
+url = "https://github.com/sismo-core/app-store"
+
+[[repo]]
 url = "https://github.com/sismo-core/ens-sdao"
 
 [[repo]]
@@ -19,7 +25,12 @@ url = "https://github.com/sismo-core/hydra-s2-zkps"
 url = "https://github.com/sismo-core/hydra-s3-zkps"
 
 [[repo]]
+url = "https://github.com/sismo-core/old-sismo-connect-onchain-tutorial"
+missing = true
+
+[[repo]]
 url = "https://github.com/sismo-core/pythia-1-zkps"
+missing = true
 
 [[repo]]
 url = "https://github.com/sismo-core/sismo-badges"
@@ -29,9 +40,17 @@ url = "https://github.com/sismo-core/sismo-commitment-mapper"
 
 [[repo]]
 url = "https://github.com/sismo-core/sismo-commitment-signer"
+missing = true
 
 [[repo]]
 url = "https://github.com/sismo-core/sismo-connect-boilerplate"
+missing = true
+
+[[repo]]
+url = "https://github.com/sismo-core/sismo-connect-boilerplate-offchain"
+
+[[repo]]
+url = "https://github.com/sismo-core/sismo-connect-boilerplate-onchain"
 
 [[repo]]
 url = "https://github.com/sismo-core/sismo-connect-offchain-sample-project"
@@ -49,6 +68,13 @@ url = "https://github.com/sismo-core/sismo-connect-onchain-verifier"
 url = "https://github.com/sismo-core/sismo-connect-packages"
 
 [[repo]]
+url = "https://github.com/sismo-core/sismo-connect-safe-drop"
+missing = true
+
+[[repo]]
+url = "https://github.com/sismo-core/sismo-connect-solidity"
+
+[[repo]]
 url = "https://github.com/sismo-core/sismo-docs"
 
 [[repo]]
@@ -61,10 +87,19 @@ url = "https://github.com/sismo-core/sismo-protocol"
 url = "https://github.com/sismo-core/sismo-utils"
 
 [[repo]]
+url = "https://github.com/sismo-core/sismo-vault-api"
+
+[[repo]]
+url = "https://github.com/sismo-core/sismo-vault-app"
+
+[[repo]]
 url = "https://github.com/sismo-core/zkdrop"
+missing = true
 
 [[repo]]
 url = "https://github.com/sismo-core/zksub"
+missing = true
 
 [[repo]]
 url = "https://github.com/sismo-core/zksub-next"
+missing = true

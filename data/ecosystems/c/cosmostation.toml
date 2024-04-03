@@ -13,6 +13,9 @@ url = "https://github.com/cosmostation/aptos-kotlin"
 url = "https://github.com/cosmostation/aptos-swift"
 
 [[repo]]
+url = "https://github.com/cosmostation/archway-networks"
+
+[[repo]]
 url = "https://github.com/cosmostation/assets"
 
 [[repo]]
@@ -23,6 +26,9 @@ url = "https://github.com/cosmostation/BitcoinKit"
 
 [[repo]]
 url = "https://github.com/cosmostation/bridge-launch-governance"
+
+[[repo]]
+url = "https://github.com/cosmostation/celestia-networks"
 
 [[repo]]
 url = "https://github.com/cosmostation/chainlist"
@@ -56,15 +62,22 @@ url = "https://github.com/cosmostation/cosmostation-chrome-extension-client"
 
 [[repo]]
 url = "https://github.com/cosmostation/cosmostation-dapps-asset"
+missing = true
 
 [[repo]]
 url = "https://github.com/cosmostation/cosmostation-dapps-example"
+
+[[repo]]
+url = "https://github.com/cosmostation/cosmostation-docs"
 
 [[repo]]
 url = "https://github.com/cosmostation/cosmostation-ios"
 
 [[repo]]
 url = "https://github.com/cosmostation/cosmostation-mobile"
+
+[[repo]]
+url = "https://github.com/cosmostation/cosmostation-sandbox"
 
 [[repo]]
 url = "https://github.com/cosmostation/cosmostation-wallet-docs"
@@ -91,6 +104,9 @@ url = "https://github.com/cosmostation/docs"
 url = "https://github.com/cosmostation/docs-site"
 
 [[repo]]
+url = "https://github.com/cosmostation/dydx-networks"
+
+[[repo]]
 url = "https://github.com/cosmostation/gaia"
 
 [[repo]]
@@ -101,6 +117,9 @@ url = "https://github.com/cosmostation/genesisTransactions-1"
 
 [[repo]]
 url = "https://github.com/cosmostation/goc2022-relayer-evidence"
+
+[[repo]]
+url = "https://github.com/cosmostation/gogoproto"
 
 [[repo]]
 url = "https://github.com/cosmostation/gon-evidence"
@@ -163,10 +182,25 @@ url = "https://github.com/cosmostation/mainnet-genesis"
 url = "https://github.com/cosmostation/mainnet-gentx"
 
 [[repo]]
+url = "https://github.com/cosmostation/milkyway-launch"
+
+[[repo]]
 url = "https://github.com/cosmostation/mintscan-binance-dex-backend"
 
 [[repo]]
 url = "https://github.com/cosmostation/mintscan-binance-dex-frontend"
+
+[[repo]]
+url = "https://github.com/cosmostation/mintscan-milestones"
+
+[[repo]]
+url = "https://github.com/cosmostation/mintscan-wallet-supports"
+
+[[repo]]
+url = "https://github.com/cosmostation/mintstation"
+
+[[repo]]
+url = "https://github.com/cosmostation/mintstation-playground"
 
 [[repo]]
 url = "https://github.com/cosmostation/namada-testnets"
@@ -178,10 +212,19 @@ url = "https://github.com/cosmostation/networks"
 url = "https://github.com/cosmostation/networks-1"
 
 [[repo]]
+url = "https://github.com/cosmostation/nibiru-Networks"
+
+[[repo]]
 url = "https://github.com/cosmostation/noble-networks"
 
 [[repo]]
 url = "https://github.com/cosmostation/OIPs"
+
+[[repo]]
+url = "https://github.com/cosmostation/osmosis-frontend"
+
+[[repo]]
+url = "https://github.com/cosmostation/ostracon"
 
 [[repo]]
 url = "https://github.com/cosmostation/passage-mainnet-fork"
@@ -191,6 +234,9 @@ url = "https://github.com/cosmostation/pegzone"
 
 [[repo]]
 url = "https://github.com/cosmostation/proto_collections"
+
+[[repo]]
+url = "https://github.com/cosmostation/protobuf"
 
 [[repo]]
 url = "https://github.com/cosmostation/quasar-gentx"
@@ -229,6 +275,9 @@ url = "https://github.com/cosmostation/swift-sdk"
 url = "https://github.com/cosmostation/tendermint"
 
 [[repo]]
+url = "https://github.com/cosmostation/terra-sdk"
+
+[[repo]]
 url = "https://github.com/cosmostation/testnet"
 
 [[repo]]
@@ -248,6 +297,9 @@ url = "https://github.com/cosmostation/wallet-registry"
 
 [[repo]]
 url = "https://github.com/cosmostation/walletconnect-v2-web-examples"
+
+[[repo]]
+url = "https://github.com/cosmostation/wallets"
 
 [[repo]]
 url = "https://github.com/cosmostation/wc-example"

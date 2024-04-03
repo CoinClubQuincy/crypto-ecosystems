@@ -14,9 +14,11 @@ url = "https://github.com/EvoVerses/evo-website"
 
 [[repo]]
 url = "https://github.com/EvoVerses/evoverses-dao-landing"
+missing = true
 
 [[repo]]
 url = "https://github.com/EvoVerses/Landing"
+missing = true
 
 [[repo]]
 url = "https://github.com/EvoVerses/OpenSwap-Community-Token-List"
@@ -29,3 +31,6 @@ url = "https://github.com/EvoVerses/sushiswap-token-list"
 
 [[repo]]
 url = "https://github.com/EvoVerses/ue5-docker"
+
+[[repo]]
+url = "https://github.com/EvoVerses/website"

@@ -19,6 +19,9 @@ url = "https://github.com/Qitmeer/084testnet-data"
 url = "https://github.com/Qitmeer/085testnet-data"
 
 [[repo]]
+url = "https://github.com/Qitmeer/blockscout"
+
+[[repo]]
 url = "https://github.com/Qitmeer/community_docs"
 
 [[repo]]
@@ -34,6 +37,12 @@ url = "https://github.com/Qitmeer/docs"
 url = "https://github.com/Qitmeer/Economic-model"
 
 [[repo]]
+url = "https://github.com/Qitmeer/evm_frontend"
+
+[[repo]]
+url = "https://github.com/Qitmeer/evm_frontend-configs"
+
+[[repo]]
 url = "https://github.com/Qitmeer/exchange-lib"
 
 [[repo]]
@@ -44,6 +53,7 @@ url = "https://github.com/Qitmeer/go-opencl"
 
 [[repo]]
 url = "https://github.com/Qitmeer/HLC-Token-Contract-ERC20-"
+missing = true
 
 [[repo]]
 url = "https://github.com/Qitmeer/inclusive-poc"
@@ -62,6 +72,9 @@ url = "https://github.com/Qitmeer/OpenCL-Headers"
 
 [[repo]]
 url = "https://github.com/Qitmeer/OpenCL-ICD-Loader"
+
+[[repo]]
+url = "https://github.com/Qitmeer/optimism"
 
 [[repo]]
 url = "https://github.com/Qitmeer/qips"

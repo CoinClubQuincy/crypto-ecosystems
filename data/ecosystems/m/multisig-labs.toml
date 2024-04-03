@@ -13,6 +13,9 @@ url = "https://github.com/multisig-labs/.github"
 url = "https://github.com/multisig-labs/abi.ninja"
 
 [[repo]]
+url = "https://github.com/multisig-labs/app.gogopool.com"
+
+[[repo]]
 url = "https://github.com/multisig-labs/avalanche-docs"
 
 [[repo]]
@@ -22,7 +25,13 @@ url = "https://github.com/multisig-labs/avalanche-ggp-faucet"
 url = "https://github.com/multisig-labs/avalanche-network-runner"
 
 [[repo]]
+url = "https://github.com/multisig-labs/avalanche-wallet"
+
+[[repo]]
 url = "https://github.com/multisig-labs/avalanchego"
+
+[[repo]]
+url = "https://github.com/multisig-labs/bpay-subnet"
 
 [[repo]]
 url = "https://github.com/multisig-labs/caddyapi"
@@ -38,6 +47,12 @@ url = "https://github.com/multisig-labs/expedition"
 
 [[repo]]
 url = "https://github.com/multisig-labs/foundry-test-action"
+
+[[repo]]
+url = "https://github.com/multisig-labs/gogoavailability"
+
+[[repo]]
+url = "https://github.com/multisig-labs/gogocode-tester"
 
 [[repo]]
 url = "https://github.com/multisig-labs/GoGoDash"
@@ -64,10 +79,19 @@ url = "https://github.com/multisig-labs/GoGoStandup"
 url = "https://github.com/multisig-labs/GoGoTools"
 
 [[repo]]
+url = "https://github.com/multisig-labs/hypersdk"
+
+[[repo]]
 url = "https://github.com/multisig-labs/joe-tokenlists"
 
 [[repo]]
 url = "https://github.com/multisig-labs/multi-party-sig"
+
+[[repo]]
+url = "https://github.com/multisig-labs/pandasia"
+
+[[repo]]
+url = "https://github.com/multisig-labs/pandasia-ui"
 
 [[repo]]
 url = "https://github.com/multisig-labs/Panopticon"
@@ -80,6 +104,9 @@ url = "https://github.com/multisig-labs/rocketpool"
 
 [[repo]]
 url = "https://github.com/multisig-labs/s3logger"
+
+[[repo]]
+url = "https://github.com/multisig-labs/slurp"
 
 [[repo]]
 url = "https://github.com/multisig-labs/smartnode"
@@ -95,3 +122,6 @@ url = "https://github.com/multisig-labs/stable-daofusion"
 
 [[repo]]
 url = "https://github.com/multisig-labs/subnet-evm"
+
+[[repo]]
+url = "https://github.com/multisig-labs/webauthn-demo"

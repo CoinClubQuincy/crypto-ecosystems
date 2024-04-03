@@ -52,6 +52,9 @@ url = "https://github.com/jbx-protocol/juice-defifa"
 url = "https://github.com/jbx-protocol/juice-defifa-nfl-playoff-edition"
 
 [[repo]]
+url = "https://github.com/jbx-protocol/juice-delegate-metadata-lib"
+
+[[repo]]
 url = "https://github.com/jbx-protocol/juice-delegates-registry"
 
 [[repo]]
@@ -74,6 +77,7 @@ url = "https://github.com/jbx-protocol/juice-extensions-collection"
 
 [[repo]]
 url = "https://github.com/jbx-protocol/juice-genesis-nft-data-source"
+missing = true
 
 [[repo]]
 url = "https://github.com/jbx-protocol/juice-hooks"
@@ -101,6 +105,7 @@ url = "https://github.com/jbx-protocol/juice-nft-market"
 
 [[repo]]
 url = "https://github.com/jbx-protocol/juice-nft-rewards-tiered-token-resolver"
+missing = true
 
 [[repo]]
 url = "https://github.com/jbx-protocol/juice-opengsn"

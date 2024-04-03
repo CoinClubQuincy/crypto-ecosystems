@@ -8,6 +8,7 @@ github_organizations = ["https://github.com/Official-MoonDao"]
 # Repositories
 [[repo]]
 url = "https://github.com/Official-MoonDao/astronaut-selection"
+missing = true
 
 [[repo]]
 url = "https://github.com/Official-MoonDao/astronaut-selection-v1"
@@ -22,10 +23,16 @@ url = "https://github.com/Official-MoonDao/Dev-Guild-Assessment"
 url = "https://github.com/Official-MoonDao/documentation"
 
 [[repo]]
+url = "https://github.com/Official-MoonDao/Executive-Branch-Tools"
+
+[[repo]]
 url = "https://github.com/Official-MoonDao/Hayrul-Music-NFT"
 
 [[repo]]
 url = "https://github.com/Official-MoonDao/Landing-Page-V2"
+
+[[repo]]
+url = "https://github.com/Official-MoonDao/lunar-comms"
 
 [[repo]]
 url = "https://github.com/Official-MoonDao/mint-frontend"
@@ -37,10 +44,24 @@ url = "https://github.com/Official-MoonDao/mission-control"
 url = "https://github.com/Official-MoonDao/MoonDAO-app"
 
 [[repo]]
+url = "https://github.com/Official-MoonDao/MoonDAO-app-expansion"
+
+[[repo]]
 url = "https://github.com/Official-MoonDao/MoonDAO-app-updates"
+missing = true
+
+[[repo]]
+url = "https://github.com/Official-MoonDao/moondao-citizen"
+
+[[repo]]
+url = "https://github.com/Official-MoonDao/MoonDAO-Digital-Asset-Marketplace"
 
 [[repo]]
 url = "https://github.com/Official-MoonDao/moondao-landing-page"
+missing = true
+
+[[repo]]
+url = "https://github.com/Official-MoonDao/moondao-vault"
 
 [[repo]]
 url = "https://github.com/Official-MoonDao/moondaowww"
@@ -56,9 +77,14 @@ url = "https://github.com/Official-MoonDao/Proposal-Review"
 
 [[repo]]
 url = "https://github.com/Official-MoonDao/spacecards_server"
+missing = true
 
 [[repo]]
 url = "https://github.com/Official-MoonDao/spacecards_website"
+missing = true
+
+[[repo]]
+url = "https://github.com/Official-MoonDao/sweepstakes-contract-2"
 
 [[repo]]
 url = "https://github.com/Official-MoonDao/vMooney-ERC721-Raffle"

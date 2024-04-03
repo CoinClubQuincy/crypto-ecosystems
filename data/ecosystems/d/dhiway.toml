@@ -22,6 +22,9 @@ url = "https://github.com/dhiway/aries-cloudagent-python"
 url = "https://github.com/dhiway/aries-framework-go"
 
 [[repo]]
+url = "https://github.com/dhiway/confidex"
+
+[[repo]]
 url = "https://github.com/dhiway/cord"
 
 [[repo]]
@@ -29,6 +32,7 @@ url = "https://github.com/dhiway/cord-agent-app-v1"
 
 [[repo]]
 url = "https://github.com/dhiway/cord-api-service"
+missing = true
 
 [[repo]]
 url = "https://github.com/dhiway/cord-concept"
@@ -38,12 +42,20 @@ url = "https://github.com/dhiway/cord-demo-scripts"
 
 [[repo]]
 url = "https://github.com/dhiway/cord-indexer"
+missing = true
 
 [[repo]]
 url = "https://github.com/dhiway/cord-js"
 
 [[repo]]
 url = "https://github.com/dhiway/cord-relay"
+
+[[repo]]
+url = "https://github.com/dhiway/cord-roy"
+missing = true
+
+[[repo]]
+url = "https://github.com/dhiway/cord-session-setkey"
 
 [[repo]]
 url = "https://github.com/dhiway/cord-subql"
@@ -88,7 +100,13 @@ url = "https://github.com/dhiway/issuer-agent"
 url = "https://github.com/dhiway/polkadot"
 
 [[repo]]
+url = "https://github.com/dhiway/polkadot-sdk"
+
+[[repo]]
 url = "https://github.com/dhiway/react-native-camera"
+
+[[repo]]
+url = "https://github.com/dhiway/react-native-webview"
 
 [[repo]]
 url = "https://github.com/dhiway/sample-qr-app"
@@ -106,7 +124,13 @@ url = "https://github.com/dhiway/substrate"
 url = "https://github.com/dhiway/substrate-archive"
 
 [[repo]]
+url = "https://github.com/dhiway/substrate-sdk"
+
+[[repo]]
 url = "https://github.com/dhiway/subxt"
+
+[[repo]]
+url = "https://github.com/dhiway/sunbird-rc-core"
 
 [[repo]]
 url = "https://github.com/dhiway/type-definitions"

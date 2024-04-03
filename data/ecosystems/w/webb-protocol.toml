@@ -13,6 +13,9 @@ url = "https://github.com/AstarNetwork/astar.js"
 url = "https://github.com/webb-tools-aux/tornado-circomlib"
 
 [[repo]]
+url = "https://github.com/webb-tools/.github"
+
+[[repo]]
 url = "https://github.com/webb-tools/Acala"
 
 [[repo]]
@@ -29,6 +32,7 @@ url = "https://github.com/webb-tools/anonymity-mining"
 
 [[repo]]
 url = "https://github.com/webb-tools/anonymity-mining-fixtures"
+missing = true
 
 [[repo]]
 url = "https://github.com/webb-tools/api"
@@ -61,6 +65,9 @@ url = "https://github.com/webb-tools/centipede"
 url = "https://github.com/webb-tools/cggmp-threshold-ecdsa"
 
 [[repo]]
+url = "https://github.com/webb-tools/chains"
+
+[[repo]]
 url = "https://github.com/webb-tools/circomlib"
 
 [[repo]]
@@ -83,6 +90,7 @@ url = "https://github.com/webb-tools/cumulus"
 
 [[repo]]
 url = "https://github.com/webb-tools/curv"
+missing = true
 
 [[repo]]
 url = "https://github.com/webb-tools/dkg-substrate"
@@ -118,6 +126,9 @@ url = "https://github.com/webb-tools/frontier"
 url = "https://github.com/webb-tools/fs-dkr"
 
 [[repo]]
+url = "https://github.com/webb-tools/gadget"
+
+[[repo]]
 url = "https://github.com/webb-tools/grandpa-bridge-gadget"
 
 [[repo]]
@@ -137,6 +148,9 @@ url = "https://github.com/webb-tools/jellyfish"
 
 [[repo]]
 url = "https://github.com/webb-tools/lighthouse"
+
+[[repo]]
+url = "https://github.com/webb-tools/masp-protocol"
 
 [[repo]]
 url = "https://github.com/webb-tools/merkle"
@@ -202,10 +216,14 @@ url = "https://github.com/webb-tools/protocol-substrate"
 url = "https://github.com/webb-tools/protocol-substrate-fixtures"
 
 [[repo]]
+url = "https://github.com/webb-tools/rainbow-bridge"
+
+[[repo]]
 url = "https://github.com/webb-tools/relayer"
 
 [[repo]]
 url = "https://github.com/webb-tools/relayer-1"
+missing = true
 
 [[repo]]
 url = "https://github.com/webb-tools/research"
@@ -250,6 +268,9 @@ url = "https://github.com/webb-tools/specs"
 url = "https://github.com/webb-tools/substrate"
 
 [[repo]]
+url = "https://github.com/webb-tools/substrate-api-client"
+
+[[repo]]
 url = "https://github.com/webb-tools/substrate-contracts-node"
 
 [[repo]]
@@ -262,6 +283,9 @@ url = "https://github.com/webb-tools/substrate-fixtures"
 url = "https://github.com/webb-tools/substrate-node-template"
 
 [[repo]]
+url = "https://github.com/webb-tools/substrate-v1.0.0"
+
+[[repo]]
 url = "https://github.com/webb-tools/subxt"
 
 [[repo]]
@@ -271,10 +295,16 @@ url = "https://github.com/webb-tools/swanky"
 url = "https://github.com/webb-tools/tangle"
 
 [[repo]]
+url = "https://github.com/webb-tools/tangle-docs"
+
+[[repo]]
 url = "https://github.com/webb-tools/tangle-network-ops"
 
 [[repo]]
 url = "https://github.com/webb-tools/tornado-core"
+
+[[repo]]
+url = "https://github.com/webb-tools/ts-SaaS"
 
 [[repo]]
 url = "https://github.com/webb-tools/webb-dapp"
@@ -310,10 +340,20 @@ url = "https://github.com/webb-tools/webb.js"
 url = "https://github.com/webb-tools/websnark"
 
 [[repo]]
+url = "https://github.com/webb-tools/wsts"
+
+[[repo]]
 url = "https://github.com/webb-tools/zero-knowledge-gadgets"
 
 [[repo]]
 url = "https://github.com/webb-tools/zk-paillier"
 
 [[repo]]
+url = "https://github.com/webb-tools/zk-SaaS"
+
+[[repo]]
 url = "https://github.com/webb-tools/ZKJobs"
+
+[[repo]]
+url = "https://github.com/webb-tools/zksaas"
+missing = true

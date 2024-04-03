@@ -19,10 +19,16 @@ url = "https://github.com/moonsama/chains"
 url = "https://github.com/moonsama/crowdloan-paper"
 
 [[repo]]
+url = "https://github.com/moonsama/crowdloan-tools"
+
+[[repo]]
 url = "https://github.com/moonsama/cumulus"
 
 [[repo]]
 url = "https://github.com/moonsama/dev-resources"
+
+[[repo]]
+url = "https://github.com/moonsama/docs"
 
 [[repo]]
 url = "https://github.com/moonsama/exosama-basic-node"
@@ -43,6 +49,12 @@ url = "https://github.com/moonsama/json-schema-to-zod"
 url = "https://github.com/moonsama/lions-raffle"
 
 [[repo]]
+url = "https://github.com/moonsama/logo-32x32"
+
+[[repo]]
+url = "https://github.com/moonsama/logos"
+
+[[repo]]
 url = "https://github.com/moonsama/moonsama-erc1155-squid"
 
 [[repo]]
@@ -50,6 +62,13 @@ url = "https://github.com/moonsama/Moonsama-Marketplace-Subsquid"
 
 [[repo]]
 url = "https://github.com/moonsama/moonsama-squid"
+missing = true
+
+[[repo]]
+url = "https://github.com/moonsama/open-runtime-module-library"
+
+[[repo]]
+url = "https://github.com/moonsama/polkadot-sdk"
 
 [[repo]]
 url = "https://github.com/moonsama/raresama-custom-collections"
@@ -59,6 +78,7 @@ url = "https://github.com/moonsama/raresama-nft-squid"
 
 [[repo]]
 url = "https://github.com/moonsama/react-web3-use"
+missing = true
 
 [[repo]]
 url = "https://github.com/moonsama/snapshot.js"
@@ -71,3 +91,6 @@ url = "https://github.com/moonsama/ss58-registry"
 
 [[repo]]
 url = "https://github.com/moonsama/web3-token"
+
+[[repo]]
+url = "https://github.com/moonsama/web3-token-fresh"

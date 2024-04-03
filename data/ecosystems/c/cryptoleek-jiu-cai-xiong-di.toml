@@ -16,6 +16,9 @@ url = "https://github.com/cryptoleek-team/awesome-starknet"
 url = "https://github.com/cryptoleek-team/awesome-zk"
 
 [[repo]]
+url = "https://github.com/cryptoleek-team/bchubau-site"
+
+[[repo]]
 url = "https://github.com/cryptoleek-team/blockchain-course"
 
 [[repo]]
@@ -97,6 +100,9 @@ url = "https://github.com/cryptoleek-team/goose-frontend-amm"
 url = "https://github.com/cryptoleek-team/goose-frontend-farms"
 
 [[repo]]
+url = "https://github.com/cryptoleek-team/image-host"
+
+[[repo]]
 url = "https://github.com/cryptoleek-team/isaac"
 
 [[repo]]
@@ -152,6 +158,9 @@ url = "https://github.com/cryptoleek-team/pancake-frontend"
 
 [[repo]]
 url = "https://github.com/cryptoleek-team/partyparrot"
+
+[[repo]]
+url = "https://github.com/cryptoleek-team/perpetual-lab-mainsite"
 
 [[repo]]
 url = "https://github.com/cryptoleek-team/pm"

@@ -1,7 +1,7 @@
 # Ecosystem Level Information
 title = "Thunder Token"
 
-sub_ecosystems = []
+sub_ecosystems = ["Sushi Swap"]
 
 github_organizations = ["https://github.com/thundercore", "https://github.com/thundertoken"]
 
@@ -11,6 +11,7 @@ url = "https://github.com/thundercore/asciinema"
 
 [[repo]]
 url = "https://github.com/thundercore/assets"
+missing = true
 
 [[repo]]
 url = "https://github.com/thundercore/auction-template"
@@ -41,6 +42,7 @@ url = "https://github.com/thundercore/defillama-app"
 
 [[repo]]
 url = "https://github.com/thundercore/defillama-sdk"
+missing = true
 
 [[repo]]
 url = "https://github.com/thundercore/defillama_icons"
@@ -56,6 +58,15 @@ url = "https://github.com/thundercore/drawing"
 
 [[repo]]
 url = "https://github.com/thundercore/ecosystem"
+
+[[repo]]
+url = "https://github.com/thundercore/ecosystem-1"
+
+[[repo]]
+url = "https://github.com/thundercore/erigon"
+
+[[repo]]
+url = "https://github.com/thundercore/erigon-lib"
 
 [[repo]]
 url = "https://github.com/thundercore/ethereum-lists"
@@ -86,6 +97,7 @@ url = "https://github.com/thundercore/ganache-core"
 
 [[repo]]
 url = "https://github.com/thundercore/hardhat-safe-wrapper"
+missing = true
 
 [[repo]]
 url = "https://github.com/thundercore/hubbit-field-support"
@@ -125,6 +137,7 @@ url = "https://github.com/thundercore/openzeppelin-upgrades"
 
 [[repo]]
 url = "https://github.com/thundercore/pala"
+missing = true
 
 [[repo]]
 url = "https://github.com/thundercore/pala-poc"
@@ -134,6 +147,9 @@ url = "https://github.com/thundercore/peggedassets-server"
 
 [[repo]]
 url = "https://github.com/thundercore/public-full"
+
+[[repo]]
+url = "https://github.com/thundercore/rainbowkit"
 
 [[repo]]
 url = "https://github.com/thundercore/RandomLibrary"
@@ -244,6 +260,9 @@ url = "https://github.com/thundercore/use-wallet"
 url = "https://github.com/thundercore/vfat-tools"
 
 [[repo]]
+url = "https://github.com/thundercore/wagmi-dev-references"
+
+[[repo]]
 url = "https://github.com/thundercore/wallet-core"
 
 [[repo]]
@@ -254,3 +273,4 @@ url = "https://github.com/thundercore/wtt"
 
 [[repo]]
 url = "https://github.com/thundertoken/dapp-tutorial"
+missing = true

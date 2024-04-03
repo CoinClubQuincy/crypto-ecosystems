@@ -28,7 +28,13 @@ url = "https://github.com/deso-protocol/deso-chat-protocol"
 url = "https://github.com/deso-protocol/deso-examples-react"
 
 [[repo]]
+url = "https://github.com/deso-protocol/deso-examples-react-native"
+
+[[repo]]
 url = "https://github.com/deso-protocol/deso-js"
+
+[[repo]]
+url = "https://github.com/deso-protocol/deso-offline-tool"
 
 [[repo]]
 url = "https://github.com/deso-protocol/deso-react-template"
@@ -80,6 +86,12 @@ url = "https://github.com/deso-protocol/identity-swift"
 
 [[repo]]
 url = "https://github.com/deso-protocol/mongodb-dumper"
+
+[[repo]]
+url = "https://github.com/deso-protocol/ngx-intl-tel-input"
+
+[[repo]]
+url = "https://github.com/deso-protocol/postgres-data-handler"
 
 [[repo]]
 url = "https://github.com/deso-protocol/react-deso-protocol"

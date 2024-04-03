@@ -13,6 +13,12 @@ url = "https://github.com/UniqueNetwork/-legacy-unique-sdk"
 url = "https://github.com/UniqueNetwork/Acala"
 
 [[repo]]
+url = "https://github.com/UniqueNetwork/accounts-react-example"
+
+[[repo]]
+url = "https://github.com/UniqueNetwork/accounts-vue-example"
+
+[[repo]]
 url = "https://github.com/UniqueNetwork/archive-processor-example"
 
 [[repo]]
@@ -22,10 +28,20 @@ url = "https://github.com/UniqueNetwork/astar-apps"
 url = "https://github.com/UniqueNetwork/ayzek-plugin-unique"
 
 [[repo]]
+url = "https://github.com/UniqueNetwork/baedeker"
+
+[[repo]]
+url = "https://github.com/UniqueNetwork/baedeker-action"
+
+[[repo]]
+url = "https://github.com/UniqueNetwork/baedeker-library"
+
+[[repo]]
 url = "https://github.com/UniqueNetwork/chainql"
 
 [[repo]]
 url = "https://github.com/UniqueNetwork/chains"
+missing = true
 
 [[repo]]
 url = "https://github.com/UniqueNetwork/client-tests-template"
@@ -71,12 +87,19 @@ url = "https://github.com/UniqueNetwork/live_nft"
 
 [[repo]]
 url = "https://github.com/UniqueNetwork/marketplace-backend"
+missing = true
 
 [[repo]]
 url = "https://github.com/UniqueNetwork/marketplace-docker"
 
 [[repo]]
+url = "https://github.com/UniqueNetwork/mass-nfts-doc"
+
+[[repo]]
 url = "https://github.com/UniqueNetwork/mass-selling"
+
+[[repo]]
+url = "https://github.com/UniqueNetwork/nesting-poc"
 
 [[repo]]
 url = "https://github.com/UniqueNetwork/nft-sdk-workshop"
@@ -100,16 +123,24 @@ url = "https://github.com/UniqueNetwork/ow3s-token-resources"
 url = "https://github.com/UniqueNetwork/pallet-sponsoring"
 
 [[repo]]
+url = "https://github.com/UniqueNetwork/polkadot"
+
+[[repo]]
 url = "https://github.com/UniqueNetwork/polkadot-launch"
+
+[[repo]]
+url = "https://github.com/UniqueNetwork/polkadot-sdk"
 
 [[repo]]
 url = "https://github.com/UniqueNetwork/polkadotjs-apps"
 
 [[repo]]
 url = "https://github.com/UniqueNetwork/rft-assets"
+missing = true
 
 [[repo]]
 url = "https://github.com/UniqueNetwork/rft-buzz"
+missing = true
 
 [[repo]]
 url = "https://github.com/UniqueNetwork/rmrk-substrate"
@@ -119,6 +150,9 @@ url = "https://github.com/UniqueNetwork/royalty-distribution"
 
 [[repo]]
 url = "https://github.com/UniqueNetwork/scan-analytics"
+
+[[repo]]
+url = "https://github.com/UniqueNetwork/showcase_amplify"
 
 [[repo]]
 url = "https://github.com/UniqueNetwork/solidity-interfaces"
@@ -176,6 +210,7 @@ url = "https://github.com/UniqueNetwork/unique-image-uploader-api"
 
 [[repo]]
 url = "https://github.com/UniqueNetwork/unique-marketplace-api"
+missing = true
 
 [[repo]]
 url = "https://github.com/UniqueNetwork/unique-marketplace-backend"
@@ -197,6 +232,7 @@ url = "https://github.com/UniqueNetwork/unique-marketplace-escrow-kusama"
 
 [[repo]]
 url = "https://github.com/UniqueNetwork/unique-marketplace-frontend"
+missing = true
 
 [[repo]]
 url = "https://github.com/UniqueNetwork/unique-marketplace-inkcontract"
@@ -206,6 +242,7 @@ url = "https://github.com/UniqueNetwork/unique-marketplace-old"
 
 [[repo]]
 url = "https://github.com/UniqueNetwork/unique-migrations-seeds"
+missing = true
 
 [[repo]]
 url = "https://github.com/UniqueNetwork/unique-new-wallet"
@@ -227,6 +264,7 @@ url = "https://github.com/UniqueNetwork/unique-scan-backend"
 
 [[repo]]
 url = "https://github.com/UniqueNetwork/unique-sdk"
+missing = true
 
 [[repo]]
 url = "https://github.com/UniqueNetwork/unique-sdk-cs"
@@ -275,6 +313,15 @@ url = "https://github.com/UniqueNetwork/web3-provider-sponsoring"
 
 [[repo]]
 url = "https://github.com/UniqueNetwork/XC-NFT-standard"
+
+[[repo]]
+url = "https://github.com/UniqueNetwork/xcm-format"
+
+[[repo]]
+url = "https://github.com/UniqueNetwork/xnft"
+
+[[repo]]
+url = "https://github.com/UniqueNetwork/xnft-tests"
 
 [[repo]]
 url = "https://github.com/UniqueNetwork/zombienet"

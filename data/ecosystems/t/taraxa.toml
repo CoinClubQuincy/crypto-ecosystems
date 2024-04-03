@@ -7,6 +7,9 @@ github_organizations = ["https://github.com/Taraxa-project"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/Taraxa-project/beacon-light-client"
+
+[[repo]]
 url = "https://github.com/Taraxa-project/chains"
 
 [[repo]]
@@ -19,6 +22,9 @@ url = "https://github.com/Taraxa-project/contracts-testing"
 url = "https://github.com/Taraxa-project/design-assets"
 
 [[repo]]
+url = "https://github.com/Taraxa-project/dragon-ball-nft"
+
+[[repo]]
 url = "https://github.com/Taraxa-project/echo"
 
 [[repo]]
@@ -28,6 +34,9 @@ url = "https://github.com/Taraxa-project/explorer"
 url = "https://github.com/Taraxa-project/foundry-example"
 
 [[repo]]
+url = "https://github.com/Taraxa-project/go-ethereum"
+
+[[repo]]
 url = "https://github.com/Taraxa-project/grocksdb"
 
 [[repo]]
@@ -35,6 +44,7 @@ url = "https://github.com/Taraxa-project/hype"
 
 [[repo]]
 url = "https://github.com/Taraxa-project/monorepo-template"
+missing = true
 
 [[repo]]
 url = "https://github.com/Taraxa-project/nestjs-websocket"
@@ -91,6 +101,9 @@ url = "https://github.com/Taraxa-project/taraxa-platform"
 url = "https://github.com/Taraxa-project/taraxa-py"
 
 [[repo]]
+url = "https://github.com/Taraxa-project/taraxa-snapshotter"
+
+[[repo]]
 url = "https://github.com/Taraxa-project/taraxa-ui"
 
 [[repo]]
@@ -101,6 +114,9 @@ url = "https://github.com/Taraxa-project/taraxa-vrf"
 
 [[repo]]
 url = "https://github.com/Taraxa-project/taraxa-whitepapers"
+
+[[repo]]
+url = "https://github.com/Taraxa-project/TIP"
 
 [[repo]]
 url = "https://github.com/Taraxa-project/wagmi-references"

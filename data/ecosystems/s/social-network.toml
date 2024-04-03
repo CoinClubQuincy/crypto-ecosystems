@@ -7,6 +7,9 @@ github_organizations = ["https://github.com/social-network"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/social-network/bitcoin"
+
+[[repo]]
 url = "https://github.com/social-network/blockchain"
 
 [[repo]]
@@ -28,10 +31,19 @@ url = "https://github.com/social-network/cryptobox-c"
 url = "https://github.com/social-network/DID-resolver"
 
 [[repo]]
+url = "https://github.com/social-network/earth-relay"
+
+[[repo]]
 url = "https://github.com/social-network/faucet-bot"
 
 [[repo]]
+url = "https://github.com/social-network/frontend"
+
+[[repo]]
 url = "https://github.com/social-network/github-action-bucket-push"
+
+[[repo]]
+url = "https://github.com/social-network/go-ethereum"
 
 [[repo]]
 url = "https://github.com/social-network/helm-charts"
@@ -64,6 +76,12 @@ url = "https://github.com/social-network/lexis"
 url = "https://github.com/social-network/libra-core"
 
 [[repo]]
+url = "https://github.com/social-network/lodestar"
+
+[[repo]]
+url = "https://github.com/social-network/mastadon"
+
+[[repo]]
 url = "https://github.com/social-network/matrix-deployer"
 
 [[repo]]
@@ -74,6 +92,13 @@ url = "https://github.com/social-network/multichain"
 
 [[repo]]
 url = "https://github.com/social-network/network-deployer"
+
+[[repo]]
+url = "https://github.com/social-network/nips"
+
+[[repo]]
+url = "https://github.com/social-network/nostream"
+missing = true
 
 [[repo]]
 url = "https://github.com/social-network/orbit-db"
@@ -98,6 +123,9 @@ url = "https://github.com/social-network/riot-web-themes"
 
 [[repo]]
 url = "https://github.com/social-network/scale.go"
+
+[[repo]]
+url = "https://github.com/social-network/social-app"
 
 [[repo]]
 url = "https://github.com/social-network/society-account"
@@ -131,3 +159,6 @@ url = "https://github.com/social-network/v0"
 
 [[repo]]
 url = "https://github.com/social-network/v1"
+
+[[repo]]
+url = "https://github.com/social-network/wildebeest"

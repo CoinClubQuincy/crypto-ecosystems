@@ -23,6 +23,7 @@ url = "https://github.com/Holo-Host/branding"
 
 [[repo]]
 url = "https://github.com/Holo-Host/bugs-n-issues"
+missing = true
 
 [[repo]]
 url = "https://github.com/Holo-Host/bump-dna"
@@ -77,6 +78,9 @@ url = "https://github.com/Holo-Host/EIP-712"
 
 [[repo]]
 url = "https://github.com/Holo-Host/el-chat-qa"
+
+[[repo]]
+url = "https://github.com/Holo-Host/fireblocks-sdk"
 
 [[repo]]
 url = "https://github.com/Holo-Host/happ-template"
@@ -179,6 +183,7 @@ url = "https://github.com/Holo-Host/holochain-rust"
 
 [[repo]]
 url = "https://github.com/Holo-Host/holochain-scalability-tests"
+missing = true
 
 [[repo]]
 url = "https://github.com/Holo-Host/holochain-tracing"
@@ -191,6 +196,9 @@ url = "https://github.com/Holo-Host/holofuel-gui"
 
 [[repo]]
 url = "https://github.com/Holo-Host/holofuel-issue-tracker"
+
+[[repo]]
+url = "https://github.com/Holo-Host/holofuel-kangaroo"
 
 [[repo]]
 url = "https://github.com/Holo-Host/holofuel-model"
@@ -247,10 +255,16 @@ url = "https://github.com/Holo-Host/hpos-configure-holochain"
 url = "https://github.com/Holo-Host/hpos-seed"
 
 [[repo]]
+url = "https://github.com/Holo-Host/hpos-service-crates"
+
+[[repo]]
 url = "https://github.com/Holo-Host/hpos-update"
 
 [[repo]]
 url = "https://github.com/Holo-Host/hpstatus"
+
+[[repo]]
+url = "https://github.com/Holo-Host/hrl-gateway-node"
 
 [[repo]]
 url = "https://github.com/Holo-Host/hydra-testing-repo"
@@ -326,6 +340,9 @@ url = "https://github.com/Holo-Host/tryorama-rsm"
 
 [[repo]]
 url = "https://github.com/Holo-Host/ui-common-library"
+
+[[repo]]
+url = "https://github.com/Holo-Host/wasm-key-manager"
 
 [[repo]]
 url = "https://github.com/Holo-Host/web-sdk"

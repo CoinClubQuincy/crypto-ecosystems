@@ -25,6 +25,15 @@ url = "https://github.com/iron-fish/chain-explorer"
 url = "https://github.com/iron-fish/docker-compose"
 
 [[repo]]
+url = "https://github.com/iron-fish/FIPs"
+
+[[repo]]
+url = "https://github.com/iron-fish/FIPs-OLD"
+
+[[repo]]
+url = "https://github.com/iron-fish/fish-hash"
+
+[[repo]]
 url = "https://github.com/iron-fish/graph-explorer"
 
 [[repo]]
@@ -35,6 +44,18 @@ url = "https://github.com/iron-fish/ironfish"
 
 [[repo]]
 url = "https://github.com/iron-fish/ironfish-api"
+
+[[repo]]
+url = "https://github.com/iron-fish/ironfish-frost"
+
+[[repo]]
+url = "https://github.com/iron-fish/ironfish-node-app"
+
+[[repo]]
+url = "https://github.com/iron-fish/ironfish-tank"
+
+[[repo]]
+url = "https://github.com/iron-fish/ironfish-wallet-cli"
 
 [[repo]]
 url = "https://github.com/iron-fish/jubjub"
@@ -50,6 +71,10 @@ url = "https://github.com/iron-fish/node-app"
 
 [[repo]]
 url = "https://github.com/iron-fish/perf-test"
+missing = true
+
+[[repo]]
+url = "https://github.com/iron-fish/pool-check"
 
 [[repo]]
 url = "https://github.com/iron-fish/proxy-example"
@@ -67,6 +92,9 @@ url = "https://github.com/iron-fish/ui-kit"
 url = "https://github.com/iron-fish/wallet-app"
 
 [[repo]]
+url = "https://github.com/iron-fish/wallet-server"
+
+[[repo]]
 url = "https://github.com/iron-fish/website"
 
 [[repo]]
@@ -74,3 +102,4 @@ url = "https://github.com/iron-fish/website-testnet"
 
 [[repo]]
 url = "https://github.com/iron-fish/website-testnet-v2"
+missing = true

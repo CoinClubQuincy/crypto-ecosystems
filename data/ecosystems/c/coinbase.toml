@@ -40,10 +40,16 @@ url = "https://github.com/coinbase/bittip"
 url = "https://github.com/coinbase/btcexport"
 
 [[repo]]
+url = "https://github.com/coinbase/build-onchain-apps"
+
+[[repo]]
 url = "https://github.com/coinbase/cadence-ruby"
 
 [[repo]]
 url = "https://github.com/coinbase/cash-addr"
+
+[[repo]]
+url = "https://github.com/coinbase/cb-cookie-manager"
 
 [[repo]]
 url = "https://github.com/coinbase/CBDatabase"
@@ -55,13 +61,22 @@ url = "https://github.com/coinbase/cbpay-js"
 url = "https://github.com/coinbase/CBTabViewExample"
 
 [[repo]]
+url = "https://github.com/coinbase/chainnode"
+
+[[repo]]
 url = "https://github.com/coinbase/chainsformer"
 
 [[repo]]
 url = "https://github.com/coinbase/chainstorage"
 
 [[repo]]
+url = "https://github.com/coinbase/client-analytics"
+
+[[repo]]
 url = "https://github.com/coinbase/code-of-conduct"
+
+[[repo]]
+url = "https://github.com/coinbase/coinbase-advanced-py"
 
 [[repo]]
 url = "https://github.com/coinbase/coinbase-android-sdk"
@@ -190,6 +205,9 @@ url = "https://github.com/coinbase/coinbase-wpecommerce"
 url = "https://github.com/coinbase/coinbase-zencart"
 
 [[repo]]
+url = "https://github.com/coinbase/commerce-onchain-payment-protocol"
+
+[[repo]]
 url = "https://github.com/coinbase/custom-salus-example"
 
 [[repo]]
@@ -212,6 +230,9 @@ url = "https://github.com/coinbase/eip-token-upgrade"
 
 [[repo]]
 url = "https://github.com/coinbase/fenrir"
+
+[[repo]]
+url = "https://github.com/coinbase/fuzzy-trie"
 
 [[repo]]
 url = "https://github.com/coinbase/geoengineer"
@@ -259,6 +280,9 @@ url = "https://github.com/coinbase/odin"
 url = "https://github.com/coinbase/omniauth-coinbase"
 
 [[repo]]
+url = "https://github.com/coinbase/open-analytics"
+
+[[repo]]
 url = "https://github.com/coinbase/protoc-gen-rbi"
 
 [[repo]]
@@ -299,6 +323,7 @@ url = "https://github.com/coinbase/rules_ruby"
 
 [[repo]]
 url = "https://github.com/coinbase/salus"
+missing = true
 
 [[repo]]
 url = "https://github.com/coinbase/scrolls"
@@ -311,6 +336,12 @@ url = "https://github.com/coinbase/service_variables"
 
 [[repo]]
 url = "https://github.com/coinbase/solidity-workshop"
+
+[[repo]]
+url = "https://github.com/coinbase/staking-client-library-go"
+
+[[repo]]
+url = "https://github.com/coinbase/staking-client-library-ts"
 
 [[repo]]
 url = "https://github.com/coinbase/step"
@@ -334,7 +365,16 @@ url = "https://github.com/coinbase/terraform-landscape"
 url = "https://github.com/coinbase/traffic_jam"
 
 [[repo]]
+url = "https://github.com/coinbase/verifications"
+
+[[repo]]
 url = "https://github.com/coinbase/waas-client-library-go"
+
+[[repo]]
+url = "https://github.com/coinbase/waas-proxy-server"
+
+[[repo]]
+url = "https://github.com/coinbase/waas-sample-app"
 
 [[repo]]
 url = "https://github.com/coinbase/waas-sdk-react-native"

@@ -10,7 +10,16 @@ github_organizations = ["https://github.com/DexKit"]
 url = "https://github.com/DexKit/.github"
 
 [[repo]]
+url = "https://github.com/DexKit/0x-api"
+
+[[repo]]
+url = "https://github.com/DexKit/0x-exchange-proxy-v4-subgraph"
+
+[[repo]]
 url = "https://github.com/DexKit/0x-instant-instance"
+
+[[repo]]
+url = "https://github.com/DexKit/0x-nft-v4-subgraph"
 
 [[repo]]
 url = "https://github.com/DexKit/assets"
@@ -37,6 +46,9 @@ url = "https://github.com/DexKit/coinleagueschampions-graph"
 url = "https://github.com/DexKit/default-token-list"
 
 [[repo]]
+url = "https://github.com/DexKit/dexkit-open-monorepo"
+
+[[repo]]
 url = "https://github.com/DexKit/dexkit-token-graph"
 
 [[repo]]
@@ -47,6 +59,9 @@ url = "https://github.com/DexKit/dexkitcontracts"
 
 [[repo]]
 url = "https://github.com/DexKit/discord-counter-bot"
+
+[[repo]]
+url = "https://github.com/DexKit/engine"
 
 [[repo]]
 url = "https://github.com/DexKit/ep-subgraph"

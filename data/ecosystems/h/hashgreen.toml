@@ -10,7 +10,13 @@ github_organizations = ["https://github.com/hashgreen"]
 url = "https://github.com/hashgreen/.github"
 
 [[repo]]
+url = "https://github.com/hashgreen/cadt"
+
+[[repo]]
 url = "https://github.com/hashgreen/chia-blockchain"
+
+[[repo]]
+url = "https://github.com/hashgreen/chia-network-helm-charts"
 
 [[repo]]
 url = "https://github.com/hashgreen/chia_rs"
@@ -29,6 +35,7 @@ url = "https://github.com/hashgreen/clvm_tools"
 
 [[repo]]
 url = "https://github.com/hashgreen/cypher-chialisp"
+missing = true
 
 [[repo]]
 url = "https://github.com/hashgreen/docs.hashgreen.github.io"
@@ -38,6 +45,10 @@ url = "https://github.com/hashgreen/go-chia-libs"
 
 [[repo]]
 url = "https://github.com/hashgreen/hashgreen-dex-tools"
+
+[[repo]]
+url = "https://github.com/hashgreen/hashgreenswap-contract"
+missing = true
 
 [[repo]]
 url = "https://github.com/hashgreen/helm-charts"
@@ -53,6 +64,9 @@ url = "https://github.com/hashgreen/rust-chia-types"
 
 [[repo]]
 url = "https://github.com/hashgreen/swap-ldp.hashgreen.github.io"
+
+[[repo]]
+url = "https://github.com/hashgreen/terraform-aws-eks-efs-csi-driver"
 
 [[repo]]
 url = "https://github.com/hashgreen/uat-docs.hashgreen.github.io"

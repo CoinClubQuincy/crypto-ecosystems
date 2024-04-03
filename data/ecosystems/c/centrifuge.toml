@@ -13,6 +13,9 @@ url = "https://github.com/centrifuge/aave-protocol-v2"
 url = "https://github.com/centrifuge/aave-ui"
 
 [[repo]]
+url = "https://github.com/centrifuge/Acala"
+
+[[repo]]
 url = "https://github.com/centrifuge/account-scraper"
 
 [[repo]]
@@ -29,6 +32,9 @@ url = "https://github.com/centrifuge/awesome-substrate"
 
 [[repo]]
 url = "https://github.com/centrifuge/axelar-cgp-substrate"
+
+[[repo]]
+url = "https://github.com/centrifuge/axelar-docs"
 
 [[repo]]
 url = "https://github.com/centrifuge/axis"
@@ -50,12 +56,14 @@ url = "https://github.com/centrifuge/centrifuge-cli-chain"
 
 [[repo]]
 url = "https://github.com/centrifuge/centrifuge-cli-core"
+missing = true
 
 [[repo]]
 url = "https://github.com/centrifuge/centrifuge-cli-hatch"
 
 [[repo]]
 url = "https://github.com/centrifuge/centrifuge-cli-sandbox"
+missing = true
 
 [[repo]]
 url = "https://github.com/centrifuge/centrifuge-ethereum-contracts"
@@ -88,10 +96,14 @@ url = "https://github.com/centrifuge/chainbridge-ui"
 url = "https://github.com/centrifuge/chainbridge-utils"
 
 [[repo]]
+url = "https://github.com/centrifuge/chains"
+
+[[repo]]
 url = "https://github.com/centrifuge/clp-wasm"
 
 [[repo]]
 url = "https://github.com/centrifuge/commander"
+missing = true
 
 [[repo]]
 url = "https://github.com/centrifuge/common"
@@ -101,6 +113,7 @@ url = "https://github.com/centrifuge/compute-fields-rs"
 
 [[repo]]
 url = "https://github.com/centrifuge/connectors"
+missing = true
 
 [[repo]]
 url = "https://github.com/centrifuge/cps"
@@ -134,6 +147,7 @@ url = "https://github.com/centrifuge/fudge"
 
 [[repo]]
 url = "https://github.com/centrifuge/fumbo-platform"
+missing = true
 
 [[repo]]
 url = "https://github.com/centrifuge/functional-testing"
@@ -184,10 +198,29 @@ url = "https://github.com/centrifuge/Grants-Program"
 url = "https://github.com/centrifuge/graph-deployment"
 
 [[repo]]
+url = "https://github.com/centrifuge/HydraDX-node"
+
+[[repo]]
+url = "https://github.com/centrifuge/indexer-influx"
+
+[[repo]]
+url = "https://github.com/centrifuge/indexer-outflux"
+
+[[repo]]
+url = "https://github.com/centrifuge/interbtc"
+
+[[repo]]
 url = "https://github.com/centrifuge/invoice-unpaid-nft"
 
 [[repo]]
 url = "https://github.com/centrifuge/k-radial"
+
+[[repo]]
+url = "https://github.com/centrifuge/liquidity-pools"
+missing = true
+
+[[repo]]
+url = "https://github.com/centrifuge/lp-xcm-relayer"
 
 [[repo]]
 url = "https://github.com/centrifuge/mainnet-conf-time-capsule"
@@ -218,6 +251,7 @@ url = "https://github.com/centrifuge/parity-common"
 
 [[repo]]
 url = "https://github.com/centrifuge/parity-signer"
+missing = true
 
 [[repo]]
 url = "https://github.com/centrifuge/pod"
@@ -230,6 +264,9 @@ url = "https://github.com/centrifuge/polkadot-js-api"
 
 [[repo]]
 url = "https://github.com/centrifuge/polkadot-js-apps"
+
+[[repo]]
+url = "https://github.com/centrifuge/polkadot-sdk"
 
 [[repo]]
 url = "https://github.com/centrifuge/polkadot-secure-validator"
@@ -245,6 +282,9 @@ url = "https://github.com/centrifuge/precise-proofs"
 
 [[repo]]
 url = "https://github.com/centrifuge/precise-proofs-js"
+
+[[repo]]
+url = "https://github.com/centrifuge/prime-data"
 
 [[repo]]
 url = "https://github.com/centrifuge/privacy-enabled-erc721"
@@ -268,6 +308,9 @@ url = "https://github.com/centrifuge/remark-image-attributes"
 url = "https://github.com/centrifuge/remarker-contract"
 
 [[repo]]
+url = "https://github.com/centrifuge/runtimes"
+
+[[repo]]
 url = "https://github.com/centrifuge/security"
 
 [[repo]]
@@ -275,6 +318,9 @@ url = "https://github.com/centrifuge/slips"
 
 [[repo]]
 url = "https://github.com/centrifuge/staking-rewards-ui"
+
+[[repo]]
+url = "https://github.com/centrifuge/subql-dictionary"
 
 [[repo]]
 url = "https://github.com/centrifuge/substrate"

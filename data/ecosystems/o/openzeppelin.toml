@@ -7,6 +7,9 @@ github_organizations = ["https://github.com/OpenZeppelin"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/OpenZeppelin/access-manager-explorer"
+
+[[repo]]
 url = "https://github.com/OpenZeppelin/accesscontrol-explorer"
 
 [[repo]]
@@ -31,6 +34,9 @@ url = "https://github.com/OpenZeppelin/compound-monitoring"
 url = "https://github.com/OpenZeppelin/compound-re-enable-dsr-proposal"
 
 [[repo]]
+url = "https://github.com/OpenZeppelin/compound-security-policies"
+
+[[repo]]
 url = "https://github.com/OpenZeppelin/configs"
 
 [[repo]]
@@ -43,10 +49,17 @@ url = "https://github.com/OpenZeppelin/contracts-wizard"
 url = "https://github.com/OpenZeppelin/crafty"
 
 [[repo]]
+url = "https://github.com/OpenZeppelin/ctf-ui"
+missing = true
+
+[[repo]]
 url = "https://github.com/OpenZeppelin/cto.openzeppelin.com"
 
 [[repo]]
 url = "https://github.com/OpenZeppelin/damn-vulnerable-defi"
+
+[[repo]]
+url = "https://github.com/OpenZeppelin/defender-as-code"
 
 [[repo]]
 url = "https://github.com/OpenZeppelin/defender-autotask-examples"
@@ -58,10 +71,16 @@ url = "https://github.com/OpenZeppelin/defender-autotask-testing"
 url = "https://github.com/OpenZeppelin/defender-client"
 
 [[repo]]
+url = "https://github.com/OpenZeppelin/defender-deploy-client-cli"
+
+[[repo]]
 url = "https://github.com/OpenZeppelin/defender-docs"
 
 [[repo]]
 url = "https://github.com/OpenZeppelin/defender-example-metatx-relay"
+
+[[repo]]
+url = "https://github.com/OpenZeppelin/defender-sdk"
 
 [[repo]]
 url = "https://github.com/OpenZeppelin/defender-serverless"
@@ -71,6 +90,9 @@ url = "https://github.com/OpenZeppelin/defender-serverless-workshop"
 
 [[repo]]
 url = "https://github.com/OpenZeppelin/defender-templates"
+
+[[repo]]
+url = "https://github.com/OpenZeppelin/demo-hardhat-deploy-wide-monitoring"
 
 [[repo]]
 url = "https://github.com/OpenZeppelin/discourse-highlightjs-langs"
@@ -98,6 +120,7 @@ url = "https://github.com/OpenZeppelin/ethernaut-leaderboard"
 
 [[repo]]
 url = "https://github.com/OpenZeppelin/EVM-Integration-tests"
+missing = true
 
 [[repo]]
 url = "https://github.com/OpenZeppelin/exploit-uniswap"
@@ -163,6 +186,9 @@ url = "https://github.com/OpenZeppelin/openzeppelin-contracts-docs"
 url = "https://github.com/OpenZeppelin/openzeppelin-contracts-upgradeable"
 
 [[repo]]
+url = "https://github.com/OpenZeppelin/openzeppelin-foundry-upgrades"
+
+[[repo]]
 url = "https://github.com/OpenZeppelin/openzeppelin-gsn-helpers"
 
 [[repo]]
@@ -209,12 +235,17 @@ url = "https://github.com/OpenZeppelin/openzeppelin-whitepaper"
 
 [[repo]]
 url = "https://github.com/OpenZeppelin/openzeppelin.com"
+missing = true
 
 [[repo]]
 url = "https://github.com/OpenZeppelin/openzeppelin.org"
 
 [[repo]]
 url = "https://github.com/OpenZeppelin/oz-devops"
+missing = true
+
+[[repo]]
+url = "https://github.com/OpenZeppelin/polkadot-runtime-template"
 
 [[repo]]
 url = "https://github.com/OpenZeppelin/proposal143"
@@ -229,6 +260,9 @@ url = "https://github.com/OpenZeppelin/research-cryptography"
 url = "https://github.com/OpenZeppelin/resolver-engine"
 
 [[repo]]
+url = "https://github.com/OpenZeppelin/safe-contracts-context"
+
+[[repo]]
 url = "https://github.com/OpenZeppelin/sample-crosschain-env"
 
 [[repo]]
@@ -239,6 +273,10 @@ url = "https://github.com/OpenZeppelin/sandbox-smart-contracts"
 
 [[repo]]
 url = "https://github.com/OpenZeppelin/SCSVS"
+missing = true
+
+[[repo]]
+url = "https://github.com/OpenZeppelin/sgp"
 
 [[repo]]
 url = "https://github.com/OpenZeppelin/slack.openzeppelin.org"
@@ -266,6 +304,7 @@ url = "https://github.com/OpenZeppelin/starter-kit-tutorial"
 
 [[repo]]
 url = "https://github.com/OpenZeppelin/tabookey-gasless"
+missing = true
 
 [[repo]]
 url = "https://github.com/OpenZeppelin/tech-coaching"
@@ -278,6 +317,10 @@ url = "https://github.com/OpenZeppelin/token-vouching"
 
 [[repo]]
 url = "https://github.com/OpenZeppelin/upgrades-safe-app"
+
+[[repo]]
+url = "https://github.com/OpenZeppelin/w3sa-public"
+missing = true
 
 [[repo]]
 url = "https://github.com/OpenZeppelin/web3-gsn-faucet-provider"

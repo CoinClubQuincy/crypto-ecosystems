@@ -17,6 +17,7 @@ url = "https://github.com/fxhash/fxhash-boilerplate"
 
 [[repo]]
 url = "https://github.com/fxhash/fxhash-evm-contracts"
+missing = true
 
 [[repo]]
 url = "https://github.com/fxhash/fxhash-package"
@@ -41,6 +42,9 @@ url = "https://github.com/fxhash/gcloud-functions"
 
 [[repo]]
 url = "https://github.com/fxhash/lambda-extract"
+
+[[repo]]
+url = "https://github.com/fxhash/onchfs"
 
 [[repo]]
 url = "https://github.com/fxhash/otel-tracing"

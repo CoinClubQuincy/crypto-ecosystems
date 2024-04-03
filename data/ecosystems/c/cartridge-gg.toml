@@ -10,6 +10,12 @@ github_organizations = ["https://github.com/cartridge-gg"]
 url = "https://github.com/cartridge-gg/apartment-builder"
 
 [[repo]]
+url = "https://github.com/cartridge-gg/beer-baron"
+
+[[repo]]
+url = "https://github.com/cartridge-gg/cainome"
+
+[[repo]]
 url = "https://github.com/cartridge-gg/cairo-base64"
 
 [[repo]]
@@ -46,6 +52,12 @@ url = "https://github.com/cartridge-gg/contracts"
 url = "https://github.com/cartridge-gg/dataurl"
 
 [[repo]]
+url = "https://github.com/cartridge-gg/dope-world"
+
+[[repo]]
+url = "https://github.com/cartridge-gg/drive-ai"
+
+[[repo]]
 url = "https://github.com/cartridge-gg/enter-the-dojo"
 
 [[repo]]
@@ -53,6 +65,12 @@ url = "https://github.com/cartridge-gg/get-starknet"
 
 [[repo]]
 url = "https://github.com/cartridge-gg/go-starknet"
+
+[[repo]]
+url = "https://github.com/cartridge-gg/hegemony"
+
+[[repo]]
+url = "https://github.com/cartridge-gg/influence-designate-site"
 
 [[repo]]
 url = "https://github.com/cartridge-gg/non-fungible-football"
@@ -68,6 +86,9 @@ url = "https://github.com/cartridge-gg/ryo"
 
 [[repo]]
 url = "https://github.com/cartridge-gg/ryo-bevy"
+
+[[repo]]
+url = "https://github.com/cartridge-gg/slot"
 
 [[repo]]
 url = "https://github.com/cartridge-gg/starknet-indexer"

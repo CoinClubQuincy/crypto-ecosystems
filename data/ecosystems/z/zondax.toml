@@ -1,11 +1,17 @@
+# Ecosystem Level Information
 title = "Zondax"
+
 sub_ecosystems = []
+
 github_organizations = ["https://github.com/Zondax"]
+
+# Repositories
 [[repo]]
 url = "https://github.com/Zondax/.github"
 
 [[repo]]
 url = "https://github.com/Zondax/.obsolete-build"
+missing = true
 
 [[repo]]
 url = "https://github.com/Zondax/.obsolete-hid-go"
@@ -15,54 +21,72 @@ url = "https://github.com/Zondax/.obsolete-ledger-cosmos"
 
 [[repo]]
 url = "https://github.com/Zondax/.obsolete-optee-manifest"
+missing = true
 
 [[repo]]
 url = "https://github.com/Zondax/.obsolete-tee-images"
+missing = true
 
 [[repo]]
 url = "https://github.com/Zondax/.obsolete-tee-manifest"
+missing = true
 
 [[repo]]
 url = "https://github.com/Zondax/.OBSOLETE.bip32-ed25519"
 
 [[repo]]
 url = "https://github.com/Zondax/.OBSOLETE.bs58-rs"
+missing = true
 
 [[repo]]
 url = "https://github.com/Zondax/.OBSOLETE.cbor-js"
+missing = true
 
 [[repo]]
 url = "https://github.com/Zondax/.OBSOLETE.cobra"
+missing = true
 
 [[repo]]
 url = "https://github.com/Zondax/.OBSOLETE.csi-driver"
+missing = true
 
 [[repo]]
 url = "https://github.com/Zondax/.OBSOLETE.dilithium"
+missing = true
 
 [[repo]]
 url = "https://github.com/Zondax/.OBSOLETE.docs-filecoin-api"
+missing = true
 
 [[repo]]
 url = "https://github.com/Zondax/.OBSOLETE.drand-website"
+missing = true
 
 [[repo]]
 url = "https://github.com/Zondax/.OBSOLETE.filecoin-js-utils"
+missing = true
 
 [[repo]]
 url = "https://github.com/Zondax/.OBSOLETE.filecoin-scheduler-bug"
+missing = true
 
 [[repo]]
 url = "https://github.com/Zondax/.OBSOLETE.golibs"
+missing = true
 
 [[repo]]
 url = "https://github.com/Zondax/.OBSOLETE.k3s-test-env"
+missing = true
 
 [[repo]]
 url = "https://github.com/Zondax/abscissa"
+missing = true
 
 [[repo]]
 url = "https://github.com/Zondax/actions-comment"
+
+[[repo]]
+url = "https://github.com/Zondax/agent-go"
 
 [[repo]]
 url = "https://github.com/Zondax/anoma"
@@ -87,6 +111,7 @@ url = "https://github.com/Zondax/bellperson"
 
 [[repo]]
 url = "https://github.com/Zondax/beryx"
+missing = true
 
 [[repo]]
 url = "https://github.com/Zondax/beryx-tools-filecoin"
@@ -108,16 +133,13 @@ url = "https://github.com/Zondax/bls12_381"
 
 [[repo]]
 url = "https://github.com/Zondax/blue-loader-python"
+missing = true
 
 [[repo]]
 url = "https://github.com/Zondax/browser-retrieval"
 
 [[repo]]
 url = "https://github.com/Zondax/bs58-rs"
-
-[[repo]]
-url = "https://github.com/Zondax/build"
-missing = true
 
 [[repo]]
 url = "https://github.com/Zondax/buildroot"
@@ -135,18 +157,17 @@ url = "https://github.com/Zondax/casper-js-sdk"
 url = "https://github.com/Zondax/charts"
 
 [[repo]]
-url = "https://github.com/Zondax/cobra"
-missing = true
-
-[[repo]]
 url = "https://github.com/Zondax/cookie-consent-banner"
 
 [[repo]]
-url = "https://github.com/Zondax/cosmos-sdk"
+url = "https://github.com/Zondax/cosmos-cips"
 
 [[repo]]
-url = "https://github.com/Zondax/csi-driver"
+url = "https://github.com/Zondax/cosmos-rosetta-tool"
 missing = true
+
+[[repo]]
+url = "https://github.com/Zondax/cosmos-sdk"
 
 [[repo]]
 url = "https://github.com/Zondax/curve25519-dalek"
@@ -155,43 +176,57 @@ url = "https://github.com/Zondax/curve25519-dalek"
 url = "https://github.com/Zondax/cxx"
 
 [[repo]]
+url = "https://github.com/Zondax/decaf377"
+
+[[repo]]
+url = "https://github.com/Zondax/decaf377-rdsa"
+
+[[repo]]
 url = "https://github.com/Zondax/deploy-infra-cert-manager"
+missing = true
 
 [[repo]]
 url = "https://github.com/Zondax/deploy-infra-cert-manager-issuer"
+missing = true
 
 [[repo]]
 url = "https://github.com/Zondax/deploy-infra-external-dns"
+missing = true
 
 [[repo]]
 url = "https://github.com/Zondax/deploy-infra-hcloud-ccm"
+missing = true
 
 [[repo]]
 url = "https://github.com/Zondax/deploy-infra-ingress-nginx"
+missing = true
 
 [[repo]]
 url = "https://github.com/Zondax/deploy-infra-kured"
+missing = true
 
 [[repo]]
 url = "https://github.com/Zondax/deploy-infra-monitoring"
+missing = true
 
 [[repo]]
 url = "https://github.com/Zondax/deploy-infra-registry-harbor"
+missing = true
 
 [[repo]]
 url = "https://github.com/Zondax/deploy-infra-storage-class"
+missing = true
 
 [[repo]]
 url = "https://github.com/Zondax/deploy-infra-verdaccio"
+missing = true
 
 [[repo]]
 url = "https://github.com/Zondax/deploy-ubuntu"
+missing = true
 
 [[repo]]
 url = "https://github.com/Zondax/devops-rclone"
-
-[[repo]]
-url = "https://github.com/Zondax/dilithium"
 missing = true
 
 [[repo]]
@@ -216,10 +251,6 @@ url = "https://github.com/Zondax/docker-circleci"
 url = "https://github.com/Zondax/docker-filecoin-trusted-setup"
 
 [[repo]]
-url = "https://github.com/Zondax/docker-rclone"
-missing = true
-
-[[repo]]
 url = "https://github.com/Zondax/docker-rust-ci"
 
 [[repo]]
@@ -229,10 +260,6 @@ url = "https://github.com/Zondax/docker-yocto"
 url = "https://github.com/Zondax/docker-zemu"
 
 [[repo]]
-url = "https://github.com/Zondax/docs-filecoin-api"
-missing = true
-
-[[repo]]
 url = "https://github.com/Zondax/drand"
 
 [[repo]]
@@ -240,6 +267,7 @@ url = "https://github.com/Zondax/ductile"
 
 [[repo]]
 url = "https://github.com/Zondax/ed25519"
+missing = true
 
 [[repo]]
 url = "https://github.com/Zondax/ed25519-dalek"
@@ -255,6 +283,7 @@ url = "https://github.com/Zondax/fevm-solidity-precompiles"
 
 [[repo]]
 url = "https://github.com/Zondax/ff"
+missing = true
 
 [[repo]]
 url = "https://github.com/Zondax/fil-erc20-actor-as"
@@ -293,14 +322,6 @@ url = "https://github.com/Zondax/filecoin-ffi"
 url = "https://github.com/Zondax/filecoin-indexing-rosetta-proxy"
 
 [[repo]]
-url = "https://github.com/Zondax/filecoin-js-utils"
-missing = true
-
-[[repo]]
-url = "https://github.com/Zondax/filecoin-scheduler-bug"
-missing = true
-
-[[repo]]
 url = "https://github.com/Zondax/filecoin-scheduling"
 
 [[repo]]
@@ -320,6 +341,7 @@ url = "https://github.com/Zondax/filecoin-zindexer-shared-types"
 
 [[repo]]
 url = "https://github.com/Zondax/forest"
+missing = true
 
 [[repo]]
 url = "https://github.com/Zondax/fvm-as-bindgen"
@@ -332,19 +354,20 @@ url = "https://github.com/Zondax/fvm-client-tool"
 
 [[repo]]
 url = "https://github.com/Zondax/gaia"
+missing = true
 
 [[repo]]
 url = "https://github.com/Zondax/git-testament"
 
 [[repo]]
 url = "https://github.com/Zondax/go-bitsong"
+missing = true
 
 [[repo]]
 url = "https://github.com/Zondax/golem"
 
 [[repo]]
-url = "https://github.com/Zondax/golibs"
-missing = true
+url = "https://github.com/Zondax/golem-hello-world"
 
 [[repo]]
 url = "https://github.com/Zondax/Grant-Milestone-Delivery"
@@ -354,9 +377,11 @@ url = "https://github.com/Zondax/Grants-Program"
 
 [[repo]]
 url = "https://github.com/Zondax/grin"
+missing = true
 
 [[repo]]
 url = "https://github.com/Zondax/grpc-rust"
+missing = true
 
 [[repo]]
 url = "https://github.com/Zondax/hashes"
@@ -366,6 +391,7 @@ url = "https://github.com/Zondax/hello-rustee"
 
 [[repo]]
 url = "https://github.com/Zondax/helm-charts-1"
+missing = true
 
 [[repo]]
 url = "https://github.com/ZondaX/hid"
@@ -377,13 +403,22 @@ url = "https://github.com/Zondax/hidapi-rs"
 url = "https://github.com/Zondax/honggfuzz"
 
 [[repo]]
+url = "https://github.com/Zondax/ibc-go"
+
+[[repo]]
 url = "https://github.com/Zondax/ibmdotcom-react"
+missing = true
 
 [[repo]]
 url = "https://github.com/Zondax/ic-js"
+missing = true
+
+[[repo]]
+url = "https://github.com/Zondax/icp-client-cpp"
 
 [[repo]]
 url = "https://github.com/Zondax/iov-core"
+missing = true
 
 [[repo]]
 url = "https://github.com/Zondax/izari-filecoin"
@@ -392,14 +427,16 @@ url = "https://github.com/Zondax/izari-filecoin"
 url = "https://github.com/Zondax/izari-tools"
 
 [[repo]]
+url = "https://github.com/Zondax/js-dag-cbor"
+
+[[repo]]
 url = "https://github.com/Zondax/jsmn"
 
 [[repo]]
-url = "https://github.com/Zondax/k3s-test-env"
-missing = true
+url = "https://github.com/Zondax/keyring"
 
 [[repo]]
-url = "https://github.com/Zondax/keyring"
+url = "https://github.com/Zondax/keyringPoc"
 
 [[repo]]
 url = "https://github.com/Zondax/kms"
@@ -421,6 +458,7 @@ url = "https://github.com/Zondax/ledger-algorand"
 
 [[repo]]
 url = "https://github.com/Zondax/ledger-app-btc"
+missing = true
 
 [[repo]]
 url = "https://github.com/Zondax/ledger-app-builder"
@@ -498,6 +536,9 @@ url = "https://github.com/Zondax/ledger-filecoin-js"
 url = "https://github.com/Zondax/ledger-filecoin-rs"
 
 [[repo]]
+url = "https://github.com/Zondax/ledger-flare"
+
+[[repo]]
 url = "https://github.com/ZondaX/ledger-go"
 
 [[repo]]
@@ -555,6 +596,9 @@ url = "https://github.com/Zondax/ledger-matrix-app"
 url = "https://github.com/Zondax/ledger-matrix-js"
 
 [[repo]]
+url = "https://github.com/Zondax/ledger-namada"
+
+[[repo]]
 url = "https://github.com/Zondax/ledger-nodle"
 
 [[repo]]
@@ -579,7 +623,16 @@ url = "https://github.com/Zondax/ledger-phala"
 url = "https://github.com/Zondax/ledger-picasso"
 
 [[repo]]
+url = "https://github.com/Zondax/ledger-plugin-ens"
+
+[[repo]]
+url = "https://github.com/Zondax/ledger-plugin-lens"
+
+[[repo]]
 url = "https://github.com/Zondax/ledger-plugin-rarible"
+
+[[repo]]
+url = "https://github.com/Zondax/ledger-plugin-swell"
 
 [[repo]]
 url = "https://github.com/Zondax/ledger-polkadex"
@@ -640,9 +693,11 @@ url = "https://github.com/Zondax/ledger-tezos"
 
 [[repo]]
 url = "https://github.com/Zondax/ledger-thorchain"
+missing = true
 
 [[repo]]
 url = "https://github.com/Zondax/ledger-thorchain-js"
+missing = true
 
 [[repo]]
 url = "https://github.com/Zondax/ledger-unique"
@@ -672,6 +727,9 @@ url = "https://github.com/Zondax/ledger-zcash"
 url = "https://github.com/Zondax/ledger-zcash-rs"
 
 [[repo]]
+url = "https://github.com/Zondax/ledger-zeitgeist"
+
+[[repo]]
 url = "https://github.com/Zondax/ledger-zxlib"
 
 [[repo]]
@@ -682,6 +740,7 @@ url = "https://github.com/Zondax/legacy-app-tezos"
 
 [[repo]]
 url = "https://github.com/Zondax/lepis-gitops-test"
+missing = true
 
 [[repo]]
 url = "https://github.com/Zondax/libsodium"
@@ -700,6 +759,7 @@ url = "https://github.com/Zondax/lotus"
 
 [[repo]]
 url = "https://github.com/Zondax/magma"
+missing = true
 
 [[repo]]
 url = "https://github.com/Zondax/mayon"
@@ -738,7 +798,11 @@ url = "https://github.com/Zondax/multi-party-sig"
 url = "https://github.com/Zondax/my-fevm-contract"
 
 [[repo]]
+url = "https://github.com/Zondax/namadexer"
+
+[[repo]]
 url = "https://github.com/Zondax/nanos-secure-sdk"
+missing = true
 
 [[repo]]
 url = "https://github.com/Zondax/nanox-secure-sdk"
@@ -751,24 +815,13 @@ url = "https://github.com/Zondax/neptune"
 
 [[repo]]
 url = "https://github.com/Zondax/networks"
+missing = true
 
 [[repo]]
 url = "https://github.com/Zondax/node-cbor"
 
 [[repo]]
 url = "https://github.com/Zondax/oasis-core-ledger"
-
-[[repo]]
-url = "https://github.com/Zondax/OBSOLETE-build"
-missing = true
-
-[[repo]]
-url = "https://github.com/Zondax/OBSOLETE-optee-manifest"
-missing = true
-
-[[repo]]
-url = "https://github.com/Zondax/OBSOLETE-tee-manifest"
-missing = true
 
 [[repo]]
 url = "https://github.com/Zondax/ocl"
@@ -778,9 +831,6 @@ url = "https://github.com/Zondax/oe-manifest"
 
 [[repo]]
 url = "https://github.com/Zondax/Open-Grants-Program"
-
-[[repo]]
-url = "https://github.com/Zondax/optee-manifest"
 missing = true
 
 [[repo]]
@@ -794,12 +844,34 @@ url = "https://github.com/Zondax/parity-scale-codec"
 
 [[repo]]
 url = "https://github.com/Zondax/platform-gitops"
+missing = true
+
+[[repo]]
+url = "https://github.com/Zondax/poc-cosmosjs-textual"
 
 [[repo]]
 url = "https://github.com/Zondax/polkadot"
 
 [[repo]]
+url = "https://github.com/Zondax/Polkadot-conformance-tests"
+
+[[repo]]
 url = "https://github.com/Zondax/polkadot-js-apps"
+
+[[repo]]
+url = "https://github.com/Zondax/polkadot-p2p-testings"
+
+[[repo]]
+url = "https://github.com/Zondax/polkadot-sdk"
+
+[[repo]]
+url = "https://github.com/Zondax/polkadot-spec"
+
+[[repo]]
+url = "https://github.com/Zondax/polkadot-testing"
+
+[[repo]]
+url = "https://github.com/Zondax/polkadot-testing-p2p"
 
 [[repo]]
 url = "https://github.com/Zondax/polkadot-wiki"
@@ -857,6 +929,7 @@ url = "https://github.com/Zondax/schnorrkel"
 
 [[repo]]
 url = "https://github.com/Zondax/sdk-application-tutorial"
+missing = true
 
 [[repo]]
 url = "https://github.com/Zondax/signatory"
@@ -866,6 +939,7 @@ url = "https://github.com/Zondax/slips"
 
 [[repo]]
 url = "https://github.com/Zondax/solana"
+missing = true
 
 [[repo]]
 url = "https://github.com/Zondax/solidity-BigNumber"
@@ -883,6 +957,9 @@ url = "https://github.com/Zondax/stacks-blockchain-api"
 url = "https://github.com/Zondax/stacks.js"
 
 [[repo]]
+url = "https://github.com/Zondax/stakater-application"
+
+[[repo]]
 url = "https://github.com/Zondax/substrate"
 
 [[repo]]
@@ -890,16 +967,13 @@ url = "https://github.com/Zondax/substrate-remote-signer-example"
 
 [[repo]]
 url = "https://github.com/Zondax/tamago"
+missing = true
 
 [[repo]]
 url = "https://github.com/Zondax/tauri-quasar-example"
 
 [[repo]]
 url = "https://github.com/Zondax/tee-base"
-
-[[repo]]
-url = "https://github.com/Zondax/tee-manifest"
-missing = true
 
 [[repo]]
 url = "https://github.com/Zondax/tee-substrate-service"
@@ -909,6 +983,7 @@ url = "https://github.com/Zondax/template-fil-actor-as"
 
 [[repo]]
 url = "https://github.com/Zondax/tendermint"
+missing = true
 
 [[repo]]
 url = "https://github.com/Zondax/testnet-hyperspace"
@@ -929,7 +1004,14 @@ url = "https://github.com/Zondax/ts-results-old"
 url = "https://github.com/Zondax/usbarmory-debian-base_image"
 
 [[repo]]
+url = "https://github.com/Zondax/val-namada-testnets"
+
+[[repo]]
+url = "https://github.com/Zondax/vault-k8s-canister"
+
+[[repo]]
 url = "https://github.com/Zondax/verdaccio"
+missing = true
 
 [[repo]]
 url = "https://github.com/Zondax/wallet-core"
@@ -939,6 +1021,7 @@ url = "https://github.com/Zondax/wallet-core-private"
 
 [[repo]]
 url = "https://github.com/Zondax/weave"
+missing = true
 
 [[repo]]
 url = "https://github.com/Zondax/web-docs-tee"
@@ -948,9 +1031,6 @@ url = "https://github.com/Zondax/web-substrate-diff"
 
 [[repo]]
 url = "https://github.com/Zondax/Web3-collaboration"
-
-[[repo]]
-url = "https://github.com/Zondax/website"
 missing = true
 
 [[repo]]
@@ -975,8 +1055,7 @@ url = "https://github.com/Zondax/zemu-demo"
 url = "https://github.com/Zondax/zindexer"
 
 [[repo]]
-url = "https://github.com/Zondax/zxtestrunner"
+url = "https://github.com/Zondax/znats"
 
 [[repo]]
-url = "https://github.com/Zondax/icp-client-cpp"
-
+url = "https://github.com/Zondax/zxtestrunner"

@@ -7,10 +7,16 @@ github_organizations = ["https://github.com/minswap"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/minswap/ada-delegation"
+
+[[repo]]
 url = "https://github.com/minswap/bigint"
 
 [[repo]]
 url = "https://github.com/minswap/blockfrost-adapter"
+
+[[repo]]
+url = "https://github.com/minswap/cardano-contracts-registry"
 
 [[repo]]
 url = "https://github.com/minswap/cardano-serialization-lib"
@@ -20,6 +26,7 @@ url = "https://github.com/minswap/cardano-token-registry"
 
 [[repo]]
 url = "https://github.com/minswap/contracts"
+missing = true
 
 [[repo]]
 url = "https://github.com/minswap/docs"
@@ -70,10 +77,16 @@ url = "https://github.com/minswap/plutus-optimization-example"
 url = "https://github.com/minswap/private-testnet"
 
 [[repo]]
+url = "https://github.com/minswap/sdk"
+
+[[repo]]
 url = "https://github.com/minswap/tiny-invariant"
 
 [[repo]]
 url = "https://github.com/minswap/verified-tokens"
+
+[[repo]]
+url = "https://github.com/minswap/wallet-connect"
 
 [[repo]]
 url = "https://github.com/minswap/wenbot"

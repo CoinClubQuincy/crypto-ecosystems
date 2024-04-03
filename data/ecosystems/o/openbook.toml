@@ -19,13 +19,25 @@ url = "https://github.com/openbook-dex/openbook-cranker"
 url = "https://github.com/openbook-dex/openbook-dex-ui"
 
 [[repo]]
+url = "https://github.com/openbook-dex/openbook-docs"
+
+[[repo]]
 url = "https://github.com/openbook-dex/openbook-ts"
 
 [[repo]]
 url = "https://github.com/openbook-dex/openbook-v2"
 
 [[repo]]
+url = "https://github.com/openbook-dex/openbook-v2-simulation"
+
+[[repo]]
+url = "https://github.com/openbook-dex/openbook-v2-ui"
+
+[[repo]]
 url = "https://github.com/openbook-dex/program"
 
 [[repo]]
 url = "https://github.com/openbook-dex/resources"
+
+[[repo]]
+url = "https://github.com/openbook-dex/scripts-v2"

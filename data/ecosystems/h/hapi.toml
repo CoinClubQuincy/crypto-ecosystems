@@ -31,6 +31,9 @@ url = "https://github.com/HAPIprotocol/hapi-core-solana"
 url = "https://github.com/HAPIprotocol/hapi-ethereum-proxy-doc"
 
 [[repo]]
+url = "https://github.com/HAPIprotocol/hapi-id-erc721"
+
+[[repo]]
 url = "https://github.com/HAPIprotocol/hapi-near-connector"
 
 [[repo]]
@@ -47,6 +50,12 @@ url = "https://github.com/HAPIprotocol/metamask-snap"
 
 [[repo]]
 url = "https://github.com/HAPIprotocol/near-proxy-contract"
+
+[[repo]]
+url = "https://github.com/HAPIprotocol/PitchTalk"
+
+[[repo]]
+url = "https://github.com/HAPIprotocol/solidity-ui-generator"
 
 [[repo]]
 url = "https://github.com/HAPIprotocol/test-task"

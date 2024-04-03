@@ -22,7 +22,22 @@ url = "https://github.com/farcase/farapps"
 url = "https://github.com/farcasterxyz/.github"
 
 [[repo]]
+url = "https://github.com/farcasterxyz/allowlist-mainnet"
+
+[[repo]]
+url = "https://github.com/farcasterxyz/auth-monorepo"
+
+[[repo]]
+url = "https://github.com/farcasterxyz/connect-monorepo"
+
+[[repo]]
 url = "https://github.com/farcasterxyz/contracts"
+
+[[repo]]
+url = "https://github.com/farcasterxyz/docs"
+
+[[repo]]
+url = "https://github.com/farcasterxyz/fname-registry"
 
 [[repo]]
 url = "https://github.com/farcasterxyz/hub"
@@ -38,6 +53,10 @@ url = "https://github.com/farcasterxyz/protocol"
 
 [[repo]]
 url = "https://github.com/farcasterxyz/rocksdb"
+
+[[repo]]
+url = "https://github.com/farcasterxyz/sds-test"
+missing = true
 
 [[repo]]
 url = "https://github.com/farcasterxyz/www"

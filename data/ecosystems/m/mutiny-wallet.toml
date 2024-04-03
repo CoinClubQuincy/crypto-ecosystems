@@ -11,6 +11,7 @@ url = "https://github.com/MutinyWallet/bdk"
 
 [[repo]]
 url = "https://github.com/MutinyWallet/bip21"
+missing = true
 
 [[repo]]
 url = "https://github.com/MutinyWallet/bitcoin-waila"
@@ -23,6 +24,12 @@ url = "https://github.com/MutinyWallet/electrs"
 
 [[repo]]
 url = "https://github.com/MutinyWallet/ln-websocket-proxy"
+
+[[repo]]
+url = "https://github.com/MutinyWallet/mutiny-data-recovery"
+
+[[repo]]
+url = "https://github.com/MutinyWallet/mutiny-deploy"
 
 [[repo]]
 url = "https://github.com/MutinyWallet/mutiny-net"
@@ -46,10 +53,16 @@ url = "https://github.com/MutinyWallet/mutinynet-faucet"
 url = "https://github.com/MutinyWallet/mutinynet-faucet-rs"
 
 [[repo]]
+url = "https://github.com/MutinyWallet/note-duel-backend"
+
+[[repo]]
 url = "https://github.com/MutinyWallet/rapid-gossip-sync-server"
 
 [[repo]]
 url = "https://github.com/MutinyWallet/rust-lightning"
+
+[[repo]]
+url = "https://github.com/MutinyWallet/vss-rs"
 
 [[repo]]
 url = "https://github.com/MutinyWallet/websocket-proxy"

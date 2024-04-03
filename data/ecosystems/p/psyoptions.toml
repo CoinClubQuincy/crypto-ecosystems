@@ -16,6 +16,9 @@ url = "https://github.com/mithraiclabs/bi-dashboard"
 url = "https://github.com/mithraiclabs/buffer-issues"
 
 [[repo]]
+url = "https://github.com/mithraiclabs/clpcpi"
+
+[[repo]]
 url = "https://github.com/mithraiclabs/DefiLlama-Adapters"
 
 [[repo]]
@@ -41,6 +44,7 @@ url = "https://github.com/mithraiclabs/openbook-psy"
 
 [[repo]]
 url = "https://github.com/mithraiclabs/options-calculator"
+missing = true
 
 [[repo]]
 url = "https://github.com/mithraiclabs/poseidon"
@@ -50,6 +54,7 @@ url = "https://github.com/mithraiclabs/program_associated_account_poc"
 
 [[repo]]
 url = "https://github.com/mithraiclabs/psy-euros"
+missing = true
 
 [[repo]]
 url = "https://github.com/mithraiclabs/psy-fi"
@@ -103,6 +108,12 @@ url = "https://github.com/mithraiclabs/solana-accountsdb-connector"
 url = "https://github.com/mithraiclabs/solana-program-template"
 
 [[repo]]
+url = "https://github.com/mithraiclabs/spellbook"
+
+[[repo]]
+url = "https://github.com/mithraiclabs/spl-governance"
+
+[[repo]]
 url = "https://github.com/mithraiclabs/stake-pool-ui"
 
 [[repo]]
@@ -113,6 +124,9 @@ url = "https://github.com/mithraiclabs/ttp-oracle"
 
 [[repo]]
 url = "https://github.com/mithraiclabs/voter-stake-registry"
+
+[[repo]]
+url = "https://github.com/mithraiclabs/whirlpools"
 
 [[repo]]
 url = "https://github.com/mithraiclabs/yield-server"

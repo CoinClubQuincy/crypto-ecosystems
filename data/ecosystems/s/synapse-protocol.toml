@@ -38,6 +38,7 @@ url = "https://github.com/synapsecns/gqlgenc"
 
 [[repo]]
 url = "https://github.com/synapsecns/interface"
+missing = true
 
 [[repo]]
 url = "https://github.com/synapsecns/joe-core"
@@ -71,6 +72,7 @@ url = "https://github.com/synapsecns/synapse-api"
 
 [[repo]]
 url = "https://github.com/synapsecns/synapse-contracts"
+tags = ["Protocol"]
 
 [[repo]]
 url = "https://github.com/synapsecns/synapse-indexer"

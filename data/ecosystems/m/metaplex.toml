@@ -11,6 +11,7 @@ url = "https://github.com/cideM/metaplex-js-nix-flake"
 
 [[repo]]
 url = "https://github.com/metaplex-foundation/.github"
+missing = true
 
 [[repo]]
 url = "https://github.com/metaplex-foundation/actions"
@@ -53,6 +54,7 @@ url = "https://github.com/metaplex-foundation/cargo-run-bpf-tests"
 
 [[repo]]
 url = "https://github.com/metaplex-foundation/cartera"
+missing = true
 
 [[repo]]
 url = "https://github.com/metaplex-foundation/check-collections"
@@ -70,19 +72,29 @@ url = "https://github.com/metaplex-foundation/compression-read-api-js-examples"
 url = "https://github.com/metaplex-foundation/cusper"
 
 [[repo]]
+url = "https://github.com/metaplex-foundation/dao"
+
+[[repo]]
 url = "https://github.com/metaplex-foundation/deprecated-clis"
 
 [[repo]]
 url = "https://github.com/metaplex-foundation/deprecated-storefront"
 
 [[repo]]
+url = "https://github.com/metaplex-foundation/developer-hub"
+
+[[repo]]
 url = "https://github.com/metaplex-foundation/devops-test"
+missing = true
 
 [[repo]]
 url = "https://github.com/metaplex-foundation/digital-asset-protocol"
 
 [[repo]]
 url = "https://github.com/metaplex-foundation/digital-asset-rpc-infrastructure"
+
+[[repo]]
+url = "https://github.com/metaplex-foundation/digital-asset-standard-api"
 
 [[repo]]
 url = "https://github.com/metaplex-foundation/digital-asset-validator-plugin"
@@ -115,6 +127,12 @@ url = "https://github.com/metaplex-foundation/governance-ui"
 url = "https://github.com/metaplex-foundation/gumdrop"
 
 [[repo]]
+url = "https://github.com/metaplex-foundation/inscription-gateway"
+
+[[repo]]
+url = "https://github.com/metaplex-foundation/inscriptions-ui-mantine"
+
+[[repo]]
 url = "https://github.com/metaplex-foundation/js"
 
 [[repo]]
@@ -125,6 +143,9 @@ url = "https://github.com/metaplex-foundation/js-examples"
 
 [[repo]]
 url = "https://github.com/metaplex-foundation/js-react-native"
+
+[[repo]]
+url = "https://github.com/metaplex-foundation/kaigan"
 
 [[repo]]
 url = "https://github.com/metaplex-foundation/kborsh"
@@ -166,16 +187,25 @@ url = "https://github.com/metaplex-foundation/metaplex-swift-program-library"
 url = "https://github.com/metaplex-foundation/mip"
 
 [[repo]]
+url = "https://github.com/metaplex-foundation/mpl-bubblegum"
+
+[[repo]]
 url = "https://github.com/metaplex-foundation/mpl-candy-guard"
 
 [[repo]]
 url = "https://github.com/metaplex-foundation/mpl-candy-machine"
 
 [[repo]]
+url = "https://github.com/metaplex-foundation/mpl-engraver"
+
+[[repo]]
 url = "https://github.com/metaplex-foundation/mpl-essentials"
 
 [[repo]]
 url = "https://github.com/metaplex-foundation/mpl-hydra"
+
+[[repo]]
+url = "https://github.com/metaplex-foundation/mpl-inscription"
 
 [[repo]]
 url = "https://github.com/metaplex-foundation/mpl-migration-validator"
@@ -200,6 +230,9 @@ url = "https://github.com/metaplex-foundation/mplex"
 
 [[repo]]
 url = "https://github.com/metaplex-foundation/open-rpc-schema-code-generator"
+
+[[repo]]
+url = "https://github.com/metaplex-foundation/podded"
 
 [[repo]]
 url = "https://github.com/metaplex-foundation/pulsar-rs"
@@ -230,6 +263,9 @@ url = "https://github.com/metaplex-foundation/shank-js"
 
 [[repo]]
 url = "https://github.com/metaplex-foundation/solana-accountsdb-connector"
+
+[[repo]]
+url = "https://github.com/metaplex-foundation/solana-kmp"
 
 [[repo]]
 url = "https://github.com/metaplex-foundation/solana-program-library"
@@ -272,6 +308,12 @@ url = "https://github.com/metaplex-foundation/umi"
 
 [[repo]]
 url = "https://github.com/metaplex-foundation/umi-hotline"
+
+[[repo]]
+url = "https://github.com/metaplex-foundation/umi-kmp"
+
+[[repo]]
+url = "https://github.com/metaplex-foundation/umi-uploader-tester"
 
 [[repo]]
 url = "https://github.com/metaplex-foundation/vtlut-110"

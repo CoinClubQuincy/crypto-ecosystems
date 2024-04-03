@@ -11,12 +11,16 @@ url = "https://github.com/snowballmoney/DefiLlama-Adapters"
 
 [[repo]]
 url = "https://github.com/snowballmoney/firestarter-library"
+missing = true
 
 [[repo]]
 url = "https://github.com/snowballmoney/graphql-engine-heroku"
 
 [[repo]]
 url = "https://github.com/snowballmoney/react-native-animated-charts"
+
+[[repo]]
+url = "https://github.com/snowballmoney/react-native-bottom-sheet"
 
 [[repo]]
 url = "https://github.com/snowballmoney/react-native-size-matters"

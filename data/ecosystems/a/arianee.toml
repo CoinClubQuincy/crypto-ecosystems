@@ -25,6 +25,9 @@ url = "https://github.com/Arianee/arianee-private"
 url = "https://github.com/Arianee/arianee-rpc-server"
 
 [[repo]]
+url = "https://github.com/Arianee/arianee-sdk"
+
+[[repo]]
 url = "https://github.com/Arianee/arianee.github.io"
 
 [[repo]]
@@ -82,6 +85,9 @@ url = "https://github.com/Arianee/baiduPush"
 url = "https://github.com/Arianee/blockscout"
 
 [[repo]]
+url = "https://github.com/Arianee/chains"
+
+[[repo]]
 url = "https://github.com/Arianee/contract-metadata"
 
 [[repo]]
@@ -112,6 +118,9 @@ url = "https://github.com/Arianee/docs"
 url = "https://github.com/Arianee/encrypt-config"
 
 [[repo]]
+url = "https://github.com/Arianee/ethereum-optimism.github.io"
+
+[[repo]]
 url = "https://github.com/Arianee/framework"
 
 [[repo]]
@@ -136,6 +145,9 @@ url = "https://github.com/Arianee/liveexplorer"
 url = "https://github.com/Arianee/MultiSigWallet"
 
 [[repo]]
+url = "https://github.com/Arianee/permit721"
+
+[[repo]]
 url = "https://github.com/Arianee/phonegap-nfc"
 
 [[repo]]
@@ -151,7 +163,16 @@ url = "https://github.com/Arianee/poa-chain-spec"
 url = "https://github.com/Arianee/poa-dapps-keys-generation"
 
 [[repo]]
+url = "https://github.com/Arianee/Polygon_Arianee_Supernet"
+
+[[repo]]
 url = "https://github.com/Arianee/react-native-arianee-example"
+
+[[repo]]
+url = "https://github.com/Arianee/safe-deployments"
+
+[[repo]]
+url = "https://github.com/Arianee/safe-wallet-web"
 
 [[repo]]
 url = "https://github.com/Arianee/spkz-metadata"
@@ -179,6 +200,9 @@ url = "https://github.com/Arianee/tokenbridge"
 
 [[repo]]
 url = "https://github.com/Arianee/uat"
+
+[[repo]]
+url = "https://github.com/Arianee/uptime-kuma"
 
 [[repo]]
 url = "https://github.com/Arianee/web3.js"

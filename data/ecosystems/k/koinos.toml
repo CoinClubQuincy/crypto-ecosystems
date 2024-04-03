@@ -25,6 +25,9 @@ url = "https://github.com/koinos/eos-vm"
 url = "https://github.com/koinos/fizzy"
 
 [[repo]]
+url = "https://github.com/koinos/fogata-automatic"
+
+[[repo]]
 url = "https://github.com/koinos/go-prompt"
 
 [[repo]]
@@ -67,6 +70,9 @@ url = "https://github.com/koinos/koinos-claim"
 url = "https://github.com/koinos/koinos-cli"
 
 [[repo]]
+url = "https://github.com/koinos/koinos-cmake"
+
+[[repo]]
 url = "https://github.com/koinos/koinos-contract-examples"
 
 [[repo]]
@@ -83,6 +89,9 @@ url = "https://github.com/koinos/koinos-contracts-as"
 
 [[repo]]
 url = "https://github.com/koinos/koinos-contracts-cpp"
+
+[[repo]]
+url = "https://github.com/koinos/koinos-cpp-dependencies"
 
 [[repo]]
 url = "https://github.com/koinos/koinos-crypto-cpp"
@@ -107,6 +116,9 @@ url = "https://github.com/koinos/koinos-gui-miner"
 
 [[repo]]
 url = "https://github.com/koinos/koinos-integration-tests"
+
+[[repo]]
+url = "https://github.com/koinos/koinos-io-website"
 
 [[repo]]
 url = "https://github.com/koinos/koinos-jsonrpc"
@@ -202,6 +214,9 @@ url = "https://github.com/koinos/koinos-util-cpp"
 url = "https://github.com/koinos/koinos-util-golang"
 
 [[repo]]
+url = "https://github.com/koinos/learnkoinos"
+
+[[repo]]
 url = "https://github.com/koinos/protobuf"
 
 [[repo]]
@@ -209,3 +224,9 @@ url = "https://github.com/koinos/protobuf-go"
 
 [[repo]]
 url = "https://github.com/koinos/secp256k1-vrf"
+
+[[repo]]
+url = "https://github.com/koinos/todos"
+
+[[repo]]
+url = "https://github.com/koinos/todos-front-end"

@@ -28,6 +28,9 @@ url = "https://github.com/mars-protocol/chain-registry"
 url = "https://github.com/mars-protocol/changelog"
 
 [[repo]]
+url = "https://github.com/mars-protocol/contracts"
+
+[[repo]]
 url = "https://github.com/mars-protocol/cosmodal"
 
 [[repo]]
@@ -50,6 +53,9 @@ url = "https://github.com/mars-protocol/docs"
 
 [[repo]]
 url = "https://github.com/mars-protocol/faucet"
+
+[[repo]]
+url = "https://github.com/mars-protocol/frontend-config"
 
 [[repo]]
 url = "https://github.com/mars-protocol/hub"
@@ -116,6 +122,13 @@ url = "https://github.com/mars-protocol/red-bank"
 
 [[repo]]
 url = "https://github.com/mars-protocol/red-bank-NMO"
+missing = true
+
+[[repo]]
+url = "https://github.com/mars-protocol/redbank-incentives-calculation"
+
+[[repo]]
+url = "https://github.com/mars-protocol/rover"
 
 [[repo]]
 url = "https://github.com/mars-protocol/slips"

@@ -52,6 +52,9 @@ url = "https://github.com/taurusgroup/frost-ed25519"
 url = "https://github.com/taurusgroup/go-ethereum"
 
 [[repo]]
+url = "https://github.com/taurusgroup/go-ethereum-pocr"
+
+[[repo]]
 url = "https://github.com/taurusgroup/go-ethereumpow"
 
 [[repo]]
@@ -68,6 +71,12 @@ url = "https://github.com/taurusgroup/ltcd"
 
 [[repo]]
 url = "https://github.com/taurusgroup/multi-party-sig"
+
+[[repo]]
+url = "https://github.com/taurusgroup/near-lake-indexer"
+
+[[repo]]
+url = "https://github.com/taurusgroup/promptui"
 
 [[repo]]
 url = "https://github.com/taurusgroup/pulsar-client-go"

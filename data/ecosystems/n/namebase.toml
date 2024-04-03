@@ -52,6 +52,9 @@ url = "https://github.com/namebasehq/gitbook-learning-center"
 url = "https://github.com/namebasehq/handover"
 
 [[repo]]
+url = "https://github.com/namebasehq/handshake-contracts"
+
+[[repo]]
 url = "https://github.com/namebasehq/Handshake-Extension"
 
 [[repo]]
@@ -71,6 +74,9 @@ url = "https://github.com/namebasehq/hdns"
 
 [[repo]]
 url = "https://github.com/namebasehq/helm"
+
+[[repo]]
+url = "https://github.com/namebasehq/hns-id-subgraph"
 
 [[repo]]
 url = "https://github.com/namebasehq/hnsd"
@@ -101,6 +107,7 @@ url = "https://github.com/namebasehq/namebase-types"
 
 [[repo]]
 url = "https://github.com/namebasehq/namer-news-frontend-svelte-poc"
+missing = true
 
 [[repo]]
 url = "https://github.com/namebasehq/nodejs-skynet"

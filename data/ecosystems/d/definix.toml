@@ -109,6 +109,21 @@ url = "https://github.com/thesixnetwork/ethermint"
 url = "https://github.com/thesixnetwork/ethers.js"
 
 [[repo]]
+url = "https://github.com/thesixnetwork/example_webview"
+
+[[repo]]
+url = "https://github.com/thesixnetwork/Gen2-Instruction"
+
+[[repo]]
+url = "https://github.com/thesixnetwork/gen2-schema-studio"
+
+[[repo]]
+url = "https://github.com/thesixnetwork/GEN2-studio"
+
+[[repo]]
+url = "https://github.com/thesixnetwork/go-ethereum"
+
+[[repo]]
 url = "https://github.com/thesixnetwork/graphic"
 
 [[repo]]
@@ -118,7 +133,13 @@ url = "https://github.com/thesixnetwork/Gravity-Bridge"
 url = "https://github.com/thesixnetwork/hid"
 
 [[repo]]
+url = "https://github.com/thesixnetwork/ibc-go"
+
+[[repo]]
 url = "https://github.com/thesixnetwork/indy-sdk"
+
+[[repo]]
+url = "https://github.com/thesixnetwork/keplr-chain-registry"
 
 [[repo]]
 url = "https://github.com/thesixnetwork/keplr-wallet"
@@ -137,6 +158,10 @@ url = "https://github.com/thesixnetwork/ledger-go"
 
 [[repo]]
 url = "https://github.com/thesixnetwork/protocol"
+missing = true
+
+[[repo]]
+url = "https://github.com/thesixnetwork/public-images"
 
 [[repo]]
 url = "https://github.com/thesixnetwork/react-native-copilot"
@@ -179,6 +204,12 @@ url = "https://github.com/thesixnetwork/sixnft"
 
 [[repo]]
 url = "https://github.com/thesixnetwork/sixscan-explorer"
+
+[[repo]]
+url = "https://github.com/thesixnetwork/sixscan-frontend"
+
+[[repo]]
+url = "https://github.com/thesixnetwork/slips"
 
 [[repo]]
 url = "https://github.com/thesixnetwork/stellarterm"

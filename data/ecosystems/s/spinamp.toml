@@ -7,7 +7,16 @@ github_organizations = ["https://github.com/spinamp"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/spinamp/api-utils"
+
+[[repo]]
 url = "https://github.com/spinamp/ethereum-blocks"
+
+[[repo]]
+url = "https://github.com/spinamp/modal-react-native"
+
+[[repo]]
+url = "https://github.com/spinamp/pychorus"
 
 [[repo]]
 url = "https://github.com/spinamp/react-native-fast-image"
@@ -23,6 +32,9 @@ url = "https://github.com/spinamp/spinamp_bot"
 
 [[repo]]
 url = "https://github.com/spinamp/spindexer"
+
+[[repo]]
+url = "https://github.com/spinamp/walletconnect-react-native"
 
 [[repo]]
 url = "https://github.com/spinamp/web3-music-pipeline"
